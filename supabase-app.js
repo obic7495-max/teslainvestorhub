@@ -106,9 +106,11 @@
           <input id="tih-name" type="text"
             placeholder="Your name (for new accounts)"
             autocomplete="name">
+
           <input id="tih-email" type="email"
             placeholder="Email address"
             autocomplete="email" required>
+
           <input id="tih-password" type="password"
             placeholder="Password (at least 6 characters)"
             autocomplete="current-password"
@@ -117,9 +119,11 @@
           <button class="tih-primary" type="submit" id="tih-submit">
             Sign in
           </button>
+
           <button type="button" id="tih-switch">
             Create an account
           </button>
+
           <button type="button" id="tih-close">Close</button>
         </form>
 
@@ -142,16 +146,19 @@
       heading.textContent = creatingAccount
         ? 'Create your account'
         : 'Welcome back';
-      submit.textContent = creatingAccount
-        ? 'Sign up'
-        : 'Sign in';
+
+      submit.textContent = creatingAccount ? 'Sign up' : 'Sign in';
+
       switchButton.textContent = creatingAccount
         ? 'I already have an account'
         : 'Create an account';
+
       name.style.display = creatingAccount ? 'block' : 'none';
+
       password.autocomplete = creatingAccount
         ? 'new-password'
         : 'current-password';
+
       status.textContent = '';
     }
 
@@ -207,8 +214,12 @@
           if (result.error) throw result.error;
 
           status.textContent = 'Signed in successfully!';
+
+          currentUser = result.data.user;
+
           await loadProfile();
           await loadMessages();
+
           setTimeout(function () {
             backdrop.remove();
           }, 1000);
@@ -242,9 +253,7 @@
       return;
     }
 
-    const profile = result.data;
-
-    if (!profile) {
+    if (!result.data) {
       const inserted = await db.from('profiles').insert({
         id: currentUser.id,
         display_name: name
@@ -256,6 +265,7 @@
     }
 
     const status = get('tih-account-status');
+
     if (status) {
       status.textContent = 'Signed in as ' + currentUser.email;
     }
@@ -277,7 +287,8 @@
     }
 
     if (!result.data || result.data.length === 0) {
-      feed.innerHTML = '<p>No community messages yet. Be the first to post!</p>';
+      feed.innerHTML =
+        '<p>No community messages yet. Be the first to post!</p>';
       return;
     }
 
@@ -288,10 +299,10 @@
       article.className = 'tih-message';
 
       const title = document.createElement('strong');
-      title.textContent = message.title || 'Community message';
+      title.textContent = message.display_name || 'Member';
 
       const body = document.createElement('p');
-      body.textContent = message.body || message.content || '';
+      body.textContent = message.message || '';
 
       const meta = document.createElement('small');
       meta.textContent = message.created_at
@@ -319,10 +330,7 @@
         return;
       }
 
-      const titleInput = get('postTitle');
       const bodyInput = get('postBody');
-
-      const title = titleInput ? titleInput.value.trim() : '';
       const body = bodyInput ? bodyInput.value.trim() : '';
 
       if (!body) {
@@ -330,10 +338,15 @@
         return;
       }
 
+      const displayName =
+        currentUser.user_metadata?.display_name ||
+        currentUser.email?.split('@')[0] ||
+        'Member';
+
       const result = await db.from('community_messages').insert({
         user_id: currentUser.id,
-        title: title || 'Community message',
-        body: body
+        display_name: displayName,
+        message: body
       });
 
       if (result.error) {
