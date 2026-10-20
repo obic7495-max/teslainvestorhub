@@ -1,0 +1,15 @@
+AUDIT NOTES — REVIEW OF THE EXISTING TESLAINVESTORHUB REPOSITORY
+
+High-priority finding fixed in this update:
+The old front-end requested count=50 from rss2json.com without providing an API key. rss2json's own API documentation says an API key is required for the count parameter, so the old version could return the default number rather than 50. This update removes that dependency and uses a scheduled GitHub Action to build the feed cache.
+
+Usability finding fixed:
+The mobile bottom navigation hid the Tesla Live, Photos & Videos and Investor Academy sections because the sidebar is hidden on narrow screens. The new More page makes these features accessible from mobile.
+
+Other important checks before calling the site production-ready:
+1. Supabase security: inspect grants and RLS policies for every public-schema table; RLS policies and SQL grants are separate controls. Never put a Supabase secret/service-role key in front-end files.
+2. Account lifecycle: add/test forgotten-password recovery, sign-out and correct Supabase redirect URLs. The currently inspected auth UI covered sign-in/sign-up but did not expose recovery or sign-out controls.
+3. Community moderation: the database contains report/block tables, but the current page does not provide a complete report/block/admin-moderation workflow. Add rules for spam/abuse and a moderation plan before public launch.
+4. Trading data: describe it as interactive market charts and make clear that realtime/delayed data availability depends on the provider and exchange. A chart embed is not an executable trading platform.
+5. Legal/support: choose a real business contact email and publish full privacy/terms pages before collecting a broader public audience. The new page only provides a plain-language privacy note, not formal legal advice.
+6. Testing: open the published site on a phone and desktop; test signup, email confirmation, sign-in, session persistence, community read/post, theme switching, all nav destinations, each market symbol, article links and the first scheduled news workflow run.

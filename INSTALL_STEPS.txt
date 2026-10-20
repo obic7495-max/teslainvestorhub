@@ -1,0 +1,15 @@
+EASY INSTALL CHECKLIST
+
+You need to add 4 site files to GitHub. Keep your Supabase files.
+
+1. Replace index.html in the repository root with the index.html in this package.
+2. Add news.json in the repository root.
+3. Add scripts/update_news.py in the scripts folder.
+4. Add .github/workflows/update-news.yml in the .github/workflows folder.
+5. Commit the changes to the main branch.
+6. In GitHub, open Actions > Refresh TeslaInvestorHub news > Run workflow.
+7. When the workflow succeeds, open the site and refresh it.
+
+The .github directory is hidden on some Android file managers. If it does not appear after extracting the ZIP, you may need to create `.github` and `workflows` as directories on GitHub directly and add update-news.yml there.
+
+Do not delete or replace supabase-config.js, supabase-app.js, or supabase-setup.sql.
