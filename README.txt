@@ -1,22 +1,27 @@
-TESLAINVESTORHUB STARTER APP
+TESLA INVESTOR HUB — WEBSITE UPGRADE
 
-Files:
-- index.html: responsive website/app interface, light mode default, optional dark mode
-- manifest.json: installable web app metadata
-- sw.js: basic offline caching service worker
-- icon.svg: app icon
+This package contains a replacement index.html with:
+- Responsive mobile-friendly layout and light/dark theme
+- Home dashboard and TradingView ticker tape
+- TradingView interactive charts and market pairs: TSLA, NVDA, AAPL, S&P 500, Nasdaq 100, FTSE 100, Nikkei 225, BTC/USDT, ETH/USDT, EUR/USD, GBP/USD, USD/JPY, USD/NGN, Gold, Silver, WTI Oil
+- Tesla stock chart and official investor relations links
+- Model 3, Model Y, Model S, Model X, Cybertruck and Roadster information links
+- Official Tesla inventory/order links and scam-prevention guidance
+- Live news searches for Tesla, EVs, Elon Musk, SpaceX, xAI, Neuralink and global markets
+- Photo/video page, official Tesla YouTube link, community page hooks, account page, investor education
 
-PUBLISH TO GITHUB PAGES:
-1. Open https://github.com/obic7495-max/teslainvestorhub
-2. Open the repository and choose Add file > Upload files.
-3. Upload index.html, manifest.json, sw.js, and icon.svg into the repository root (not inside a subfolder).
-4. Commit the changes to the main branch.
-5. In Settings > Pages, set source to Deploy from a branch, branch main, folder /(root), then Save.
-6. Wait for deployment, then open https://obic7495-max.github.io/teslainvestorhub/
+IMPORTANT: This is an update package, not a full repository backup. Keep your existing supabase-config.js, supabase-app.js, SQL/setup files and other assets. The account/chat features still depend on your Supabase configuration, tables and security policies. This package does not create a working backend by itself.
 
-APP INSTALL:
-After the site is published over HTTPS, open it in a supported browser and choose Install app / Add to Home screen. On iPhone, use Safari > Share > Add to Home Screen. If building a Play Store or App Store app, further packaging, testing, privacy disclosures, and store accounts are needed.
+HOW TO INSTALL FROM ANDROID:
+1. Extract the ZIP.
+2. Open https://github.com/obic7495-max/teslainvestorhub and sign in.
+3. Open index.html in the repository.
+4. Tap the pencil/Edit icon.
+5. Replace all existing contents with the complete contents of the included index.html.
+6. Tap Commit changes.
+7. Wait for GitHub Pages to publish, then open https://obic7495-max.github.io/teslainvestorhub/ .
 
-IMPORTANT LIMITATIONS:
-This is a front-end starter, not a finished financial-services platform. User profile, watchlist, saved items, posts, learning progress and partner drafts are stored locally in the current browser only. They are not shared across users/devices. Sign-in is a preview only. Payments, recurring billing, real-time stock quotes, public chat, email, and secure premium content are NOT connected. Never put secret API keys in front-end code. Add a secure backend, authentication, payment verification/webhooks, privacy policy, terms, refund process, and test thoroughly before accepting payments.
-Chart/market figures are illustrative, not live data. Educational content only; not investment advice. TeslaInvestorHub is not affiliated with or endorsed by Tesla, Inc.
+If you cannot see the pencil/edit icon or the file is too large to edit on mobile, stop and tell ChatGPT what buttons you can see. Do not delete other files.
+
+DATA AND CONTENT NOTES:
+TradingView supplies the charts. Real-time/delayed status and symbol availability depend on exchange/provider permissions; USD/NGN may not be available in all regions. No trading orders are placed by this site. Prices/specifications change; check Tesla's official site. Photos are illustrative third-party images and may not show exact Tesla models. The video embed may be blocked by some browsers; the official Tesla YouTube link is included. News links open live searches and are not invented headlines. TeslaInvestorHub is independent and is not affiliated with Tesla, Inc.
