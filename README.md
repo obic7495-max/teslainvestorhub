@@ -1,15 +1,24 @@
-# TeslaInvestorHub
+# TeslaInvestorHub Community App Upgrade
 
-Updated starter website with light/dark modes, research sections, installable-web-app metadata, online account integration, private cross-device workspace sync and shared member chat.
+A responsive social community web app for EV enthusiasts, with a professional feed UI, Supabase-backed interactions, market charts, a vehicle-photo gallery, news, private messaging, notifications and PWA support.
 
-## Start here
+## Feature inventory
 
-Read **[DEPLOYMENT_GUIDE.md](DEPLOYMENT_GUIDE.md)** before publishing. Real online accounts and shared chat will remain disabled until you connect your own Supabase project, run `supabase-setup.sql`, and fill in `supabase-config.js`.
+- **Social:** feed, photo posts, stories that expire after 24 hours, likes, comments, follows, saved posts, sharing, post reporting and notifications.
+- **Accounts:** sign up, sign in, password reset, public handle, display name, avatar URL and bio.
+- **Private messaging:** member lookup by handle/name, conversation list, thread and read receipts.
+- **Community:** member chat with delete-own-message handling.
+- **EV/markets:** vehicle cards, a Wikimedia Commons photo gallery with licence/source credits, TradingView charts, news categories and educational links.
+- **Product polish:** mobile bottom navigation, responsive sidebar, dark/light theme, keyboard-friendly controls and PWA installation assets.
 
-## Important security notes
+## Dependencies
 
-- Keep Row Level Security enabled in Supabase.
-- Only put the Project URL and public publishable/anon key in `supabase-config.js`. Never put a service-role or secret key into browser code.
-- This package does not create or connect your Supabase account, purchase a domain, or deploy the website. Those steps require the owner to sign in to the provider dashboards.
-- The included rate limiter is a basic spam safeguard, not complete moderation. A human moderator still needs to review reports. Workspace sync is opt-in; when pressed, it uploads the local watchlist, draft posts, saved articles, lesson progress and display name (not the local email field).
-- This is an educational research website, not an investment adviser. Do not accept subscriptions until payments and paid-access controls have been implemented and tested.
+This is a static GitHub Pages frontend. It loads Supabase JS v2 from jsDelivr, the project's existing `supabase-config.js`, TradingView embeds and Wikimedia Commons media. Supabase provides authentication, PostgreSQL and object storage.
+
+## Required setup
+
+Run `social-hub-setup.sql` in the configured Supabase project's SQL Editor. Then publish the root files described in `INSTALL.txt`. The upload ZIP is not a deployment by itself.
+
+## Important limitations
+
+The app does not create users or audience automatically, verify car listings, or guarantee that third-party feeds and charts will always be available. The owner must promote and moderate the community, maintain the Supabase project, review legal text, and test the live deployment. Never publish a Supabase service-role key.

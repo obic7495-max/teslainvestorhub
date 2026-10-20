@@ -1,30 +1,72 @@
-TeslaInvestorHub Autonomous Upgrade
+TESLAINVESTORHUB — COMMUNITY APP UPGRADE
+========================================
 
-Files in this package:
-- index.html: redesigned mobile-first home page, real vehicle photo credits, model/order links, live charts, news preview and up-to-50-photo Commons gallery.
-- supabase-app.js: account sign-up/sign-in, email password reset, password update after reset, sign-out, profile setup and community chat.
-- .github/workflows/update-news.yml: refreshes news.json hourly and when the site/news updater is changed; can also be run manually in GitHub Actions.
-- privacy.html and terms.html: starter transparency pages; the site operator should review/update them, add a monitored business contact email, and confirm legal requirements.
+WHAT THIS UPGRADE ADDS
+----------------------
+- A polished, mobile-first social feed inspired by familiar community apps.
+- Public member profiles with display names, handles, avatar URLs and bios.
+- Sign in, create-account and password-reset flows powered by the existing Supabase project.
+- Photo posts, comments, likes, follows, saved posts, post reporting and share links.
+- 24-hour photo stories.
+- Private member-to-member messaging and in-app activity notifications.
+- Community group chat, EV model gallery, market charts, news desk, light/dark mode and installable PWA shell.
+- Security-focused Supabase Row Level Security policies and storage limits.
 
-The existing repository files supabase-config.js, news.json and scripts/update_news.py must remain in the repository. This index.html uses those files and retains the existing Supabase project configuration. Replace supabase-app.js with the included updated version for the password-recovery and sign-out controls to work.
+IMPORTANT: THIS ZIP IS A PREPARED UPGRADE, NOT A LIVE DEPLOYMENT
+----------------------------------------------------------------
+The files in this ZIP have not been committed to GitHub automatically. Your existing website will not change until the files are uploaded to your repository. Uploading this ZIP itself to GitHub will NOT extract it.
 
-Installation:
-1. Back up the current index.html and .github/workflows/update-news.yml.
-2. In GitHub, replace index.html with this package's index.html.
-3. Replace supabase-app.js with the included updated version. Keep your existing supabase-config.js unchanged.
-4. Upload privacy.html and terms.html to the repository root.
-5. Replace .github/workflows/update-news.yml with the file in this package, keeping its folder path exactly .github/workflows/update-news.yml.
-6. Commit changes on main.
-7. Open the repository Actions tab and check the “Update TeslaInvestorHub News” workflow. A successful run should set generatedAt and populate news.json; GitHub Pages then redeploys. The workflow runs hourly, on changes to the site or updater, and can be started manually.
+FILES TO PUT IN THE ROOT OF YOUR WEBSITE REPOSITORY
+--------------------------------------------------
+Replace existing index.html with this package's index.html.
+Add/replace these root files:
+  social-hub.js
+  supabase-config.js
+  manifest.webmanifest
+  service-worker.js
+  app-icon.svg
+  app-icon-192.png
+  app-icon-512.png
+  privacy.html
+  terms.html
 
-Real Tesla photos:
-The site uses Wikimedia Commons photographs. Each model card shows an attribution and licence link. The gallery searches Commons automatically and displays author/source/licence details. If Commons is unavailable, gallery loading may be temporarily incomplete.
+Keep these existing root/repository files:
+  contact.html                (the Zangi order/contact page)
+  news.json                   (used by the news desk)
+  scripts/update_news.py      (automatic news updater)
+  .github/workflows/          (scheduled news workflow)
+  all other existing project files unless you intentionally change them
 
-Ordering:
-Order buttons send users to official Tesla web pages. This independent site does not itself sell cars or receive payments.
+DATABASE SETUP — REQUIRED ONCE FOR SOCIAL FEATURES
+--------------------------------------------------
+1. Open the Supabase dashboard for the project already configured in supabase-config.js.
+2. Open SQL Editor and choose New query.
+3. Open social-hub-setup.sql from this ZIP, copy all its SQL, paste it into the query editor, and click Run.
+4. Wait for the query to finish. If Supabase returns an error, stop and inspect the first error before retrying.
+5. Open Authentication -> URL Configuration and make sure the deployed app URL is an allowed Site URL / Redirect URL, for example:
+   https://obic7495-max.github.io/teslainvestorhub/
+6. Confirm email sign-up works. If confirmation is enabled, new members need to click the email confirmation link before signing in.
 
-Telegram:
-A Telegram button is intentionally not assigned to a guessed number. Add the correct public Telegram @username or exact t.me link after confirming it. The existing Zangi ID remains separately labelled.
+SECURITY NOTES
+--------------
+- The included Supabase key is a publishable/anon-style browser key, not a service-role key. Never put a service_role or secret key in website files.
+- The SQL setup keeps RLS enabled for social tables. Do not remove its policies to get around an error.
+- Post and story images are public by design so visitors can view them. Only upload images you are allowed to share.
+- Direct messages are restricted to their two participants by RLS. The interface does not promise end-to-end encryption.
+- Test sign-up, photo upload, likes, comments, reports, private messages and sign-out using two test accounts before public promotion.
 
+ANDROID / GITHUB PUBLISHING
+---------------------------
+1. Download this ZIP and extract it in your Android Files app.
+2. Open https://github.com/obic7495-max/teslainvestorhub in Chrome and sign in.
+3. Open Add file -> Upload files. Select the extracted root-level files listed above. GitHub can upload several files in one commit; replace index.html and add the new files. Do not upload the ZIP itself.
+4. Commit the changes to the main branch.
+5. Wait for GitHub Pages to report a successful build, then open https://obic7495-max.github.io/teslainvestorhub/ in Chrome and refresh.
+6. Run the database SQL from step 3 above, then create a test account and try the features.
 
-ORDER BUTTON CHANGE: The homepage order/enquiry buttons now lead to contact.html and display Zangi ID 1371586284. Zangi does not provide public account lookup, so customers must open Zangi and add/search this private number inside the app. Confirm the ID is correct before publishing.
+TRUST AND GROWTH
+----------------
+- The site is an independent community, not Tesla's official website and not endorsed by Tesla, Inc.
+- The included car photographs are illustrative. They do not prove that any car is available or owned by the operator.
+- Do not advertise a real user count before people join. Invite friends, publish useful original content, moderate reports, and verify any vehicle offer before accepting money.
+- The starter privacy/terms pages require review for your actual business and local legal obligations before public launch.

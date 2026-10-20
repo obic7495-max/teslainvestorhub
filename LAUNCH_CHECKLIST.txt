@@ -1,0 +1,17 @@
+LAUNCH CHECKLIST — DO THIS BEFORE SHARING THE WEBSITE WIDELY
+
+[ ] Upload the new index.html and every companion file listed in INSTALL.txt to the GitHub Pages repository.
+[ ] Run social-hub-setup.sql in Supabase SQL Editor and confirm it completes without errors.
+[ ] In Supabase Authentication URL Configuration, add the exact production website URL and its redirect path.
+[ ] Create a fresh test account, confirm its email if required, sign in, and sign out.
+[ ] Update the test profile; check the chosen public handle and avatar URL display correctly.
+[ ] Publish a text post, a photo post, a story, a comment, a like, a follow, and a saved post.
+[ ] Use two test accounts to verify that private messages are visible only to the sender and recipient.
+[ ] Verify that an ordinary visitor can browse public posts but cannot create, edit, delete, or save them without signing in.
+[ ] Submit a test report and confirm it appears in the social_reports table for the reporter. Set a regular moderation process before public launch.
+[ ] Test layout on a real Android phone, with both light and dark mode.
+[ ] Check the Photos & Vehicles page on mobile and ensure image sources/licences open correctly.
+[ ] Check Actions -> Update TeslaInvestorHub News and confirm news.json contains dated headlines. The existing scheduled updater has had failed runs, so don't assume this part works until tested.
+[ ] Review privacy.html and terms.html with someone knowledgeable about the laws that apply to your operation.
+[ ] Before publishing car listings, independently confirm seller identity, ownership, VIN, condition, availability, purchase terms and any import/registration details. Do not represent this site as Tesla's official store.
+[ ] Invite a small group of genuine early members, encourage complete profiles and useful posts, and moderate harmful or misleading content.
