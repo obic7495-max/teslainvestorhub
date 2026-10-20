@@ -1,27 +1,20 @@
-TESLA INVESTOR HUB — WEBSITE UPGRADE
+TESLAINVESTORHUB WEBSITE UPDATE — 50 STORIES PER CATEGORY
 
-This package contains a replacement index.html with:
-- Responsive mobile-friendly layout and light/dark theme
-- Home dashboard and TradingView ticker tape
-- TradingView interactive charts and market pairs: TSLA, NVDA, AAPL, S&P 500, Nasdaq 100, FTSE 100, Nikkei 225, BTC/USDT, ETH/USDT, EUR/USD, GBP/USD, USD/JPY, USD/NGN, Gold, Silver, WTI Oil
-- Tesla stock chart and official investor relations links
-- Model 3, Model Y, Model S, Model X, Cybertruck and Roadster information links
-- Official Tesla inventory/order links and scam-prevention guidance
-- Live news searches for Tesla, EVs, Elon Musk, SpaceX, xAI, Neuralink and global markets
-- Photo/video page, official Tesla YouTube link, community page hooks, account page, investor education
+This package contains an updated index.html with a live news desk. It provides 12 categories, each designed to load up to 50 recent headlines (up to 600 across all categories). Headlines are fetched when a category is opened or Refresh is tapped, rather than displaying 600 static/fabricated stories.
 
-IMPORTANT: This is an update package, not a full repository backup. Keep your existing supabase-config.js, supabase-app.js, SQL/setup files and other assets. The account/chat features still depend on your Supabase configuration, tables and security policies. This package does not create a working backend by itself.
+Categories: Tesla/TSLA, Bitcoin/crypto, Elon Musk, SpaceX/Starlink, xAI/AI, Neuralink, EVs/batteries, Robotaxi/Optimus, Tesla models/Cybertruck, global stock markets, gold/oil/forex, and recalls/safety.
 
-HOW TO INSTALL FROM ANDROID:
-1. Extract the ZIP.
-2. Open https://github.com/obic7495-max/teslainvestorhub and sign in.
-3. Open index.html in the repository.
-4. Tap the pencil/Edit icon.
-5. Replace all existing contents with the complete contents of the included index.html.
-6. Tap Commit changes.
-7. Wait for GitHub Pages to publish, then open https://obic7495-max.github.io/teslainvestorhub/ .
+IMPORTANT LIMITATIONS
+- The actual number returned depends on the current feed results and public feed service availability. Some categories may return fewer than 50.
+- Direct feed loading uses Google News RSS via rss2json.com. If the service is unavailable, the page provides a Google News live-search fallback.
+- This package has NOT been uploaded to GitHub automatically.
+- Replace ONLY the repository's index.html. Keep supabase-config.js, supabase-app.js, supabase-setup.sql and all other existing files.
 
-If you cannot see the pencil/edit icon or the file is too large to edit on mobile, stop and tell ChatGPT what buttons you can see. Do not delete other files.
+HOW TO APPLY
+1. Extract the ZIP file.
+2. Open https://github.com/obic7495-max/teslainvestorhub
+3. Replace only index.html with this package's index.html.
+4. Commit/save the change.
+5. Wait for GitHub Pages to publish, then refresh https://obic7495-max.github.io/teslainvestorhub/.
 
-DATA AND CONTENT NOTES:
-TradingView supplies the charts. Real-time/delayed status and symbol availability depend on exchange/provider permissions; USD/NGN may not be available in all regions. No trading orders are placed by this site. Prices/specifications change; check Tesla's official site. Photos are illustrative third-party images and may not show exact Tesla models. The video embed may be blocked by some browsers; the official Tesla YouTube link is included. News links open live searches and are not invented headlines. TeslaInvestorHub is independent and is not affiliated with Tesla, Inc.
+News is for information only, not investment advice. TeslaInvestorHub is independent and not affiliated with Tesla, Inc.
