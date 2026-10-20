@@ -1,0 +1,27 @@
+TeslaInvestorHub Autonomous Upgrade
+
+Files in this package:
+- index.html: redesigned mobile-first home page, real vehicle photo credits, model/order links, live charts, news preview and up-to-50-photo Commons gallery.
+- supabase-app.js: account sign-up/sign-in, email password reset, password update after reset, sign-out, profile setup and community chat.
+- .github/workflows/update-news.yml: refreshes news.json hourly and when the site/news updater is changed; can also be run manually in GitHub Actions.
+- privacy.html and terms.html: starter transparency pages; the site operator should review/update them, add a monitored business contact email, and confirm legal requirements.
+
+The existing repository files supabase-config.js, news.json and scripts/update_news.py must remain in the repository. This index.html uses those files and retains the existing Supabase project configuration. Replace supabase-app.js with the included updated version for the password-recovery and sign-out controls to work.
+
+Installation:
+1. Back up the current index.html and .github/workflows/update-news.yml.
+2. In GitHub, replace index.html with this package's index.html.
+3. Replace supabase-app.js with the included updated version. Keep your existing supabase-config.js unchanged.
+4. Upload privacy.html and terms.html to the repository root.
+5. Replace .github/workflows/update-news.yml with the file in this package, keeping its folder path exactly .github/workflows/update-news.yml.
+6. Commit changes on main.
+7. Open the repository Actions tab and check the “Update TeslaInvestorHub News” workflow. A successful run should set generatedAt and populate news.json; GitHub Pages then redeploys. The workflow runs hourly, on changes to the site or updater, and can be started manually.
+
+Real Tesla photos:
+The site uses Wikimedia Commons photographs. Each model card shows an attribution and licence link. The gallery searches Commons automatically and displays author/source/licence details. If Commons is unavailable, gallery loading may be temporarily incomplete.
+
+Ordering:
+Order buttons send users to official Tesla web pages. This independent site does not itself sell cars or receive payments.
+
+Telegram:
+A Telegram button is intentionally not assigned to a guessed number. Add the correct public Telegram @username or exact t.me link after confirming it. The existing Zangi ID remains separately labelled.
