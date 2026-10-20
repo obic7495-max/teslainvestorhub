@@ -1,0 +1,16 @@
+{
+  "name": "TeslaInvestorHub — EV Community & Markets",
+  "short_name": "TeslaInvestorHub",
+  "description": "Independent EV community, vehicle photos, member posts, private messages and market charts.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f4f5f7",
+  "theme_color": "#101114",
+  "icons": [
+    {"src":"./app-icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"./app-icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"},
+    {"src":"./app-icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
