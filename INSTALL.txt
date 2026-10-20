@@ -25,3 +25,6 @@ Order buttons send users to official Tesla web pages. This independent site does
 
 Telegram:
 A Telegram button is intentionally not assigned to a guessed number. Add the correct public Telegram @username or exact t.me link after confirming it. The existing Zangi ID remains separately labelled.
+
+
+ORDER BUTTON CHANGE: The homepage order/enquiry buttons now lead to contact.html and display Zangi ID 1371586284. Zangi does not provide public account lookup, so customers must open Zangi and add/search this private number inside the app. Confirm the ID is correct before publishing.
