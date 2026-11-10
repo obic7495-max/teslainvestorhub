@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T13:32:02Z",
+  "generatedAt": "2026-11-10T20:51:52Z",
   "categories": {
     "tesla": {
-      "updatedAt": "2026-11-10T13:32:02Z",
+      "updatedAt": "2026-11-10T20:51:52Z",
       "stories": [
         {
           "title": "TSLA Stock Quote Price and Forecast - CNN",
@@ -25,13 +25,6 @@
           "pubDate": "Sun, 08 Nov 2026 17:17:43 GMT",
           "source": "TradingKey",
           "description": "Tesla (TSLA) Stock Price Forecast 2026: 480K Deliveries Beat by 18% - Why Did the Stock Drop 7%? TradingKey"
-        },
-        {
-          "title": "Tesla Semi Gets Boost From $6 Diesel; Morgan Stanley Says Earnings Potential 'Underappreciated' - Investor's Business Daily",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPU2ZqUUpucmdCa0pRemNyMzRvWWc0UExTbklkbkpzN1dIRDI1bnh2OHI2dzNvVDJlWHVsN2hfeDBOZWQxdUtoV2N2STAxbWVEWHNZU1BtV2VrQWxXMTdaU0FKc29GOWNPdmhCOWl0bDU1WmZrNURiTEQ0WlVNX1ZxTDg1MlU2UEJMb2ZTMG5MYTMzNHNa?oc=5",
-          "pubDate": "Mon, 09 Nov 2026 16:16:00 GMT",
-          "source": "Investor's Business Daily",
-          "description": "Tesla Semi Gets Boost From $6 Diesel; Morgan Stanley Says Earnings Potential 'Underappreciated' Investor's Business Daily"
         },
         {
           "title": "What Can Make Tesla Stock A Buy? - Trefis",
@@ -69,6 +62,13 @@
           "description": "Tesla (TSLA) shares skyrocket, what you need to know TradingView"
         },
         {
+          "title": "Why Uber Stock Is Rallying After Q3 Earnings - Investor's Business Daily",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaF9uWTQwNW9UVVN6YmVsNVJETFFWNjExcGR5N3h2cVNjZktfY010Wnhld201NWhoYVhDVEYxZTlzWENLVmNSWTh6aVZlR0pwQmNva2s2X0UxNVg1SjJXOVdZWTBOMzJ4N3FnbDVQLTJGaHFCZ2V4V1dYSVd0eEJqeTRTdHU5MDg?oc=5",
+          "pubDate": "Wed, 04 Nov 2026 18:05:00 GMT",
+          "source": "Investor's Business Daily",
+          "description": "Why Uber Stock Is Rallying After Q3 Earnings Investor's Business Daily"
+        },
+        {
           "title": "Tesla (TSLA) Stock Price, Quote, News & History - Benzinga",
           "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB6dkpQaV82YW5nbS10bGtGVzVzb3JseXBOTzZUb3VwdEtjQy1idVV1WU9iVV9TeFF3aXNHeXFKYW9UdW93ZDM3TmY1OA?oc=5",
           "pubDate": "Fri, 06 Nov 2026 20:50:00 GMT",
@@ -83,18 +83,18 @@
           "description": "Elon Musk Is Winding Down Cybertruck Production to Build Cybercabs. The Model S and Model X Already Gave Up Their Factory Space to Robots. The Motley Fool"
         },
         {
-          "title": "Dear Tesla Stock Fans, Mark Your Calendars for November 29 - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSzZwc1daRUx0d2MwVHdzZlpXd2hxWFhZWUhqbTEyR0VXeHBxV2d3X3FmaWJWUGlwRWl0d0xKTjRhT0Nibm9pU0tKZDNWVG9ZUnVybkdSN21reHc1bjlLUDk1ZTBvQU81U2RfUHdERHkwNENVVElSMnFvcjBrVldpdkdhSFM3cVpsT2Y2ZU1CLWhCdnNVTXc?oc=5",
-          "pubDate": "Thu, 05 Nov 2026 18:01:11 GMT",
-          "source": "Yahoo Finance",
-          "description": "Dear Tesla Stock Fans, Mark Your Calendars for November 29 Yahoo Finance"
+          "title": "TSLA Stock Eyeing $400 after Rebound as ARK Invest Backs Robotaxi and SpaceX Plans for Tesla - FXLeaders",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOV2VuZEJnWHM5d19fLTN4bUlrTVBHNWdJUHM3ajc5R0JDcjgtNFJHd1pOb2xJTzhDMXMyeURJelZwNjhDQkd5aFh2b2M4N1hZdDZRM09uR1pBeW1QamczOFZNRFJHRE5NRko0bmhmd1FYek85N2EzZnF1WmRWZEdabktlOGduYWNjMlhTamhtTXh5d0doMzZWYktiMmxMRFBSYVVpTlluSlVaYng1QlFnbjd4d19Tc3pkUnFKbnBDeGxneUNTN1pnM05NUTRLTHc?oc=5",
+          "pubDate": "Mon, 09 Nov 2026 08:00:00 GMT",
+          "source": "FXLeaders",
+          "description": "TSLA Stock Eyeing $400 after Rebound as ARK Invest Backs Robotaxi and SpaceX Plans for Tesla FXLeaders"
         },
         {
-          "title": "TSLA Stock Eyes $400 after Rebound as ARK Invest Backs Robotaxi and SpaceX Plans for Tesla - FXLeaders",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYXdZcHNMTHdySzV6V2N6ck5naGpFNjU2TnlWZ01NcXZBdUFabi00US01bk95Wm5RV1F6RXJ4ZXdkRGRjZXVIc1N3andsZUVtRzdsNnhxZTFERUJPV3NOU3l2YVcyeUVCSzAyeFZhM1RkenJwaTFoMVJsbDBTZndxT1JaVUFJM2VFZ0YzN19yUlFSSEdMbE9aOFZrR3hjQVQ5OE5oRDFGbGNaN3hoM2U5Yms0MXhpQnJkN0FDVGttRGNISmx1LXBVZ1Njc2w?oc=5",
-          "pubDate": "Mon, 09 Nov 2026 21:08:29 GMT",
-          "source": "FXLeaders",
-          "description": "TSLA Stock Eyes $400 after Rebound as ARK Invest Backs Robotaxi and SpaceX Plans for Tesla FXLeaders"
+          "title": "Prediction: Tesla’s FSD Attach Rate Will “Trend to 100%.” But Will It Be Enough to Save the Stock? - TIKR.com",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVmtfdW1YLTF5cWZ5UEdnc245WlJONjB1WmJvN2puTkFLaUwwd1lPZkdKUUN6N1lkNFA0Z0RwMG9LYWhIVEJSZkZueEZoZTM5anowWlVKaDcyYUNkUUVGODY5ZGlsVHB0MEhlS1ppRklmdThhWlU0c0Z5ZVFoNlg1TDJsV2ZwaDVmSV9BeEdyWHhRNk9KeVQ5bkdFYXl5RjFQazNZdWhhdDlUWmhCaDY1RWJxME5fdHhL?oc=5",
+          "pubDate": "Sat, 07 Nov 2026 16:11:00 GMT",
+          "source": "TIKR.com",
+          "description": "Prediction: Tesla’s FSD Attach Rate Will “Trend to 100%.” But Will It Be Enough to Save the Stock? TIKR.com"
         },
         {
           "title": "Tesla Rises 5% Despite Musk's Cybertruck Refund Warning, Lucid Jumps 8% Ahead of Earnings; Rivian Climbs 2% - 24/7 Wall St.",
@@ -111,11 +111,11 @@
           "description": "Tesla Inc Stock (TSLA) Opened Down by 8.31% on Nov 5: What Investors Need To Know TradingKey"
         },
         {
-          "title": "Why Uber Stock Is Rallying After Q3 Earnings - Investor's Business Daily",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaF9uWTQwNW9UVVN6YmVsNVJETFFWNjExcGR5N3h2cVNjZktfY010Wnhld201NWhoYVhDVEYxZTlzWENLVmNSWTh6aVZlR0pwQmNva2s2X0UxNVg1SjJXOVdZWTBOMzJ4N3FnbDVQLTJGaHFCZ2V4V1dYSVd0eEJqeTRTdHU5MDg?oc=5",
-          "pubDate": "Wed, 04 Nov 2026 18:05:00 GMT",
-          "source": "Investor's Business Daily",
-          "description": "Why Uber Stock Is Rallying After Q3 Earnings Investor's Business Daily"
+          "title": "Can OnStar and Super Cruise Drive GM's Digital Revenue Growth? - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNU1ExTjdPYm01bHFXOUVrSnVZNjBMdE5YUzZLeTlyMXJjN1N3M3pZdjdmOGdzbm9jZmhsUG4zX3pfMVhNZDhOUU8wZkNHSmdCbTJDTUdHVF9McG5yaWRfRFJwQk50c2Y1ZnExcS0xaDJGbmxwM2YxRXJ0TlJsYzR0MkFUN0doS3FzU2lQSndrZjA0Um42Vmp1WHpGU3QyRTVralMxbG9Mb2NFaElvVVI2X0FUSEJfRlQz?oc=5",
+          "pubDate": "Mon, 09 Nov 2026 15:20:52 GMT",
+          "source": "TradingView",
+          "description": "Can OnStar and Super Cruise Drive GM's Digital Revenue Growth? TradingView"
         },
         {
           "title": "A Retiree Who Bought 1,000 Tesla Shares at $197 Just Watched Musk Kill the Cybertruck - 24/7 Wall St.",
@@ -132,32 +132,18 @@
           "description": "Tesla Stock Forecast: Cybercab Shift Puts $338.30 Support in Focus TradingKey"
         },
         {
-          "title": "Tesla Jumped 4% the Morning Musk Killed the Cybertruck, and Investors Know What Replaces It - 24/7 Wall St.",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPOUp6ZXJOWmo2c3FrdnJUUnFfWVhjd21KdG5zTzV0a2gwUWhCRTNleTlITkwtbVFEX1dhQW40dTFBNWJ5QXVZeUJUaUVtUTl3N2xsOTEtTXlaN0ZWOWhrM1lKQ3hUcENSMTFWeW00dEVHaWg3S2NkM3ZseXBTenJ4MzdEY1JPZTUtS01ZOGdNSENnU0ItcWhEVGg5WjJ1OU5wUTZiX3luWmF6RExfenRYblQxa29xQlQ3dWtiZzB1OUxoRTlfOVZhQ2FUWnJadw?oc=5",
-          "pubDate": "Fri, 06 Nov 2026 21:27:00 GMT",
+          "title": "Lucid Jumps 8% on $1.75 Billion Liquidity Boost Despite Q3 Miss; Rivian Dips, Tesla Little Changed - 24/7 Wall St.",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUTgtcmkxY3hoekQzVzhzMUF5Z1ZQVWY0N1RuYVNUN0EwclpHSUhOTl9vYVNEQ2xMcmdhNmtmbjNJc2JzaWhoTXJJSEhyZXU0WDc0RHY3eHdzVmlfSXRMSy1qWk9ZVUxad1kyakJGdzF1bnZwNUdXMEdYMTF4eXliMWdDMWVlRTBFYlBNT0ZzcHNISUtPcS1lMy1XQXhvUDZZYVV5QUUzNWFHeXNwdUQzTWkxZ1pFbEhxX2wwWTdOTkptTFJNWWtJdTl4UXplMUVIZmxHdg?oc=5",
+          "pubDate": "Tue, 10 Nov 2026 16:55:00 GMT",
           "source": "24/7 Wall St.",
-          "description": "Tesla Jumped 4% the Morning Musk Killed the Cybertruck, and Investors Know What Replaces It 24/7 Wall St."
+          "description": "Lucid Jumps 8% on $1.75 Billion Liquidity Boost Despite Q3 Miss; Rivian Dips, Tesla Little Changed 24/7 Wall St."
         },
         {
-          "title": "Nio Climbs 6%, Tesla and Lucid Rise 5% as EV Stocks Rebound From Election Sell-Off - 24/7 Wall St.",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdVNIWUxvcVRqbU9IX201Uktoc2FteGxuVmtOSElpcDhPUV9ueXltX1Z0NE16cGsyOXNyeWswSkVkMDVuVzEtV2JhY3czS3I1Rm9jNVFrcEdQckNfTUlZRzV2RGlGR2xmSFVmSERTUlpJZzl1dFFGTTZvRjNfU3ZjRng2dHg0T1pIRi03RmVDektFVG8tc0dRMEpUWnJ5YU81SkZxZFZPa0JsVkhrRzhKUC1QT3hlaDlQYWdwWkxlODU?oc=5",
-          "pubDate": "Fri, 06 Nov 2026 16:57:00 GMT",
-          "source": "24/7 Wall St.",
-          "description": "Nio Climbs 6%, Tesla and Lucid Rise 5% as EV Stocks Rebound From Election Sell-Off 24/7 Wall St."
-        },
-        {
-          "title": "Prediction: Tesla’s FSD Attach Rate Will “Trend to 100%.” But Will It Be Enough to Save the Stock? - TIKR.com",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVmtfdW1YLTF5cWZ5UEdnc245WlJONjB1WmJvN2puTkFLaUwwd1lPZkdKUUN6N1lkNFA0Z0RwMG9LYWhIVEJSZkZueEZoZTM5anowWlVKaDcyYUNkUUVGODY5ZGlsVHB0MEhlS1ppRklmdThhWlU0c0Z5ZVFoNlg1TDJsV2ZwaDVmSV9BeEdyWHhRNk9KeVQ5bkdFYXl5RjFQazNZdWhhdDlUWmhCaDY1RWJxME5fdHhL?oc=5",
-          "pubDate": "Sat, 07 Nov 2026 16:11:00 GMT",
-          "source": "TIKR.com",
-          "description": "Prediction: Tesla’s FSD Attach Rate Will “Trend to 100%.” But Will It Be Enough to Save the Stock? TIKR.com"
-        },
-        {
-          "title": "Can OnStar and Super Cruise Drive GM's Digital Revenue Growth? - TradingView",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNU1ExTjdPYm01bHFXOUVrSnVZNjBMdE5YUzZLeTlyMXJjN1N3M3pZdjdmOGdzbm9jZmhsUG4zX3pfMVhNZDhOUU8wZkNHSmdCbTJDTUdHVF9McG5yaWRfRFJwQk50c2Y1ZnExcS0xaDJGbmxwM2YxRXJ0TlJsYzR0MkFUN0doS3FzU2lQSndrZjA0Um42Vmp1WHpGU3QyRTVralMxbG9Mb2NFaElvVVI2X0FUSEJfRlQz?oc=5",
-          "pubDate": "Mon, 09 Nov 2026 15:20:52 GMT",
-          "source": "TradingView",
-          "description": "Can OnStar and Super Cruise Drive GM's Digital Revenue Growth? TradingView"
+          "title": "Tesla Price Forecast: Nevada Robotaxi Victory Offset by China Recall; Cybercab Launch Looms - TradingKey",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQSzcwRWl0bGxyMk92Mk5YS2FkRnphbFY0MnFDSjZzQmtDSTJROVFzLUJqQ1p5dkQyTmNWZE16RU5DcTRyci1DLVlmTU03eF9vNjBHaUxHMFJNRHFKYV9MVXBvbTlXRHVSQUtPLWtXdjlvMXVxRTY2bm05aWt5REdYOHdOeE5taDVrT0k0SjMzQm8ybFFXQV80OHh5bU9wX2JkQkdTMk9kZU5NSzRvRktyaDl2Z3dwSWFWY0F6Mk5nU1lZS2tmMlJ2Q19iQjMzVXY1am5JazZpaWppeURLQUwzNmdEeGNhaGJxdnVUZmFVVW1Ccnh3YlFNOXJFWFFEM09Z?oc=5",
+          "pubDate": "Sun, 08 Nov 2026 20:11:55 GMT",
+          "source": "TradingKey",
+          "description": "Tesla Price Forecast: Nevada Robotaxi Victory Offset by China Recall; Cybercab Launch Looms TradingKey"
         },
         {
           "title": "Tesla Soars 5% as Robotaxi Reaches San Antonio and Cybertruck Order Rate “Far Exceeds” Production - TIKR.com",
@@ -172,6 +158,13 @@
           "pubDate": "Fri, 06 Nov 2026 20:36:39 GMT",
           "source": "TIKR.com",
           "description": "Musk Winds Down Cybertruck to Make Room for “Increased Cybercab Production” TIKR.com"
+        },
+        {
+          "title": "Tesla (NASDAQ:TSLA) Reports Higher Vehicle Deliveries Alongside Record Energy Storage Deployment - Kalkine",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdS1xUVo1RWdRRkgtdUZpR3RVYnE4N25vQlhJejJ1M3dVMG9UU3M5WDd1MnVTVDNQWGVVSEdQWEdKR2l2R1FVbXNsRXI1RmtoQ3NvMGVTMGk5ZW5kYmluaDRueXhxbDR2MWxmZl9mRExQRXJ0akhjNmhUM0RZNDlkTnlaMlA1QXVwZS1mS1NEM3gzY2NBd3BiM08zejJObHhTY1FOUUN3Q1FyRHJuWEhINGVQSnMtd29jT1ptcEJLVGIwek1VTld0NmpB?oc=5",
+          "pubDate": "Tue, 10 Nov 2026 03:59:00 GMT",
+          "source": "Kalkine",
+          "description": "Tesla (NASDAQ:TSLA) Reports Higher Vehicle Deliveries Alongside Record Energy Storage Deployment Kalkine"
         },
         {
           "title": "Tesla (NasdaqGS:TSLA) Stock Forecast & Analyst Predictions - Simply Wall St",
@@ -204,8 +197,15 @@
       ]
     },
     "bitcoin": {
-      "updatedAt": "2026-11-10T13:32:02Z",
+      "updatedAt": "2026-11-10T20:51:52Z",
       "stories": [
+        {
+          "title": "Cryptocurrencies slide to two-month lows after US midterms - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZ19jb0ZtdjRvY1E4V0ltOHBXdkI0UXpfY3lNeFVhM0pxRUlUUmVhWVdRSW1Ec25SMnVvSXVxQ0hQcjJfamxSWWpRSVNoYnh4QUxaSHlHRExaWVBiNklkRUpvM1dMZENjS1RNRzJJUFNydjN2RVFpQkxfcGpSaGNUREEyX29scVBNTkoycjdRckk1ZFBIaTgybHh1NjU4eUxVUEE?oc=5",
+          "pubDate": "Sun, 08 Nov 2026 22:27:00 GMT",
+          "source": "Reuters",
+          "description": "Cryptocurrencies slide to two-month lows after US midterms Reuters"
+        },
         {
           "title": "Bitcoin and Ethereum Just Hit Their Lowest Prices Since August After $1 Billion in Liquidations. Where Do Analysts Say They Bottom? - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZVNEeFpkbjRXWUFQbU1mVEtKYk5PSWNlYm9qM0U4aGtUcVd1NzA4Yzl2QzczcWJFdFAtS2lQeENFdUVpUGtzRl9UMjdkMFFXUWJ5X19BWTA5SFpCcS1rRzZCX2JLWU1WTHN1dDZFSmZZaVZnVm5rNnV3UmpFNFVSOTI1aEtNZEJ5al9kcXdSMFlaaDkzVWRPRzZvLUtEdw?oc=5",
@@ -216,9 +216,16 @@
         {
           "title": "Bitcoin Futures - CME Group",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Db1M3SWg3WG9OOU9xZ1QwTjlKUDZvSVpVektnRnFTSXFvdXBmQm5lS2h5ODFwdWl2eFlQT0hRZWR1ZUxfdzFHVXhBZUNKRl9Semw3NG55S0lrUXFXNFR4eVZwdHFtLVZxU1NZeS1Va0RZNU0?oc=5",
-          "pubDate": "Sat, 07 Nov 2026 19:56:34 GMT",
+          "pubDate": "Mon, 09 Nov 2026 00:00:00 GMT",
           "source": "CME Group",
           "description": "Bitcoin Futures CME Group"
+        },
+        {
+          "title": "Today's Crypto News: Bitcoin, Ether and Altcoin Insights - Investing News Network",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9PU3pBdGY0NWJMSWFUTFRDUGx3RklNQlNENWdlQjBiNG9meUo5andqSHFER0lkNlhEaFVwOXpLYWZseVJ1YVZsU2Q4RzBWT1RoeUhTM19YaFljM2ZHcm5yMHYxTlc?oc=5",
+          "pubDate": "Mon, 09 Nov 2026 20:05:00 GMT",
+          "source": "Investing News Network",
+          "description": "Today's Crypto News: Bitcoin, Ether and Altcoin Insights Investing News Network"
         },
         {
           "title": "Crypto Market Today, Nov. 9: Bitcoin and Ethereum Lag as Nasdaq Surges Nearly 3% - The Motley Fool",
@@ -228,18 +235,18 @@
           "description": "Crypto Market Today, Nov. 9: Bitcoin and Ethereum Lag as Nasdaq Surges Nearly 3% The Motley Fool"
         },
         {
-          "title": "Ethereum Gained 6.9% While Bitcoin Gained 4.7%. Is ETH Outperforming BTC Right Now? - 24/7 Wall St.",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMEVUMVVuVG1FUDJ1NUFUSWRoLVpNZGp2cHFSVkRXYWpCX29GSGxuNTdXek9NTUJBOWZDZnZ1dVA3eEZWREVXcHZjOGRaeWVwRzY1OTBJNjFTNlVqSVNxM2daYzJGemhGNmxVSld1eVVHUl9yMWV3aW9WQmhRYUtMWmNXYlpxZGx3MmZFTGtIWU1ISC1ZVHVta19WeUo0V3pCVzlCa2wtSzJGOG9pbEpVQWNrVThmZkdTdEIzVWhWa01YZzZ1MTdWQ3pfUHAzcFBYa0dqaQ?oc=5",
-          "pubDate": "Thu, 05 Nov 2026 03:26:00 GMT",
-          "source": "24/7 Wall St.",
-          "description": "Ethereum Gained 6.9% While Bitcoin Gained 4.7%. Is ETH Outperforming BTC Right Now? 24/7 Wall St."
-        },
-        {
           "title": "Why is the crypto market down today? Bitcoin, Ethereum in red - Crypto News",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNam8yWV9mS0w1czZOOFBHWFFrZ2Z4TGZ5b0h4emd0aFpKUFN1azV2bjVLbjZ6QUhtcm1EVHVGNV9OZFNXU1luck1iR0VrREZrUVgtUjRIRXVlS29IOW54Zm5jVl9PX0I1dHRTaXdqMVlrdmV3MVFRS2luLXhGM0NUSVpDOVFsWFk?oc=5",
           "pubDate": "Mon, 09 Nov 2026 05:46:00 GMT",
           "source": "Crypto News",
           "description": "Why is the crypto market down today? Bitcoin, Ethereum in red Crypto News"
+        },
+        {
+          "title": "Ethereum Gained 6.9% While Bitcoin Gained 4.7%. Is ETH Outperforming BTC Right Now? - 24/7 Wall St.",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMEVUMVVuVG1FUDJ1NUFUSWRoLVpNZGp2cHFSVkRXYWpCX29GSGxuNTdXek9NTUJBOWZDZnZ1dVA3eEZWREVXcHZjOGRaeWVwRzY1OTBJNjFTNlVqSVNxM2daYzJGemhGNmxVSld1eVVHUl9yMWV3aW9WQmhRYUtMWmNXYlpxZGx3MmZFTGtIWU1ISC1ZVHVta19WeUo0V3pCVzlCa2wtSzJGOG9pbEpVQWNrVThmZkdTdEIzVWhWa01YZzZ1MTdWQ3pfUHAzcFBYa0dqaQ?oc=5",
+          "pubDate": "Thu, 05 Nov 2026 03:26:00 GMT",
+          "source": "24/7 Wall St.",
+          "description": "Ethereum Gained 6.9% While Bitcoin Gained 4.7%. Is ETH Outperforming BTC Right Now? 24/7 Wall St."
         },
         {
           "title": "Nvidia-led tech selloff weighs on crypto majors: Crypto Markets Today - CoinDesk",
@@ -263,13 +270,6 @@
           "description": "Gold-Backed Tokens Shine in Falling Crypto Market, Defy Bitcoin and Ethereum’s Downturn Last Week Benzinga"
         },
         {
-          "title": "Crypto Market Rally: Why Bitcoin, Ethereum and XRP Are Surging Today - Coinpedia",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORXJMM1VTdVBKYkpYbWdQSlJqV3kyWjYxMDdRUmkxT3VWZ2ZDX21lbEhRb1dnRy1MemFHOFZXa0RqRXAwallNTWZxYms2bmY5bm14UUhxSV9pR0JpSTNGcVdOcHFrdHZhM3BYb3M1N09xMy1oczI4Rm5HY3VWamxCZFpMY0lqeDJIWFFxRFB3SkF0OXA4eUswdTBOSmJGd3dPZTRUQjJjQdIBrAFBVV95cUxPcE5mbElzOHZoT01qSFNpWlh2UFF4d2E1cDhQMzl0WDJxRFJONHFfcTdweGJkTmY3OUQ0Y3dSWHBTQlliZ3lKNDBjcHdnU2g1eWhNeWV5RzF4cERsckVQNENST0l1VEt5UlVjY1NmTG85dWNVZm9JWEk3OW50SnNpUVdzQlpyZWlnYzVSUkwtS2dxeU5lY2pUenJtVzNUN1JOS1JOSWI5VTYzMHc5?oc=5",
-          "pubDate": "Thu, 05 Nov 2026 05:26:00 GMT",
-          "source": "Coinpedia",
-          "description": "Crypto Market Rally: Why Bitcoin, Ethereum and XRP Are Surging Today Coinpedia"
-        },
-        {
           "title": "Crypto Market Today, Nov. 3: XRP and Zcash Defy Recent Weakness as Midterm Elections Take Center Stage - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOLXQ4MFBnRXQzSldXVk1kS3N4LUo2OHV4N09KdFZYbkgzZGV6TmNvNTI1aTdsQkVndG9VN1l2djdRLWgzUWhWTjhrYkNCeV9Eb0RKbnNJMnF5amRudjdjalFhc25qd0trSTlCb3dhR2VPXzB0anJHZmpSRGM3OGlxb2FhMWJUQUdWMHFfSFpQQlNBU2U0?oc=5",
           "pubDate": "Tue, 03 Nov 2026 22:30:02 GMT",
@@ -284,11 +284,11 @@
           "description": "Ethereum Is at Its Weakest Against Bitcoin Since July. Is ETH or BTC the Better Crypto to Hold Through 2027? 24/7 Wall St."
         },
         {
-          "title": "Crypto Market Today, Nov. 5: Bitcoin Erases Post-Election Rally as Wall Street Suffers Worst Day in 18 Months - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQbHR0NFpmUE5SbHdzOVctcDc0am12aVVfc3hlQjF6akZWSWstakRTTnRxZVF5aV9kempOTHBnbVdvRGtuSlBYMnExLTR5cTdYN1l0UVlVZlZLQTBoMmxDUWQ2TVA3eVg0WHd1UDZJbS15amxIeDFzUWxuclNtX3ZvN1R4N0czQnoyWlhGdW5xZk53RVd5aUh1a2poV1Fyd2lUT2QwTEJMZlBQTGh1ZEVDUUFXa1h0UVJLZktpVlJhcXRoakIxS0dNdWxOM2wteGpOak15M2NWYmpVM3dBZjZkRFlxU092azlQVDR0OG5EWVQzWlJNMW9JRGNYZw?oc=5",
-          "pubDate": "Thu, 05 Nov 2026 22:25:00 GMT",
+          "title": "Crypto Market Today, Nov. 4: Bitcoin Stages Sharp Recovery as Wall Street Rallies and Regulatory Hopes Return - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPc0NlVUNLX3dYWm1vZmg1M1JiUEdqdVZYUVJpeThhei1idVlRTE1ha2JSV2tzSjNwbkNzamJXeFA1UkxFZUFIbVVobnkwWXlTQklYdHRaZ09RdkNSWDlOVUpzMG9FU3hkRW00SEJ2aEtOMXlWanhkUjlZUmgzQ2FEVEhTalRsUWkzR2o5WjJ5MnRld2VTSXRLWWdrWS1DZ0owNi1KQ1U2X2R5WjJ2OHhOMnlub0lOQ1pyNDFfZnkzQmlSNEhycllZUWtSb19jdkVrT2c3UXVsRU8yX1ZtY0FfOXN4eTFWODl3ZTlIajU1NmlpY0VvWUtfa2pCdw?oc=5",
+          "pubDate": "Wed, 04 Nov 2026 22:15:00 GMT",
           "source": "The Motley Fool",
-          "description": "Crypto Market Today, Nov. 5: Bitcoin Erases Post-Election Rally as Wall Street Suffers Worst Day in 18 Months The Motley Fool"
+          "description": "Crypto Market Today, Nov. 4: Bitcoin Stages Sharp Recovery as Wall Street Rallies and Regulatory Hopes Return The Motley Fool"
         },
         {
           "title": "Ethereum ETH (ETH-USD) Live Price, News, Chart and Price History - Yahoo Finance UK",
@@ -305,18 +305,11 @@
           "description": "$250 Each in Bitcoin, Ethereum, XRP and Solana at the Start of October: What Is the $1,000 Worth Now? 24/7 Wall St."
         },
         {
-          "title": "Crypto Market Today, Nov. 4: Bitcoin Stages Sharp Recovery as Wall Street Rallies and Regulatory Hopes Return - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPc0NlVUNLX3dYWm1vZmg1M1JiUEdqdVZYUVJpeThhei1idVlRTE1ha2JSV2tzSjNwbkNzamJXeFA1UkxFZUFIbVVobnkwWXlTQklYdHRaZ09RdkNSWDlOVUpzMG9FU3hkRW00SEJ2aEtOMXlWanhkUjlZUmgzQ2FEVEhTalRsUWkzR2o5WjJ5MnRld2VTSXRLWWdrWS1DZ0owNi1KQ1U2X2R5WjJ2OHhOMnlub0lOQ1pyNDFfZnkzQmlSNEhycllZUWtSb19jdkVrT2c3UXVsRU8yX1ZtY0FfOXN4eTFWODl3ZTlIajU1NmlpY0VvWUtfa2pCdw?oc=5",
-          "pubDate": "Wed, 04 Nov 2026 22:15:00 GMT",
+          "title": "Crypto Market Today, Nov. 5: Bitcoin Erases Post-Election Rally as Wall Street Suffers Worst Day in 18 Months - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQbHR0NFpmUE5SbHdzOVctcDc0am12aVVfc3hlQjF6akZWSWstakRTTnRxZVF5aV9kempOTHBnbVdvRGtuSlBYMnExLTR5cTdYN1l0UVlVZlZLQTBoMmxDUWQ2TVA3eVg0WHd1UDZJbS15amxIeDFzUWxuclNtX3ZvN1R4N0czQnoyWlhGdW5xZk53RVd5aUh1a2poV1Fyd2lUT2QwTEJMZlBQTGh1ZEVDUUFXa1h0UVJLZktpVlJhcXRoakIxS0dNdWxOM2wteGpOak15M2NWYmpVM3dBZjZkRFlxU092azlQVDR0OG5EWVQzWlJNMW9JRGNYZw?oc=5",
+          "pubDate": "Thu, 05 Nov 2026 22:25:00 GMT",
           "source": "The Motley Fool",
-          "description": "Crypto Market Today, Nov. 4: Bitcoin Stages Sharp Recovery as Wall Street Rallies and Regulatory Hopes Return The Motley Fool"
-        },
-        {
-          "title": "Bitcoin and Ethereum Just Hit Their Lowest Prices Since August After $1 Billion in Liquidations. Where Do Analysts Say They Bottom? - 24/7 Wall St.",
-          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPclpCZjUzcF9LbEdLM3J3LWlOVGs4dXk1eVhjdDRzU1JIc2VpdjRzbXc2bTRNajJUVkFBWTJoNGJnQVJnQlpnbEVqZVlvTHhMeld3emxVVVNDRDRISlZXZEdnbTQ4aFp4TzdhN1RkWTY1eTZKYlMxTWkzbUVHUkhiME1HMXJ1T2tqeTlraW5hblJhcUhtZGpmeEw3N2xJbkY4OFgtcXh3Zm1aZndMVW00QmJUQ0hFUWduQ2hUVkstX1JRTzkwQXpmbTgwU0ZfZC1GeFJQRGhhSndVczJjQTduMTd3ZVR3bHN2d0NSTkMzcUtFNlhUejQ5MHNKTWxTcEEtaGhsN3VVOTdsakw5aTBqemRzYjVQUQ?oc=5",
-          "pubDate": "Mon, 09 Nov 2026 17:01:00 GMT",
-          "source": "24/7 Wall St.",
-          "description": "Bitcoin and Ethereum Just Hit Their Lowest Prices Since August After $1 Billion in Liquidations. Where Do Analysts Say They Bottom? 24/7 Wall St."
+          "description": "Crypto Market Today, Nov. 5: Bitcoin Erases Post-Election Rally as Wall Street Suffers Worst Day in 18 Months The Motley Fool"
         },
         {
           "title": "Russia Is Opening Bitcoin and Ethereum to Retail Investors This Month. Can a 300,000-Ruble Cap Move the BTC and ETH Price? - 24/7 Wall St.",
@@ -326,6 +319,13 @@
           "description": "Russia Is Opening Bitcoin and Ethereum to Retail Investors This Month. Can a 300,000-Ruble Cap Move the BTC and ETH Price? 24/7 Wall St."
         },
         {
+          "title": "Ethereum Is Down 17% and Solana 23% in 30 Days. How Low Can Each Go? - 24/7 Wall St.",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNUFLT2ZhMXN5RFFVZjB0V0Q0MTE1SmVyb29HZWt6Y2hBcFQ2WWdzazZDelJDMmN0YVlaTGFLNDRtdGdDVzlOUXJHUU1EQ1VidlUxcFRNWGtPZm5hUnZsX1EyU1pJN0hMbVoweGVpMURSSXVTV0NHR256Z2xFd3pHNl9CMVpucDRQUFA2Sjc1Y0hzRWU2bDN1ankzZUxKSjZGd1hCTzFRWmRhR3BLUzhKdWxESGJLQTdGTTNfZEF2Nm4?oc=5",
+          "pubDate": "Tue, 10 Nov 2026 17:34:00 GMT",
+          "source": "24/7 Wall St.",
+          "description": "Ethereum Is Down 17% and Solana 23% in 30 Days. How Low Can Each Go? 24/7 Wall St."
+        },
+        {
           "title": "Bitmine Owns 4.9% of All Ethereum. What Happens to ETH at 5%? - 24/7 Wall St.",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMlhIMU5TSU9xa0JyZU9YeGpJakFtQkJteEpiNEN6a3hncDI2SEU0M2hsREEzWUh6b1BFRWx4WEw5N3BQQk52VkJyQVVqNks0NE1YYThFSHJnVFVqMkF4MDY0TE1MR3ExbTZUZ0R0Vkt4WURsc2RWVTR3MXpYZC1SdXRlR0M5VWEwNDItVjd5RzFxVG9obnY1XzRXTVdzMDB6N0M3XzNzRWRsOTVkZms3clcwTW9nd0k?oc=5",
           "pubDate": "Thu, 05 Nov 2026 18:11:00 GMT",
@@ -333,18 +333,11 @@
           "description": "Bitmine Owns 4.9% of All Ethereum. What Happens to ETH at 5%? 24/7 Wall St."
         },
         {
-          "title": "We Asked Grok if Ethereum Can Reach $4,000 by 2028 - 24/7 Wall St.",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd2lWQy11VXJCTkJpU25WY0JielRkZW03X042UGJteUFUWTlweS05NUVpMVF2UXZKNldQa2xxZG9FV1VQR1FtMGZkN0psYU5ic293SEhLVnNRdVNYQTVSbnBUUFZlWElQaWJ3OGtMajdIMFRGRlBPZmZnUEp6cUs0ZUtWbGVHaVJNRlBZUmFFZVlPVzhmUm9fRWJOb0s5LVI2THYyVVJBS1FsU1U?oc=5",
-          "pubDate": "Fri, 06 Nov 2026 21:01:00 GMT",
-          "source": "24/7 Wall St.",
-          "description": "We Asked Grok if Ethereum Can Reach $4,000 by 2028 24/7 Wall St."
-        },
-        {
-          "title": "Investors Pulled $1.3 Billion From Bitcoin and Ethereum ETFs in Two Days. How Low Could Prices Go? - 24/7 Wall St.",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQWGtQV3AySzRZaE9qU1hmV29HVklZMnliTEFyckQyMEdKZE9SZ3FkMmZ0MU1md1NqNUJPQlZ2WGlndVNmUnFxUzJHNWZveE9FUnhtMkt5Y0trRXhSRDV3dnlwUnpUcmg1MkhqYlY1bnUyQUZKUDlXVHNVQnVpY0NvZDJFWHNoRzNERmZJNWI3ZXlHQkRZaWQ2ODc0MmdINDQ2bUVXc2hqUTFWQlRQNXJ0cGFuY1RqZTdwb2ZvUklpc3p5WVZybGpsemM4NDREdHZXTS1YcER3SEstWlFBWHpHWk1QRDRST2hXZHc?oc=5",
-          "pubDate": "Tue, 03 Nov 2026 18:39:00 GMT",
-          "source": "24/7 Wall St.",
-          "description": "Investors Pulled $1.3 Billion From Bitcoin and Ethereum ETFs in Two Days. How Low Could Prices Go? 24/7 Wall St."
+          "title": "Crypto Market Rally: Why Bitcoin, Ethereum and XRP Are Surging Today - Coinpedia",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORXJMM1VTdVBKYkpYbWdQSlJqV3kyWjYxMDdRUmkxT3VWZ2ZDX21lbEhRb1dnRy1MemFHOFZXa0RqRXAwallNTWZxYms2bmY5bm14UUhxSV9pR0JpSTNGcVdOcHFrdHZhM3BYb3M1N09xMy1oczI4Rm5HY3VWamxCZFpMY0lqeDJIWFFxRFB3SkF0OXA4eUswdTBOSmJGd3dPZTRUQjJjQdIBrAFBVV95cUxPcE5mbElzOHZoT01qSFNpWlh2UFF4d2E1cDhQMzl0WDJxRFJONHFfcTdweGJkTmY3OUQ0Y3dSWHBTQlliZ3lKNDBjcHdnU2g1eWhNeWV5RzF4cERsckVQNENST0l1VEt5UlVjY1NmTG85dWNVZm9JWEk3OW50SnNpUVdzQlpyZWlnYzVSUkwtS2dxeU5lY2pUenJtVzNUN1JOS1JOSWI5VTYzMHc5?oc=5",
+          "pubDate": "Thu, 05 Nov 2026 05:26:00 GMT",
+          "source": "Coinpedia",
+          "description": "Crypto Market Rally: Why Bitcoin, Ethereum and XRP Are Surging Today Coinpedia"
         },
         {
           "title": "Zcash Is Flat Over 30 Days While Bitcoin, Ethereum and Solana Fell 10% to 21%. Which of the Four Is the Best Buy Now? - 24/7 Wall St.",
@@ -352,6 +345,13 @@
           "pubDate": "Mon, 09 Nov 2026 20:53:00 GMT",
           "source": "24/7 Wall St.",
           "description": "Zcash Is Flat Over 30 Days While Bitcoin, Ethereum and Solana Fell 10% to 21%. Which of the Four Is the Best Buy Now? 24/7 Wall St."
+        },
+        {
+          "title": "We Asked ChatGPT if Ethereum Can Reach $3,000 by March 2027 - 24/7 Wall St.",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUjM0c3doNWpWVHRMdzBuSDQtblpBNmEtY1BydVJjaVlEQ0ZES05ydS01V2Y5Z2wzVWlyVnRaLWItN3hjRFZ1VFZfZlhXMTRLRHA2bkRsV25xVVJJZTdGNVlhQTNhM3ExY1EteUlsQkNrTlJsVTVFMHhKTU55Y0Q0bWFWTmJVcVBXYm1BM0JCazMwaU5DVjR5cWx5alpXY2xvdDZhcllZUHE3QlFzM3RqZFBHeVA5TTA?oc=5",
+          "pubDate": "Thu, 05 Nov 2026 21:41:00 GMT",
+          "source": "24/7 Wall St.",
+          "description": "We Asked ChatGPT if Ethereum Can Reach $3,000 by March 2027 24/7 Wall St."
         },
         {
           "title": "Bitcoin, Ethereum, XRP May Look at a Final Decline Before Year-End, Experts Say - Benzinga",
@@ -366,13 +366,6 @@
           "pubDate": "Mon, 09 Nov 2026 14:54:46 GMT",
           "source": "SailGP",
           "description": "Best Sites for 5-Minute Crypto Prediction Markets and How They Work SailGP"
-        },
-        {
-          "title": "We Asked ChatGPT if Ethereum Can Reach $3,000 by March 2027 - 24/7 Wall St.",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUjM0c3doNWpWVHRMdzBuSDQtblpBNmEtY1BydVJjaVlEQ0ZES05ydS01V2Y5Z2wzVWlyVnRaLWItN3hjRFZ1VFZfZlhXMTRLRHA2bkRsV25xVVJJZTdGNVlhQTNhM3ExY1EteUlsQkNrTlJsVTVFMHhKTU55Y0Q0bWFWTmJVcVBXYm1BM0JCazMwaU5DVjR5cWx5alpXY2xvdDZhcllZUHE3QlFzM3RqZFBHeVA5TTA?oc=5",
-          "pubDate": "Thu, 05 Nov 2026 21:41:00 GMT",
-          "source": "24/7 Wall St.",
-          "description": "We Asked ChatGPT if Ethereum Can Reach $3,000 by March 2027 24/7 Wall St."
         },
         {
           "title": "Cipher Digital and BitMine Fall 4% as Ethereum Slides in Crypto Sell-Off; Strategy Drops 3% - 24/7 Wall St.",
@@ -396,6 +389,13 @@
           "description": "XRP Fell 7% This Week and Ethereum Less Than 1%. Why Is XRP the Weakest of the Top Five Cryptos? 24/7 Wall St."
         },
         {
+          "title": "Crypto Today: Bitcoin, Ethereum, XRP extend decline with US CPI in focus - www.tmgm.com",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTDliV2pONHBHTl8tbFpiNzZGUnhManNwRmlGWFYtTUxDZXE4VFhUenJfS09aSzJaQThPcGRFSDlIUlhVRm0wT1g5aU9sUHVIa1ZhS1k3Nmo4dURyOC1fUHdreHJ6ajhqZnVQSTZSOUtoUGg4cWM1MkxIQUFlbUU2ZXJpaktISUN5ZHpSSUplc1EzSVc3Y3dkWGNMVm5pek9GS1h4SzJuWEtqTUliVnRQQU9qcmg1R2FDTm9sOUVSb19IY2tZWFFfVDF1U1h3UXda?oc=5",
+          "pubDate": "Tue, 10 Nov 2026 12:44:05 GMT",
+          "source": "www.tmgm.com",
+          "description": "Crypto Today: Bitcoin, Ethereum, XRP extend decline with US CPI in focus www.tmgm.com"
+        },
+        {
           "title": "Coinbase's Base Now Holds More DeFi Money Than Solana. Is Ethereum Winning Back Ground From Solana? - 24/7 Wall St.",
           "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNcy1USm50V1VEN2dGdndaaXVpWHlrZjN5QXRVbWhoQ0hHZXhCU21HUW1sMUpTVmFHRlk4eWNNX3FobU01ZE44eWZkOHBsclpTa1MyUEIxQVhqdGJLMk5vX1R1MzMtaGU1bVVjTzF4Q2xTdFhGSTdUUnA2VmIxODRmVFdndWF3blc3Ym1iQjJPY3daeUhXTGNZV2JNdFZHRTVhOEc4VHlpeUFIOC1rUDFxbHJvR0R1Vzl4ZE0yckUtem85ak83Q0owbjlsTjFoZGl6cVVzVVlsQV9uS3gwSXphMEZZWW9vR05tNDhR?oc=5",
           "pubDate": "Sun, 08 Nov 2026 00:07:00 GMT",
@@ -415,6 +415,13 @@
           "pubDate": "Sat, 07 Nov 2026 13:31:00 GMT",
           "source": "24/7 Wall St.",
           "description": "What Could $1,000 in Ethereum Be Worth by 2030? 24/7 Wall St."
+        },
+        {
+          "title": "Bitcoin, Dogecoin Steady, While Ethereum, XRP Dip: Analyst Calls BTC Accumulation by Major Cohorts During - Benzinga",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQmR4amFlSXlpSHhTZ1dFaEhVV1RnbjhsZWpoRHJ3em1VMlhzQ0hHMll6NXVEc0tESFAwb196aFBqbndvSEMyQTY0dE5ybVByeHpQX242czNKV1o2VkcwVmR2X0xYb3p0TWhXQXNuczdNZVNsbHg4X1VpSWNkQUkxSXRGZVlKazN0M29lY0RmMXBsV3VRWUphN2xKVnpVTTB1dEF4eVRlZXRua2c?oc=5",
+          "pubDate": "Tue, 10 Nov 2026 02:21:32 GMT",
+          "source": "Benzinga",
+          "description": "Bitcoin, Dogecoin Steady, While Ethereum, XRP Dip: Analyst Calls BTC Accumulation by Major Cohorts During Benzinga"
         },
         {
           "title": "Vitalik Buterin Says Ethereum's Fee Burn Was Never a Price Floor. What Is Holding ETH at $2,200? - 24/7 Wall St.",
@@ -445,18 +452,18 @@
           "description": "Bitcoin, Ethereum, XRP, Dogecoin Slide as 'Fear' Sentiment Persists: Analyst Says BTC Needs to Hold This Benzinga"
         },
         {
-          "title": "Bitcoin, Dogecoin Steady, While Ethereum, XRP Dip: Analyst Calls BTC Accumulation by Major Cohorts During - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQmR4amFlSXlpSHhTZ1dFaEhVV1RnbjhsZWpoRHJ3em1VMlhzQ0hHMll6NXVEc0tESFAwb196aFBqbndvSEMyQTY0dE5ybVByeHpQX242czNKV1o2VkcwVmR2X0xYb3p0TWhXQXNuczdNZVNsbHg4X1VpSWNkQUkxSXRGZVlKazN0M29lY0RmMXBsV3VRWUphN2xKVnpVTTB1dEF4eVRlZXRua2c?oc=5",
-          "pubDate": "Tue, 10 Nov 2026 02:21:32 GMT",
-          "source": "Benzinga",
-          "description": "Bitcoin, Dogecoin Steady, While Ethereum, XRP Dip: Analyst Calls BTC Accumulation by Major Cohorts During Benzinga"
-        },
-        {
           "title": "Ethereum Staking Pays About 3% and a 10-Year Treasury Pays 4.8%. Is Staking ETH Still Worth It? - 24/7 Wall St.",
           "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNWFB4eWF1LWF2ZEJBS01IWFZGOWlWTUMya3RBeEVIdlVJVFFCNUVmdWZRekszdDFsdkJuLUgydVVGNHc4R3VHZHJ4b3hhWkhWQlpZVlN4SUU5R19VdHpDa3NlQnRqc2JDeG9ydUpXXzZ3a1lJTm5nX09KOWlSajZkYURIMC01bnVfS08ySFd6NjB3ZVlHVU5rd1BNWG5MWllFREM2UzBTcjdmdW84MlpoTF81ZXRBeXloblYyTXVHbDhscUROSWRHS1pjX3JNa0NsM2FQR0tEMUZTc1RUMVlQQTdoQ3c?oc=5",
           "pubDate": "Tue, 10 Nov 2026 00:47:00 GMT",
           "source": "24/7 Wall St.",
           "description": "Ethereum Staking Pays About 3% and a 10-Year Treasury Pays 4.8%. Is Staking ETH Still Worth It? 24/7 Wall St."
+        },
+        {
+          "title": "US crypto market today: Bitcoin, Ether hit lowest levels since August as Democrats' midterm win raises regulation fears | Hindustan Times - Hindustan Times",
+          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPRG1kaWVOSDBkNzJqa2oza0gwMXRzV0ExRHNUT1pDRXpMeVBBN090QUpoZk5EcEI0OEFoYTJUVW9kdkRhcUJDOHAtLVJQYjdSN2w5MGRTeC03aVkxTEZRQXhVN0hKekdjQzl2WFZfaU45enZZM2JRNkdFUlRod05YcVJDS0ttdnlUWHhpVFNPNHgwOE5RNlFIRENBbFpIN3FRNXZyeHFCeW1uQkx4eGJHNXF5dVdqdFNoOF9kT29udUZoVjBPWURqUlJON2lxcGtCWmJZWjZBVW5jSjNtcmxLYUxrVjVnUEIyd2FPeDlrZFhQYzFvWjMwU05Id203cWo2LWZmUV9tSlF6SlpYM0l1R2hMOXY0Z9IBmwJBVV95cUxQSU1peGwwSmNYdUxkTGd4b3RtcUx0MmpLR3NhTy0xa3RCTnE1OHR3M1ppZV93OEo0MjRaa2pyc3BnTW1zMm56SmE4Qllfb1VFd3ExcHRZYVlFZXJacFRaLXNQWUlRaThmbDd1M3pUSE5tbzJuNmhTbkNYeTIyUWYybW1PUFYydHZEZ3VoYkljRXYxa05wWXBRREEyTzdBQjNvWWtkV2tsc012SzVMeHZWQnJmZEROSUpiWGtzbXJhdTVYbHJtalFBS1RJcG53bFRYWmZEWDF1d29BNW5FaXNCdEptVGhtZjl3bWl2OWNBSzFoUmFEaXVBS1VtM3BDdWxUZ0pHUTd6aUVTWW9mSENpS1REUl9wbWgyUnNB?oc=5",
+          "pubDate": "Mon, 09 Nov 2026 11:16:13 GMT",
+          "source": "Hindustan Times",
+          "description": "US crypto market today: Bitcoin, Ether hit lowest levels since August as Democrats' midterm win raises regulation fears | Hindustan Times Hindustan Times"
         },
         {
           "title": "Bitcoin, Ethereum, and Solana ETF Outflows Jump as Key Fear Gauge Drops After Midterms - Benzinga",
@@ -473,13 +480,6 @@
           "description": "Why Is Crypto Market Up Today: BTC, ETH, XRP Price Rally Hard: Guest Post by Coingabbar CoinMarketCap"
         },
         {
-          "title": "What Are All the Different Types of Cryptocurrency? - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLWhKYzVRTVpzdjItWURhQ0d0Y3Z3RVJKU29oMjkzVFFmQkRFeW9GSmJHWG54UXVjZzNkNUtmMFZWcXY3TXkwNFpmUWZXckdfbnNLOVdISWJLWFNoRFRmaWVORkdueWt3YVAyTDFNcy1uTTJaWnZnOGZpd0xpd0JVWHZyVzBkQXROX2RDSHREVHpoOFZmT05pc3oyQksxaVRlQlNWcXRoMGFqQWhzd3Z0OW1Ydno4dkZoMVE?oc=5",
-          "pubDate": "Tue, 03 Nov 2026 18:23:00 GMT",
-          "source": "The Motley Fool",
-          "description": "What Are All the Different Types of Cryptocurrency? The Motley Fool"
-        },
-        {
           "title": "Crypto Markets Shed $80B Daily as BTC Dives Below $74K: Market Watch - CryptoPotato",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNGc5WGJtR0FhcHkxa0liZE5Gckh0a1VGT0c5X1FpZGdRdzJ6S0c4RmN1UC04Mk85bnB5Vld1YWNSazFLdmY1RjZhTkI0MXVabUVFRmFuaGxodGlfdHpHaVMzbm1QTDA4a2lHd2JITWxOa1BPazE4YjFPb3BWRGlsSjlwbE96STZZMlp4WVJYVlg2OHltLXc?oc=5",
           "pubDate": "Mon, 09 Nov 2026 10:20:00 GMT",
@@ -487,18 +487,18 @@
           "description": "Crypto Markets Shed $80B Daily as BTC Dives Below $74K: Market Watch CryptoPotato"
         },
         {
-          "title": "US crypto market today: Bitcoin, Ether hit lowest levels since August as Democrats' midterm win raises regulation fears | Hindustan Times - Hindustan Times",
-          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPRG1kaWVOSDBkNzJqa2oza0gwMXRzV0ExRHNUT1pDRXpMeVBBN090QUpoZk5EcEI0OEFoYTJUVW9kdkRhcUJDOHAtLVJQYjdSN2w5MGRTeC03aVkxTEZRQXhVN0hKekdjQzl2WFZfaU45enZZM2JRNkdFUlRod05YcVJDS0ttdnlUWHhpVFNPNHgwOE5RNlFIRENBbFpIN3FRNXZyeHFCeW1uQkx4eGJHNXF5dVdqdFNoOF9kT29udUZoVjBPWURqUlJON2lxcGtCWmJZWjZBVW5jSjNtcmxLYUxrVjVnUEIyd2FPeDlrZFhQYzFvWjMwU05Id203cWo2LWZmUV9tSlF6SlpYM0l1R2hMOXY0Z9IBmwJBVV95cUxQSU1peGwwSmNYdUxkTGd4b3RtcUx0MmpLR3NhTy0xa3RCTnE1OHR3M1ppZV93OEo0MjRaa2pyc3BnTW1zMm56SmE4Qllfb1VFd3ExcHRZYVlFZXJacFRaLXNQWUlRaThmbDd1M3pUSE5tbzJuNmhTbkNYeTIyUWYybW1PUFYydHZEZ3VoYkljRXYxa05wWXBRREEyTzdBQjNvWWtkV2tsc012SzVMeHZWQnJmZEROSUpiWGtzbXJhdTVYbHJtalFBS1RJcG53bFRYWmZEWDF1d29BNW5FaXNCdEptVGhtZjl3bWl2OWNBSzFoUmFEaXVBS1VtM3BDdWxUZ0pHUTd6aUVTWW9mSENpS1REUl9wbWgyUnNB?oc=5",
-          "pubDate": "Mon, 09 Nov 2026 11:16:13 GMT",
-          "source": "Hindustan Times",
-          "description": "US crypto market today: Bitcoin, Ether hit lowest levels since August as Democrats' midterm win raises regulation fears | Hindustan Times Hindustan Times"
+          "title": "Bitcoin, Dogecoin Steady, While Ethereum, XRP Dip: Analyst Calls BTC Accumulation by Major Cohorts During Selloff a 'Bullish Signal' - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQZ0NtQm5LNW5ITGRIbUZra3JPTm9PVGpiTzl1TFhRMHNkNTNYVGQ4NnJMb25jZXVITG9STS0tel9sSkNRd2trMkh1LWJDVnd4dzdndlZCOHZVeXhIcHEwb1VUZmlfbnZydFZZNUNkUnFhSlJyUUxlQ3NveUJaM2U5Tkc3aVdUOE12SW9DamlFNTFVaktpaExtdi1aUVJQaURjNVYxaWE5czkzNjBPcFU0ZjFncTl2cndJZUxSNVhxRnlnUVN5Z3BPR2ktRkdZcE1VMXVmbVoyZUxTY21IejVpbmJ5ZldJdmFEYWlmckpSdFlDeFF2OW5jUzJFYloxWmJVdE1kcXFQTGVKUFhSbEJxMWJXTQ?oc=5",
+          "pubDate": "Tue, 10 Nov 2026 02:21:00 GMT",
+          "source": "TradingView",
+          "description": "Bitcoin, Dogecoin Steady, While Ethereum, XRP Dip: Analyst Calls BTC Accumulation by Major Cohorts During Selloff a 'Bullish Signal' TradingView"
         },
         {
-          "title": "Best Crypto to Buy Now (November 9, 2026) - Top Crypto to Invest In - Cryptonews",
+          "title": "Best Crypto to Buy Now (November 10, 2026) - Top Crypto to Invest In - Cryptonews",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2QWJMZEVIeVZfQktxLW5kQ2lIYUo3VTNzNHdnaFFVNm5fUWl0bWJNSEJIWi1IMDcxQU9lRWdlLTNvUnlmWEh1R0V2cUxCVjFsT1RiV0xHZTZ6di1XcC16UEF6NWpuYWxP?oc=5",
           "pubDate": "Wed, 04 Nov 2026 15:43:13 GMT",
           "source": "Cryptonews",
-          "description": "Best Crypto to Buy Now (November 9, 2026) - Top Crypto to Invest In Cryptonews"
+          "description": "Best Crypto to Buy Now (November 10, 2026) - Top Crypto to Invest In Cryptonews"
         },
         {
           "title": "Why are Bitcoin, Ethereum and Solana Price Crashing Today? - CoinGape",
@@ -536,30 +536,23 @@
           "description": "Ethereum price falls despite BitMine buying another 9,587 ETH Crypto News"
         },
         {
+          "title": "Ethereum (ETH) Price Prediction 2026, 2027 – 2030: Can ETH Reach $10k? - Coinpedia",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNLURBMnFKLVJVem5ONzNIQ3FCTWhndDE0RGFfdHFzd29DVnh6OUxTSW9URUFPLUl3VV9CRTVMcG5IMXNPNUVrZEtQV1ROX2Z0cHFfTFNKMHdoQU1wNFpFTlJfSU5sc2VRZ0kxUFRLN0gxY05UdVo2VGJUcmw1U0Y2cVNab9IBiAFBVV95cUxQX2Raek9wbXMzMVVDNm9RZmhKeFlwdTZxdHdVYjBMMDFhQ1R1RW5pYVdaRkRhUTFTNDBDN3Q0TW4talhodmFfQW1oRHpaQ2Z3UTZEdmNrNG95VWstVkhmNWlwN0xqamdpMktxMVZwcFhMZ0JYeDV3cEpYMmRldnNYV1g5TWplTTB0?oc=5",
+          "pubDate": "Tue, 10 Nov 2026 15:17:27 GMT",
+          "source": "Coinpedia",
+          "description": "Ethereum (ETH) Price Prediction 2026, 2027 – 2030: Can ETH Reach $10k? Coinpedia"
+        },
+        {
           "title": "Top 3 CoinGecko Trending Coins Today: BTC, ETH Fall as JCT Surges - Cryptonews.net",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1teXlkcm0xdWxrdzlaQTNCREdCR3JlWVlkM1RHeExOREQ1OE1hWEdTM1JQVWdWNGE4LUJGWHQ5TmZZVTdkdEhrV29PakVZckwtcjdjS3NoOTZlOGs?oc=5",
           "pubDate": "Mon, 09 Nov 2026 20:37:20 GMT",
           "source": "Cryptonews.net",
           "description": "Top 3 CoinGecko Trending Coins Today: BTC, ETH Fall as JCT Surges Cryptonews.net"
-        },
-        {
-          "title": "Here is Why the Crypto Market Erased Over $120 Billion Today - Coinpedia",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQzdNcWNTS3FXMXdQdU9wNWdvSVRYdWZMUVRRVGJVaUJmLUsxbVRDbExJTDJvNFFOU0hlLVJWQVZrbEs1d1lMLU5YdWNGdVZOeHVnbVFMSEl5bThWRDh1M0hmanJGcXVzSGxLMkt4ZkVkNjhvdG9CMDI1a1gxLTZVYTlaamxMR3l3dkZYb0I0M2rSAZYBQVVfeXFMTnUwTU9MRFliajE0bG53QWlNT1hhOTczWHJvbE92N01qR3Z3VllGSS1Qc3RDQ19TN1I4d2NzUlVzZGM4S0Y4RzlXaVZSWm9FWkFRc3JlYW4wd1oyQjhGTXVuUXp0THdzV053bVUtYW84VkNEd19zT2pRb2FZeVUwRkpEMHdQYW9ITzZjLU93OWhJNnZ6SlBR?oc=5",
-          "pubDate": "Thu, 05 Nov 2026 18:24:00 GMT",
-          "source": "Coinpedia",
-          "description": "Here is Why the Crypto Market Erased Over $120 Billion Today Coinpedia"
-        },
-        {
-          "title": "Bitcoin Slips Below $75,000 as $1.2 Billion in Crypto Liquidations Deepen Market Pressure - Gadgets 360",
-          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxORENoWGJLRXR1bnlKUmV6Zzc3ckt0ekJyZERZazVKQm5WUmEyTzhOSTFyNU9nZmJMOFFPbGVSUlBmb2dGRV85cjRRNnl0cmtlNlFQdThHeWFRMXI3TVB3QWhuSzQ5eUJUOWo4TU5PanpkVkw2eENqbFZ0U2Y5NlhmbW01YV9GYlJrcWpOd2hyZ1NYaVRQZjh1OVNhMU8ySkJhNE43UkVUajVtUzJoeUlXRDR3TEh2dTFBMWFXX09OQTZPWUdPZFVHZFZzdU5jYUlMNURGMHhVZVN1MmlfSFhrUVVoNG9tVXF1VDN5Tk5qWWY2X1hORTRUUUlyWDNlWTk1emxqQjBnNk1JS1Q0QlpiYTVDOXczd9IBmwJBVV95cUxQRDh0ejZ5LXVZT01zVzRabG1hWnRFcWJLRjNMSXlfWkY1eEdQeWxLZm9HbnVIdWdwSXFNNUVQMkJ5V0tpaEJKcFZYZThHRllLcUxJRC1yU3I0NHpYQVhlV2ptalN6ajRoY2s1a2kwc1JFRnNhWF9tU3dVbTkxYThVaVhhd0pEX3RUMi1zV3dRZUNSYTEwZEF4MzFlekhhTzJ1RWw3YkxndXFJQjFaSERlY0c0aDYwSFJQM1EtOFVETHlrSHhYRUpmMGRiMTFseGVuUEdTRzF1T1BETmg3dDByeENqRkdhRDhBZWxFemo0VldYM0NzYkU2bUI2NVQ4N05LSkZjeHdSOHkwYXdCek1XRVJ0RzdwMlBSaW9J?oc=5",
-          "pubDate": "Tue, 10 Nov 2026 09:50:32 GMT",
-          "source": "Gadgets 360",
-          "description": "Bitcoin Slips Below $75,000 as $1.2 Billion in Crypto Liquidations Deepen Market Pressure Gadgets 360"
         }
       ]
     },
     "elon": {
-      "updatedAt": "2026-11-10T13:32:02Z",
+      "updatedAt": "2026-11-10T20:51:52Z",
       "stories": [
         {
           "title": "Elon Musk gambled $445 million to boost Republicans in the midterms. It came up short - PBS",
@@ -569,25 +562,18 @@
           "description": "Elon Musk gambled $445 million to boost Republicans in the midterms. It came up short PBS"
         },
         {
+          "title": "Democrats have been waiting to put Elon Musk under oath. Their chance is coming. - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMEc1ZjlyQWZqWkJ0Y3FuY0I4T2UzRFVrOWpOT1JVVlEwTTFWWURIUm1sSTRRN2R1a1BoZG1zLVVvRnhOOEdiLTRUYm5HeThkaGJHZHBWbzNYMWlXZ0JZYjM4cmJoRDh3TWNRdHN3MVRGeTVhMkhfRmxEMG1LaVFzb043ZTdyVERDa0NYU3lZZ0JDdXM4Ylhad0p2bw?oc=5",
+          "pubDate": "Tue, 10 Nov 2026 17:00:00 GMT",
+          "source": "NBC News",
+          "description": "Democrats have been waiting to put Elon Musk under oath. Their chance is coming. NBC News"
+        },
+        {
           "title": "Elon Musk will face scrutiny from Democrats after midterms - NPR",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVFB1cnJfcnJmRFI3NlJjTWlHeWxkM3V3cEhtYzA5QzkwdURtSnVQM2JEMWhOVnp5bmQtblhZWDlMNHFwTEJOUkwtb0Q4X1MyWXdlNGhTODFKTk52NE0yaW1sZF9OS0Z5OER2NS1YdE1SM2pVQVF0SE5pU0lwdlNnSVFvMm83NWpGV3JmWG9vdUJZdw?oc=5",
           "pubDate": "Wed, 04 Nov 2026 21:11:23 GMT",
           "source": "NPR",
           "description": "Elon Musk will face scrutiny from Democrats after midterms NPR"
-        },
-        {
-          "title": "Elon Musk moved to Texas to escape Democrats — now they’re in charge - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcEZQTHhXenF3cGM4N05GRVVnWTNuS0tlMmp3TkhISkctSkdTd0FpQnd4UU1BVEZZLW84QUcwX25xOTA2NWd4dGppM3QwVFFVaUdzYUh3YnBaRF9VcWhrXzR6eFEwLUowZmhRLWpxNG5LcXVvNm9xY1dtNkpCeHFReFZhb21nS1NJTjk0VVoxTHN2TDAwU25RVWFZZ203MDl0d3NPNg?oc=5",
-          "pubDate": "Wed, 04 Nov 2026 22:44:04 GMT",
-          "source": "NBC News",
-          "description": "Elon Musk moved to Texas to escape Democrats — now they’re in charge NBC News"
-        },
-        {
-          "title": "Elon Musk's business empire braces for Democratic wave as Texas flips blue - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTnZDaGFzNXYwekJoM29EUXZoZFp2b2Voa3Vib2hiMU5jQVpNWGFQZXNuMk5DaWdEUUlvVWNpT3BvNjMxcXN2NDBrX29RUlB2clNoUHhLVEpYM0dDUF9PMWxmSVlsQmZ3MEMzWmU0aWFCUE1YQ3FFMHZvY3B3SVUxOXRIYktUM0ZXSld3bm5ETjlGS0hsYmlTcHlEc0hzVTc3ck9PQ3ZLZTBCVEVybXJzTGI4VXFQZDJ3bjB4YndoeUhkeFk?oc=5",
-          "pubDate": "Thu, 05 Nov 2026 21:33:46 GMT",
-          "source": "Reuters",
-          "description": "Elon Musk's business empire braces for Democratic wave as Texas flips blue Reuters"
         },
         {
           "title": "‘SNL’ has a new impression of Elon Musk, ‘the worst thing South Africa has ever done’ - TechCrunch",
@@ -616,6 +602,13 @@
           "pubDate": "Mon, 09 Nov 2026 21:00:00 GMT",
           "source": "The Guardian",
           "description": "Elon Musk and the tech bros banked on Trump and lost. Humbled, humiliated: what will they do next? | Jonathan Liew The Guardian"
+        },
+        {
+          "title": "Elon Musk's business empire braces for Democratic wave as Texas flips blue - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTnZDaGFzNXYwekJoM29EUXZoZFp2b2Voa3Vib2hiMU5jQVpNWGFQZXNuMk5DaWdEUUlvVWNpT3BvNjMxcXN2NDBrX29RUlB2clNoUHhLVEpYM0dDUF9PMWxmSVlsQmZ3MEMzWmU0aWFCUE1YQ3FFMHZvY3B3SVUxOXRIYktUM0ZXSld3bm5ETjlGS0hsYmlTcHlEc0hzVTc3ck9PQ3ZLZTBCVEVybXJzTGI4VXFQZDJ3bjB4YndoeUhkeFk?oc=5",
+          "pubDate": "Thu, 05 Nov 2026 21:33:46 GMT",
+          "source": "Reuters",
+          "description": "Elon Musk's business empire braces for Democratic wave as Texas flips blue Reuters"
         },
         {
           "title": "Tesla to return Cybertruck deposits to \"a lot of people\" as production winds down, Musk says - CBS News",
@@ -653,67 +646,11 @@
           "description": "Elon Musk sends a strong signal to SpaceX stock investors Yahoo Finance"
         },
         {
-          "title": "Opinion | Elon Musk’s Very Bad Night - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTTEyT1NoSXZyOHBCNjZhdktuNU5tUkNFd2l0M1lBb3BkRUNscWxSZl83YW5UQWNES2ZNX1JHNlZTRnlrb1pxbmU5MC1CTWQtWUNCbGt1WEliZXhsVXVheDN0enN3ZktuYTZqdUZScUdiNTNoVGM2aHZMa1E1RGw3TDhFUDI2Q1U?oc=5",
-          "pubDate": "Thu, 05 Nov 2026 10:05:02 GMT",
-          "source": "The New York Times",
-          "description": "Opinion | Elon Musk’s Very Bad Night The New York Times"
-        },
-        {
-          "title": "Elon Musk Says Tesla Will Have to Return a Lot of Cybertruck Deposits - Business Insider",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaTJRUWtIN3V3X1pnRWRHT2todHAyOG5qRk0yZThsLUxiR2ktV1Vta1VKM0d2Rk54MWwtMEtDNVFiVjMwaFhOdFdyUXFtb3Z0U281VE8zbFhNLV9oZ2YwSHZGVWo5ZXp3eXFNei1fQlRiNWtMdHJPUE1TSWJJX1l1YmM2dUhiUldBWjlLcVFYTjRIUVpETlNNN3hmdV8tN2xRdDFDRVVR?oc=5",
-          "pubDate": "Mon, 09 Nov 2026 10:13:00 GMT",
-          "source": "Business Insider",
-          "description": "Elon Musk Says Tesla Will Have to Return a Lot of Cybertruck Deposits Business Insider"
-        },
-        {
-          "title": "'SNL' Makes Grok Roast Elon Musk On 'Weekend Update' - Deadline",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZGVtZk1XZEQ4Y2x5UUZxV1A5VlBOby1ZRnJ0UldvSGFYd2NiLVl1UFhjTlZHZE5WSV84ZzVMdzMwVEp6MlRObFBrRi1nNFFnN2JYeVlLaU1aLWowY0liUXp1bDVOeVNkT2ZtRlAxaWozbUljQjlvVllQWFUzNGtUWWdlNXFEbDRYTG9TTEJJUWNWNFhfSmkw?oc=5",
-          "pubDate": "Sun, 08 Nov 2026 16:35:00 GMT",
-          "source": "Deadline",
-          "description": "'SNL' Makes Grok Roast Elon Musk On 'Weekend Update' Deadline"
-        },
-        {
-          "title": "Elon Musk’s business empire braces for Democratic wave as Texas flips blue - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUXE0Tzd3TkNCb2h6ZlJXbFNfa3ZUY2dIYngxS0ktazhGYTRpN0c0SEotNDRCVzhaNnFtRWo3ejg4bVVyVDJQOFd3NXBsZ3paMUVDSEtXeXItSFVGWG1Td0R5YXRoMHZnMlg2VHFFajlxeFpHeG02RzhpRVEwVWhqVmRINDFaY0Y3ODlfT1NvTHJyYlByMEczUEtqalhaNElsLWVqVVBKRTlPSDJGVE9QMWdYcUw1clU?oc=5",
-          "pubDate": "Wed, 04 Nov 2026 15:40:06 GMT",
-          "source": "NBC News",
-          "description": "Elon Musk’s business empire braces for Democratic wave as Texas flips blue NBC News"
-        },
-        {
-          "title": "After the midterms, things are looking rocky for Elon Musk and data centers - TechCrunch",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYU1oZzdSaEhoRDBjNHpPaU90MTBiUjlaS29VWFVTX3c1ckFHa0laNTBYN2RHdmFwajFWaWU2c2hjMzRXQUdEUDU4a0s3QUhHWkZsOWNUOHNpcXNpa1JzTTFIQm11dmVXWUhtTmNPUzdrUkY1X3hZdWhvZlBrMW9sbzBWU09EdHFfcHV3WE0wSFJaNVF3Ri0zZEpuUmFtd1Z3S2xuV1BnRnJUallDREE?oc=5",
-          "pubDate": "Sat, 07 Nov 2026 22:07:22 GMT",
-          "source": "TechCrunch",
-          "description": "After the midterms, things are looking rocky for Elon Musk and data centers TechCrunch"
-        },
-        {
-          "title": "Breakingviews - COMMENTARY: Elon Musk and Donald Trump: dynamic antigraft duo - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdUU1OTZxZkJXTkRzWTVuM3pIYlYzcjlfemNYbmxCdGExUmtDMkJ6OG1YLVBZS0VFdDZSTDJnUDE2WEhqQ3JSbS1sYWtwcW1zUGRucWRoT0xwRllSdkFZUXdQeWl5Z3hFWHRrQjNhVFJYOVdIdllKZE41Q2FBNm5ubUQ3Z3E3SmNvOWgwX3dvbzQ3Qm9NTHFLb2kzcVQtVG02WXJhckxrVi0?oc=5",
-          "pubDate": "Wed, 04 Nov 2026 16:07:49 GMT",
-          "source": "Reuters",
-          "description": "Breakingviews - COMMENTARY: Elon Musk and Donald Trump: dynamic antigraft duo Reuters"
-        },
-        {
-          "title": "Elon Musk says Tesla will have to refund some Cybertruck deposits once production is shut down - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMnU4OVdFRUVXVGhRRjlyUzVtZlMtcTZ1Zkoyd2dxWGJ0bnlfSzQ1dFl6dGd1MUMtNWgtVXVPemQ4Q3ZSZTh6aW9HcEtIV3lwZ2l0NkxTRW1RN011bVUteVNjLVNmVjdNTTdWb2tHN2l0SlR0MnpjeU4zSnRscUNCcmYxdUJuZDUyVU95WnA2aEd6U0EzdUd6cjNVamRZdDFvd2tlNG5XYVItZFpnVFlKMnV5VlRjWm5YV1JzOWpUZjFVYU5IdVM3eVJwcWFibnpmOXNr?oc=5",
-          "pubDate": "Mon, 09 Nov 2026 11:35:00 GMT",
-          "source": "CNBC",
-          "description": "Elon Musk says Tesla will have to refund some Cybertruck deposits once production is shut down CNBC"
-        },
-        {
-          "title": "Elon Musk Just Gave the Top End of His SpaceX Revenue Forecast About a 2% Chance. His Best Guess Sits at the Bottom End. - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcG5XeDR2MW1LVG44R0F4QVBqak9yNVo0T1lEa3FsRV9WOUJUSW9hdWptTXpCMTdsdUl1cm1Vb3B3Z1dvNTRvQkpEVndFdHZlWWJxbWdOZWpEU0J2YXR3R19TX3F6a0R5OWZ0QVVoWTV4MDhBZUMxakNRbW02c01Ma2FOMFJHLXl5STJHLTJrcTNyQQ?oc=5",
-          "pubDate": "Tue, 10 Nov 2026 00:55:49 GMT",
-          "source": "Yahoo Finance",
-          "description": "Elon Musk Just Gave the Top End of His SpaceX Revenue Forecast About a 2% Chance. His Best Guess Sits at the Bottom End. Yahoo Finance"
-        },
-        {
-          "title": "Is Elon Musk setting his sights on Hollywood? - Los Angeles Times",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaTlQNWVfQ09mMXlJWjRBZWRXUE1vYVp6UG1HTGI3YTFVN1dBaW44SEtvVGpiNXdWZVVVY0cyNEZqQjFJVUZsc2tTUGcwOV9lYmptOGVXVGhrS2ZjV3U4WEZhZ1NzOTZaZ0I2ckp1WVJuSjgwSU53OW1EelBWS2hvWnBIYTFCWTNMSG1xOGtrRWxOdmEyazR4WlB3YnE3ZGZqMGljTWdB?oc=5",
-          "pubDate": "Tue, 03 Nov 2026 15:00:00 GMT",
-          "source": "Los Angeles Times",
-          "description": "Is Elon Musk setting his sights on Hollywood? Los Angeles Times"
+          "title": "Elon Musk was half right in his comment last week about SoftBank backpedaling on a gas-turbine order - MarketWatch",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZDFBM256N21IaEV5SXNjOEJzSGZWd1lvMXRpZFhrQnMzUjRweFV5Y0ZHcUVyT3l3LWFKTHZpTlg5T3pRVUNtOTZhNENoQjZZaS1JUGVIelJPUHJTRWtPZERhYlRTTWdGZGQxTjBNdkpvNzB2VlVQYkllS3cwajY3LXh2VW9rbTU0cHJMVjRJSm9hdGxMNFBVRkh4akQwZjY4dzZvOGlEZGtXSEVmcHFQMk5oR3NGclM3b3BtQ2VVY1hlc0hGRjg2dkR6aEYwMldFMlVZS2lPYnc1Y0J1?oc=5",
+          "pubDate": "Tue, 10 Nov 2026 15:30:00 GMT",
+          "source": "MarketWatch",
+          "description": "Elon Musk was half right in his comment last week about SoftBank backpedaling on a gas-turbine order MarketWatch"
         },
         {
           "title": "What the Most Expensive Election in Texas Cost Us - Texas Monthly",
@@ -723,74 +660,46 @@
           "description": "What the Most Expensive Election in Texas Cost Us Texas Monthly"
         },
         {
+          "title": "Elon Musk moved to Texas to escape Democrats — now they’re in charge - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcEZQTHhXenF3cGM4N05GRVVnWTNuS0tlMmp3TkhISkctSkdTd0FpQnd4UU1BVEZZLW84QUcwX25xOTA2NWd4dGppM3QwVFFVaUdzYUh3YnBaRF9VcWhrXzR6eFEwLUowZmhRLWpxNG5LcXVvNm9xY1dtNkpCeHFReFZhb21nS1NJTjk0VVoxTHN2TDAwU25RVWFZZ203MDl0d3NPNg?oc=5",
+          "pubDate": "Wed, 04 Nov 2026 22:44:04 GMT",
+          "source": "NBC News",
+          "description": "Elon Musk moved to Texas to escape Democrats — now they’re in charge NBC News"
+        },
+        {
+          "title": "Breakingviews - COMMENTARY: Elon Musk and Donald Trump: dynamic antigraft duo - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdUU1OTZxZkJXTkRzWTVuM3pIYlYzcjlfemNYbmxCdGExUmtDMkJ6OG1YLVBZS0VFdDZSTDJnUDE2WEhqQ3JSbS1sYWtwcW1zUGRucWRoT0xwRllSdkFZUXdQeWl5Z3hFWHRrQjNhVFJYOVdIdllKZE41Q2FBNm5ubUQ3Z3E3SmNvOWgwX3dvbzQ3Qm9NTHFLb2kzcVQtVG02WXJhckxrVi0?oc=5",
+          "pubDate": "Wed, 04 Nov 2026 16:07:49 GMT",
+          "source": "Reuters",
+          "description": "Breakingviews - COMMENTARY: Elon Musk and Donald Trump: dynamic antigraft duo Reuters"
+        },
+        {
+          "title": "After the midterms, things are looking rocky for Elon Musk and data centers - TechCrunch",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYU1oZzdSaEhoRDBjNHpPaU90MTBiUjlaS29VWFVTX3c1ckFHa0laNTBYN2RHdmFwajFWaWU2c2hjMzRXQUdEUDU4a0s3QUhHWkZsOWNUOHNpcXNpa1JzTTFIQm11dmVXWUhtTmNPUzdrUkY1X3hZdWhvZlBrMW9sbzBWU09EdHFfcHV3WE0wSFJaNVF3Ri0zZEpuUmFtd1Z3S2xuV1BnRnJUallDREE?oc=5",
+          "pubDate": "Sat, 07 Nov 2026 22:07:22 GMT",
+          "source": "TechCrunch",
+          "description": "After the midterms, things are looking rocky for Elon Musk and data centers TechCrunch"
+        },
+        {
+          "title": "Elon Musk says Tesla will have to refund some Cybertruck deposits once production is shut down - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMnU4OVdFRUVXVGhRRjlyUzVtZlMtcTZ1Zkoyd2dxWGJ0bnlfSzQ1dFl6dGd1MUMtNWgtVXVPemQ4Q3ZSZTh6aW9HcEtIV3lwZ2l0NkxTRW1RN011bVUteVNjLVNmVjdNTTdWb2tHN2l0SlR0MnpjeU4zSnRscUNCcmYxdUJuZDUyVU95WnA2aEd6U0EzdUd6cjNVamRZdDFvd2tlNG5XYVItZFpnVFlKMnV5VlRjWm5YV1JzOWpUZjFVYU5IdVM3eVJwcWFibnpmOXNr?oc=5",
+          "pubDate": "Mon, 09 Nov 2026 11:35:00 GMT",
+          "source": "CNBC",
+          "description": "Elon Musk says Tesla will have to refund some Cybertruck deposits once production is shut down CNBC"
+        },
+        {
+          "title": "Elon Musk’s business empire braces for Democratic wave as Texas flips blue - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUXE0Tzd3TkNCb2h6ZlJXbFNfa3ZUY2dIYngxS0ktazhGYTRpN0c0SEotNDRCVzhaNnFtRWo3ejg4bVVyVDJQOFd3NXBsZ3paMUVDSEtXeXItSFVGWG1Td0R5YXRoMHZnMlg2VHFFajlxeFpHeG02RzhpRVEwVWhqVmRINDFaY0Y3ODlfT1NvTHJyYlByMEczUEtqalhaNElsLWVqVVBKRTlPSDJGVE9QMWdYcUw1clU?oc=5",
+          "pubDate": "Wed, 04 Nov 2026 15:40:06 GMT",
+          "source": "NBC News",
+          "description": "Elon Musk’s business empire braces for Democratic wave as Texas flips blue NBC News"
+        },
+        {
           "title": "Robert De Niro Knocks Elon Musk At 'Musk' Documentary Screening - Deadline",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxON0hPZUhHa1JhQUw0RTR5eEx1c2FSeVNVRnBuRExWSEg0TlJLbzdETEswZndTU183NWt0a2Nhd3dWbTJmWmRFd1M1dHBBZHZubkVDRm1zM2k2QlJveWZzbWtkUDkwRURnRUltRG5Wc3EwcnZPSW1vc243Zkg0dElKRGpBeGYzdjdSWWc?oc=5",
           "pubDate": "Mon, 09 Nov 2026 05:17:00 GMT",
           "source": "Deadline",
           "description": "Robert De Niro Knocks Elon Musk At 'Musk' Documentary Screening Deadline"
-        },
-        {
-          "title": "How much of Elon Musk’s wealth is in Tesla & SpaceX stock? - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMlJTV1pTME1Jakh6N0VueTRid0FUZ2g0em5kOTNJMUJyMDZ4cVRYQ3ZmWUdjckZmeGlSbHg0SUZ2UEFGNElyY1pqdEUzNUdRRlhDUHVoRUVkTEY3dHNxNFpHbHJXODRJMUxtUEtMRC1NeUN0MFhpdHpnbFUzQWVEdW5Id2d4V0FLMlFqanE3SmJRV3VWOEFz?oc=5",
-          "pubDate": "Tue, 10 Nov 2026 00:05:00 GMT",
-          "source": "Yahoo Finance",
-          "description": "How much of Elon Musk’s wealth is in Tesla & SpaceX stock? Yahoo Finance"
-        },
-        {
-          "title": "Tesla to refund many Cybertruck deposits as demand exceeds production, Musk says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdmxXd1NfTG9yQmRhOEhTQ3FqcE9pRjVMNmF3bjBRSjJnLVgzWTlVOGo1SjVUMGQ4NjVoMDkwZENLb0pQUmlmYjZ2NVJIQkZ2dGVON2N4SUt0MlhPVHpaVl82SFU3QVJ4aVJ3bWNtdE5zcEdzVkZYWDdnblg1YXVRdnZGTkw5X0lQbmYwYjFteklUZ1dKR3RDbndXSEJVX24yVmFlVk9WOU1GVlBvT0sxRlJGSlZiS3MyS1J5cHRFN1ZXbmdIcFEyYU9LUHo4MDNGSGdZbGVn?oc=5",
-          "pubDate": "Mon, 09 Nov 2026 07:36:00 GMT",
-          "source": "Reuters",
-          "description": "Tesla to refund many Cybertruck deposits as demand exceeds production, Musk says Reuters"
-        },
-        {
-          "title": "'Texas Belongs to Us': Voters Defeat Elon Musk's Millions to Deliver 'Blue Tsunami of Epic Proportions' - Common Dreams",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5aRzMzTW5tYjdDZzNxekY4eUxoRS1oaE83Y3JueXZNbFNWc1ZZWlREbG9uYXZTVXVTYmQ1ejlTbm5GWFZ4NmNPdEVUcmh0VFVXZVVYb25QS3NSV0l4OFE?oc=5",
-          "pubDate": "Wed, 04 Nov 2026 11:57:38 GMT",
-          "source": "Common Dreams",
-          "description": "'Texas Belongs to Us': Voters Defeat Elon Musk's Millions to Deliver 'Blue Tsunami of Epic Proportions' Common Dreams"
-        },
-        {
-          "title": "What does Texas’ blue wave mean for Elon Musk? - The Real Deal",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbmFjd3dUN19LVmFkNXNPXzRaQ2dvdFpoM0JsMHlvVFFXMnRQSGJ5THJiUWNTdHF3WjRnQ3UxU2hjdXJndFUtYVh1WW84VjN6Rlh6SHQ1MmFvTU1WTjFiaEZfS3MzZ05MR3VYRzhycVFDUWhqcUtVckdYWExLTFBnV1psTnRHeEF3SkU4bUtjYUNQQQ?oc=5",
-          "pubDate": "Sun, 08 Nov 2026 15:00:00 GMT",
-          "source": "The Real Deal",
-          "description": "What does Texas’ blue wave mean for Elon Musk? The Real Deal"
-        },
-        {
-          "title": "Elon Musk announces Tesla will ‘wind down production’ of Cybertruck next year - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPY09YVkU1Rkp0aUZibWFWZE5nM1NVT2Y5RlZKVTd2c21pWndxeXNfUzFCS0hIRXpZX0p0dWlYbURuR0EyQTlDZUtpV0dCc0pNdzdDbm1UVkxCbFkyZ1Fwbkk1YVUtYWNBaTF2eWM4MGd3eGhpaWJBZ1hVRWpjV2dMQTdiTVNYOVlVdzBoZm5UaUhsOElvVDU5NFNlRQ?oc=5",
-          "pubDate": "Fri, 06 Nov 2026 22:09:31 GMT",
-          "source": "Yahoo Finance",
-          "description": "Elon Musk announces Tesla will ‘wind down production’ of Cybertruck next year Yahoo Finance"
-        },
-        {
-          "title": "Elon Musk | SpaceX, Tesla, xAI, X, & PayPal - Britannica",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5xeFllLWI4enZVQmExeDZsV2Ewa19ESXc4XzVlUmc3N29kQmhyRnZOa2dWUlV1SFd2bHBkS3FrX0ZTTW5PekRWaFUweEFOMkgwRDNnRQ?oc=5",
-          "pubDate": "Fri, 06 Nov 2026 08:00:00 GMT",
-          "source": "Britannica",
-          "description": "Elon Musk | SpaceX, Tesla, xAI, X, & PayPal Britannica"
-        },
-        {
-          "title": "Elon Musk Confirms ‘Global Bankruptcy’ Fears As Tesla And SpaceX Explore Bitcoin Price Game-Changer - Forbes",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWm1DVnZDWlVCRjE2NkVqaFdnZEhsNE9UWHZLZVB2UzJHTFR6c3RwbGFfSWRKZjZ5ZW03OWFqSFcwN2dWd2VldTJTT05NeDRTeHExVXJVc094VFItNk8yZHZTOGNvV1ZraDVpRGdkSElTVVFmWU5oazdHZzRwX2hreHhleVViSmpWcFhSakl4dk9RNmhXSnZiY0pnMmszQndXY0ZNX0UwZHdoLUlWODRBZHhmQ2s2b2RYTTNsYWIwVUtRbHNOWXZ6eTRraF81VVdlZEFGRk5R?oc=5",
-          "pubDate": "Mon, 09 Nov 2026 21:18:00 GMT",
-          "source": "Forbes",
-          "description": "Elon Musk Confirms ‘Global Bankruptcy’ Fears As Tesla And SpaceX Explore Bitcoin Price Game-Changer Forbes"
-        },
-        {
-          "title": "Alas, poor Elon - Financial Times",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSGV5cVJLVEJhZnNZWjAtd1NYTHFER285Vkc2TEZTQnhBWkRYdTJ1X185eEhYaHM0V3g4czFvQkV3OXlQYmFmUm9fYk8xcUpvblN5VWNvV0lJc1BrdTJLV3lPRUlWazRkX2RiNC1rV2lnekRKYnc3WEdtX2JQUG1UQWY1N1E?oc=5",
-          "pubDate": "Fri, 06 Nov 2026 14:00:05 GMT",
-          "source": "Financial Times",
-          "description": "Alas, poor Elon Financial Times"
-        },
-        {
-          "title": "Texas turns blue in stunning rebuke of Donald Trump, Elon Musk and GOP - The Japan Times",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQa1h4c0s4WndVcXZzbGMyMVFOZUdyUGxqdWNvSUR3VWh3T1I1dzVTalhDbjYxWHNEaThfcVV6RWpMRWJma2NMOU5kdUM1eWtZUXF1R0xWU0pOZEIySG1lU09oYnZsZGpYbW1SVDl5YmVYOE5Fd0NTSXp0ZF96czJkbE5RREVTazhrbW1BcEFGQ1JaVnBs?oc=5",
-          "pubDate": "Wed, 04 Nov 2026 22:14:00 GMT",
-          "source": "The Japan Times",
-          "description": "Texas turns blue in stunning rebuke of Donald Trump, Elon Musk and GOP The Japan Times"
         },
         {
           "title": "There’s a Reason Elon Musk’s Cybertruck Never Took Off. Actually, There Are a Few. - Slate Magazine",
@@ -800,67 +709,32 @@
           "description": "There’s a Reason Elon Musk’s Cybertruck Never Took Off. Actually, There Are a Few. Slate Magazine"
         },
         {
-          "title": "Elon Musk Says Tesla Will Refund Many Cybertruck Deposits Before Production Ends: 7 outlets compared - NewsCord",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxORWxKLTEwT0ZzZGpqQS1GY29hd0o4dkVUcFhrdU5QM1lxMktTZ2NELTY4UjQ1RHVMVkUzWHhueEJmYzJwRVkzamRSMlJqOHpKT09rX1JLcDA0U1F1LTBiTHlmZzhkdDVjaTk3MkRtQ2IySTBndXBzamswWVNpSnd6VzF0cXZhREFXejFUdnduSDlPa2Z4U015S3VzSXlLX0s1N0hHM1N2TU1XTHRJU2g4VHlJR3pLV18takJCTm14eUd4aGtGNFZ5am00V0NDbnR3X2Y4cDVnYk9NZTBpZmpiT29YRVZKRXkwaGc?oc=5",
-          "pubDate": "Mon, 09 Nov 2026 17:28:11 GMT",
-          "source": "NewsCord",
-          "description": "Elon Musk Says Tesla Will Refund Many Cybertruck Deposits Before Production Ends: 7 outlets compared NewsCord"
+          "title": "'Texas Belongs to Us': Voters Defeat Elon Musk's Millions to Deliver 'Blue Tsunami of Epic Proportions' - Common Dreams",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5aRzMzTW5tYjdDZzNxekY4eUxoRS1oaE83Y3JueXZNbFNWc1ZZWlREbG9uYXZTVXVTYmQ1ejlTbm5GWFZ4NmNPdEVUcmh0VFVXZVVYb25QS3NSV0l4OFE?oc=5",
+          "pubDate": "Wed, 04 Nov 2026 11:57:38 GMT",
+          "source": "Common Dreams",
+          "description": "'Texas Belongs to Us': Voters Defeat Elon Musk's Millions to Deliver 'Blue Tsunami of Epic Proportions' Common Dreams"
         },
         {
-          "title": "Silicon Valley and Trump rally behind Nvidia CEO after his affair with alleged Chinese spy - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYWphZ29PZGtSWlZIVHJxZlhzQTVQWkxEaElkZmxwWlY1MXBzOVlYelNfUUVlNHFXM1k5RHI2WFdCUVh0RFJMWHgzZEMwWXdDWXZjd3VlU3RvUVdObDA2Y2lsbUFySUJmdFJYZlo5NkRRd2YwWU5mLWswUFlDX3pNbEl6b1JSbms3cHd2eVVnSlg4dw?oc=5",
-          "pubDate": "Mon, 09 Nov 2026 16:42:00 GMT",
-          "source": "The Guardian",
-          "description": "Silicon Valley and Trump rally behind Nvidia CEO after his affair with alleged Chinese spy The Guardian"
-        },
-        {
-          "title": "Elon Musk's Tesla to 'wind down' Cybertruck production next year - Euronews.com",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUDdsS0duRGhld0xCUTc1UEMxbHViZlhjT25fZFJBemg1TWxDNFRtMllKZnYwLXhKbUlRUGpsV2x5Y0ZFR3dwU0JpaThCQlc4TFlFYThoMVVtOV9SMFMtU0VxWk5nOWVZWTl6Mm5Nbm9ZUngyd1RzNE5xRGhKM2NsV0Y2WlhaSUtrYkxBcTZYeXhKY0h5RXFNbXdwd1BpZw?oc=5",
-          "pubDate": "Fri, 06 Nov 2026 16:44:26 GMT",
-          "source": "Euronews.com",
-          "description": "Elon Musk's Tesla to 'wind down' Cybertruck production next year Euronews.com"
-        },
-        {
-          "title": "Russia races to build rival to Elon Musk’s Starlink - Financial Times",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYXlweW85SzBiZWVLdzRGLVpBZV9IcFVMVTF3M0JPazJwaTVUcWZqcXJ4clVDQ2dyNTlISXhYZ21qLUYzSVRxNVhZYWtBeHNxZXdOZXZEbjNDMGlHX1RBOG5tNGRHd3RydTNUbWhqV3JqVzlVb3BOUGgxRlpUQjI4SG0tS2w?oc=5",
-          "pubDate": "Sun, 08 Nov 2026 05:03:33 GMT",
-          "source": "Financial Times",
-          "description": "Russia races to build rival to Elon Musk’s Starlink Financial Times"
-        },
-        {
-          "title": "Elon Musk Says Tesla Will Refund Deposits To A ‘Lot Of People’ As Cybertruck Production Winds Down – Robotaxi Makes San Antonio Debut - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWDA2d3lQN2ZMVXRRT0VfcDBqbmY4X3g3bkU0OGg3cW1HcldwOEtDSzRyemlPeF9MVTJXMWV0SEsteGVpdEFINEp2VF9ubktvd0hoTVVwSjVpczUtVDdZdk1FeFNqd3BhMng4SC1aTWJxV0dTUlZycEYxVEs1TkVXTGpSVlZrT09PT082dW84Z2JheUlvdW5z?oc=5",
-          "pubDate": "Mon, 09 Nov 2026 11:33:29 GMT",
+          "title": "How much of Elon Musk’s wealth is in Tesla & SpaceX stock? - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMlJTV1pTME1Jakh6N0VueTRid0FUZ2g0em5kOTNJMUJyMDZ4cVRYQ3ZmWUdjckZmeGlSbHg0SUZ2UEFGNElyY1pqdEUzNUdRRlhDUHVoRUVkTEY3dHNxNFpHbHJXODRJMUxtUEtMRC1NeUN0MFhpdHpnbFUzQWVEdW5Id2d4V0FLMlFqanE3SmJRV3VWOEFz?oc=5",
+          "pubDate": "Tue, 10 Nov 2026 00:05:00 GMT",
           "source": "Yahoo Finance",
-          "description": "Elon Musk Says Tesla Will Refund Deposits To A ‘Lot Of People’ As Cybertruck Production Winds Down – Robotaxi Makes San Antonio Debut Yahoo Finance"
+          "description": "How much of Elon Musk’s wealth is in Tesla & SpaceX stock? Yahoo Finance"
         },
         {
-          "title": "Elon Musk denies Cybertruck losses as Tesla to refund buyers - The Times",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVXRtVEFPbER2ZVpqWXZKUVZKd0EzRWpTaThTNHM2Nk43Q05uODIwc2VtYjdNaUwyX2t5djQwUW14Q0J3Qk9hNlBQbFQ3WXMyamlULXZnRW9hTzV2Y21CSGhabUo4QjBreXFDWU8zMVZmRzBSRW4td0NnMXhZdHE1NnNIVnM2ejYybzhjTk53YWRMcnBIN1M1dm0xUHdpUzRldkxYSUJQVG1ZMEtkYXR2MEdmQlBwTG52NE1OMFZzSU5TR1I5ZHc?oc=5",
-          "pubDate": "Mon, 09 Nov 2026 09:45:06 GMT",
-          "source": "The Times",
-          "description": "Elon Musk denies Cybertruck losses as Tesla to refund buyers The Times"
+          "title": "Texas Democrats call for stricter rules on Elon Musk - Fox Business",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Ua3pSRnlwbmlNTzI3WjJnVUNBMXAzajNyTjZmTDYtWHVVcnZidTZWWGxWLVJzX0VQQ3dEQTNyUkJWLThVRnFnOERsQWpQVlVqSTdIUklNQXFUbTA?oc=5",
+          "pubDate": "Tue, 10 Nov 2026 00:17:10 GMT",
+          "source": "Fox Business",
+          "description": "Texas Democrats call for stricter rules on Elon Musk Fox Business"
         },
         {
-          "title": "Elon Musk wants to give stock to kids. What’s the problem? - Financial Times",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jeFVvanhSM1BlTHZvT2ZIZnRTeWotdDkyNHNzb045YXhYbTFkZWlJUFUzSUpOelluUnVjcUd6Q190R3ZQQkd4ZVRreW1xRTg2UC1vYnBjRmp2dDdrSDRGOVljbFpxRTdBcmYyYmNvOUk?oc=5",
-          "pubDate": "Fri, 06 Nov 2026 18:00:10 GMT",
-          "source": "Financial Times",
-          "description": "Elon Musk wants to give stock to kids. What’s the problem? Financial Times"
-        },
-        {
-          "title": "Elon Musk says Tesla must refund Cybertruck deposits to ‘a lot of people’; he touted 250K reservations back in 2019 - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYkNZblZWUmZIaVAwbEs2OWQwNjBhWnN5Y2VrZUFxaXZ5dmtPSGpEcUVnWG5mMUlUR0VmTExWVGxKenZUeEZvUWtGX21Nak85OXpVQzlfcllpX0Z0d3ZkTTk4OVkzZTd1bzRtdjczM0E0OERBLXVlZUVMeTlrZ0JHLW50eFUzbHo4S1pkVTJna193QzBM?oc=5",
-          "pubDate": "Mon, 09 Nov 2026 23:15:00 GMT",
+          "title": "Elon Musk Just Gave the Top End of His SpaceX Revenue Forecast About a 2% Chance. His Best Guess Sits at the Bottom End. - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcG5XeDR2MW1LVG44R0F4QVBqak9yNVo0T1lEa3FsRV9WOUJUSW9hdWptTXpCMTdsdUl1cm1Vb3B3Z1dvNTRvQkpEVndFdHZlWWJxbWdOZWpEU0J2YXR3R19TX3F6a0R5OWZ0QVVoWTV4MDhBZUMxakNRbW02c01Ma2FOMFJHLXl5STJHLTJrcTNyQQ?oc=5",
+          "pubDate": "Tue, 10 Nov 2026 00:55:49 GMT",
           "source": "Yahoo Finance",
-          "description": "Elon Musk says Tesla must refund Cybertruck deposits to ‘a lot of people’; he touted 250K reservations back in 2019 Yahoo Finance"
-        },
-        {
-          "title": "Ross Gerber Says Tesla's 'Good Old Days' Ended When Elon Musk Started Selling Shares to Buy Twitter - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUVZ4LVNiemNpQjEyS0VjWVBPZnN1SmwzaDBmUTAxQjhoU00zWXB3bmhrMHF1WUp1dkxLOElwNjUtTHNZS2tFVTV0R0hPM3FIVmxmSmhWdHhYb0lpQjZQTlpXTlNhdk1BWXAxeUJqQTdrTUlOQ1pOdmp4RXFVLXozTEppSVpiZ3dMNHZSbldQeEpra2VJODZvaQ?oc=5",
-          "pubDate": "Mon, 09 Nov 2026 03:37:14 GMT",
-          "source": "Yahoo Finance",
-          "description": "Ross Gerber Says Tesla's 'Good Old Days' Ended When Elon Musk Started Selling Shares to Buy Twitter Yahoo Finance"
+          "description": "Elon Musk Just Gave the Top End of His SpaceX Revenue Forecast About a 2% Chance. His Best Guess Sits at the Bottom End. Yahoo Finance"
         },
         {
           "title": "Our Art Correspondent Weighs In on Elon Musk’s Cybertruck: Dumb, Ugly, and Mercifully Dead - Vanity Fair",
@@ -870,32 +744,102 @@
           "description": "Our Art Correspondent Weighs In on Elon Musk’s Cybertruck: Dumb, Ugly, and Mercifully Dead Vanity Fair"
         },
         {
-          "title": "Elon Musk Confirms Cybertruck Production Wind-Down at Texas Factory as Tesla Makes Room for Cybercab - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdzEyekh6NXpScVBaWHliMjQ4M3R5d2JnSHNKNEUxVFdLVTI3QmFvN3pkVFoteE10OUw0VHVPYk80VDBBTGdzSXZDNlNnanZ2dklBWmVCT0plUGI5STJQMm5xNUw2QW9iUi1xbVczdF93UmVFbllvQ1p1NzZEMjMxbWxza3Y1TDR5Zmtqb0ZmcWxwbG1wNUVvRnNkOXRibWxjS2U0bGJsNWE?oc=5",
-          "pubDate": "Mon, 09 Nov 2026 19:00:05 GMT",
+          "title": "Elon Musk | SpaceX, Tesla, xAI, X, & PayPal - Britannica",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5xeFllLWI4enZVQmExeDZsV2Ewa19ESXc4XzVlUmc3N29kQmhyRnZOa2dWUlV1SFd2bHBkS3FrX0ZTTW5PekRWaFUweEFOMkgwRDNnRQ?oc=5",
+          "pubDate": "Fri, 06 Nov 2026 08:00:00 GMT",
+          "source": "Britannica",
+          "description": "Elon Musk | SpaceX, Tesla, xAI, X, & PayPal Britannica"
+        },
+        {
+          "title": "Texas turns blue in stunning rebuke of Donald Trump, Elon Musk and GOP - The Japan Times",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQa1h4c0s4WndVcXZzbGMyMVFOZUdyUGxqdWNvSUR3VWh3T1I1dzVTalhDbjYxWHNEaThfcVV6RWpMRWJma2NMOU5kdUM1eWtZUXF1R0xWU0pOZEIySG1lU09oYnZsZGpYbW1SVDl5YmVYOE5Fd0NTSXp0ZF96czJkbE5RREVTazhrbW1BcEFGQ1JaVnBs?oc=5",
+          "pubDate": "Wed, 04 Nov 2026 22:14:00 GMT",
+          "source": "The Japan Times",
+          "description": "Texas turns blue in stunning rebuke of Donald Trump, Elon Musk and GOP The Japan Times"
+        },
+        {
+          "title": "Elon Musk announces Tesla will ‘wind down production’ of Cybertruck next year - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPY09YVkU1Rkp0aUZibWFWZE5nM1NVT2Y5RlZKVTd2c21pWndxeXNfUzFCS0hIRXpZX0p0dWlYbURuR0EyQTlDZUtpV0dCc0pNdzdDbm1UVkxCbFkyZ1Fwbkk1YVUtYWNBaTF2eWM4MGd3eGhpaWJBZ1hVRWpjV2dMQTdiTVNYOVlVdzBoZm5UaUhsOElvVDU5NFNlRQ?oc=5",
+          "pubDate": "Fri, 06 Nov 2026 22:09:31 GMT",
           "source": "Yahoo Finance",
-          "description": "Elon Musk Confirms Cybertruck Production Wind-Down at Texas Factory as Tesla Makes Room for Cybercab Yahoo Finance"
+          "description": "Elon Musk announces Tesla will ‘wind down production’ of Cybertruck next year Yahoo Finance"
         },
         {
-          "title": "Michael Lewis on the ‘blockers’ who stood up to Elon Musk’s Doge - video - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVV9FTXdlWUxZcFFFUFlRRTBpRUo5LU50MGphVjRjS1JHSXJ5TDIwbEpnLVNoc1ZYRkF2UzJtNEpYcFlrM1d6OEtxS0hMUWQ1OC1RZDhsc0N1cWJKeVV2QmhYVWRrOXlVVk5HYk96QVdlOVQyUk5PS3BPMDJ3dkR0RnRLWFN1cVo1emNxRktzMk84SXBQOW9SQXdCTFlEWE50TnNMZVVneXFlUTZUSUxfbkxVby1uSjYyRnFERXhhYlM1UQ?oc=5",
-          "pubDate": "Mon, 09 Nov 2026 10:00:00 GMT",
-          "source": "The Guardian",
-          "description": "Michael Lewis on the ‘blockers’ who stood up to Elon Musk’s Doge - video The Guardian"
+          "title": "Musk expected to join Trump at APEC; Huang's participation in doubt, SCMP reports - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUFZYeFlDenFpNk9MMWhjNGF1TXVTZkZWaU5oWUdQemhEZ2ZfT1B0b29WcU14WTZFeW9rQnM4eWZjMGtIRlJWRm10NEFJaDBpTVZRSjNZMjJjcFo0MUdZZTdTTFVhR2dQeFNNZFQxcW5oRzNIVFJtbmJwRlh2dWxHNk1fWDYwTWtTX3p3LXZRNU1PVVJYZno2WGtKV0w5d2NMQ0dwZGFxQk5HN1pXTDBaa3RfSFpyX2NjZklUeWU3V2MzbU1YcGxJ?oc=5",
+          "pubDate": "Tue, 10 Nov 2026 08:32:30 GMT",
+          "source": "Reuters",
+          "description": "Musk expected to join Trump at APEC; Huang's participation in doubt, SCMP reports Reuters"
         },
         {
-          "title": "Elon Musk Says Don’t Cry In The “Casino” When Talking About A Hit To SpaceX Revenue & AI Compute Agreements Worth Billions Of Dollars - Wccftech",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWGRQNzEtUkJ6Rm9CWGFOZGpNV2h0ZThiamFCY0xVankwMnVHS1NxeFh4Y3Nkc1lkT3FzY0lhX2R6WXV2RktuZ0p6ejFId3ZNZUFGVDFoVThVeExla2hsVDVoODd1aFgtYmNLZHl0alFGTVpmeWVTWWR4eWQ1SjZDakdBNmt3NDgwNU9XeTVUT29TMklIRjNxS3hkTmFPVllMbTNncUZVX1JwZVdQN3Y2a1V5b0ZKQXg3U21fWmxPWl9abjc3dW9jcmJzaC1ibWVrWTJ0NmJhZHdja1pIYnZPSld5OUTSAeoBQVVfeXFMUFduWkR0dHA3XzFvb2pMcjlkdHVBXzNzRnBYbVhGZ2dDOFlIM0JXWER4QU5hNUNuRUxOU0dwX1hwNEtGTEhIYS1DbDFFMkVpdi1GNERFZUxiU1Z2UUdaYS01eXJyZnpOT3FJSldSSnJCWEFSTEhnOS1iN3EwQ2FRM3hyN3E5Q29BcmNvTUFQYTVXeVVDak5HMFdhSGhraFBXTTIxeXJ6SFhERHN5TDdTTU02dTJja3JNRTNwRHVZNGZLa3ZtSndzR3VJUnNLbDhUTGVlZmJDOHZmVE8yeDBjZW1OT3hTWHoxTVBR?oc=5",
-          "pubDate": "Mon, 09 Nov 2026 11:31:44 GMT",
-          "source": "Wccftech",
-          "description": "Elon Musk Says Don’t Cry In The “Casino” When Talking About A Hit To SpaceX Revenue & AI Compute Agreements Worth Billions Of Dollars Wccftech"
+          "title": "SpaceX is competing for NASA’s $10 billion in contracts to build a moon base - Fortune",
+          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNSW5pbGN3cDlhVkt6YzZkZnJHQWJUZEcxZEthNi1RaDNIUG1ZRWpKbDJOcFNmNy10bENTeE1JS3J4cWh4OUhSbEZoLTRvemdnMnpkRmZSSkJrYnRDV3UtMVVEaGFlTFVhVWVtek9WUE1US09pa1lnN0JpSWRPVHBWWWdsY1lzaDVmZVpKNlEzdUxIdXFVNGNGLTAxc1VSRE9wT001QXdQUlBPZEhqTlBydXpBRXBwaXZ6ZVpZNEVLUk1udXNzWWVxUmp3dWtFaEJfcGNRb2wxWFRlR3UtLXBsdGxLT1YyZ1dYZ2VEdnZ4RU5tTnF6bFpXRUhaR01TdndOWk9VVQ?oc=5",
+          "pubDate": "Tue, 10 Nov 2026 18:17:00 GMT",
+          "source": "Fortune",
+          "description": "SpaceX is competing for NASA’s $10 billion in contracts to build a moon base Fortune"
         },
         {
-          "title": "Elon Musk faces a new $28.5 trillion problem after Texas upset - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTnlfejJydHFKdzQzdnZnSzUxMVFHanhxQ0h5OFlKNy1WRnNqeEtlZF81QmFKeHoyS3B6eHVLQzFVUUlZWW1aU2t5cEx4ckkxWXdnU2ZWVW9PNU01RFc2eWFfNkVlQXZhNlg5dFhkY3kzSmpYdFMtd3g0WlRORDhlWGdjeEZPeGJIUFVwNg?oc=5",
-          "pubDate": "Thu, 05 Nov 2026 15:07:47 GMT",
+          "title": "Alas, poor Elon - Financial Times",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSGV5cVJLVEJhZnNZWjAtd1NYTHFER285Vkc2TEZTQnhBWkRYdTJ1X185eEhYaHM0V3g4czFvQkV3OXlQYmFmUm9fYk8xcUpvblN5VWNvV0lJc1BrdTJLV3lPRUlWazRkX2RiNC1rV2lnekRKYnc3WEdtX2JQUG1UQWY1N1E?oc=5",
+          "pubDate": "Fri, 06 Nov 2026 14:00:05 GMT",
+          "source": "Financial Times",
+          "description": "Alas, poor Elon Financial Times"
+        },
+        {
+          "title": "Elon Musk Says Tesla Will Refund Deposits To A ‘Lot Of People’ As Cybertruck Production Winds Down – Robotaxi Makes San Antonio Debut - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWDA2d3lQN2ZMVXRRT0VfcDBqbmY4X3g3bkU0OGg3cW1HcldwOEtDSzRyemlPeF9MVTJXMWV0SEsteGVpdEFINEp2VF9ubktvd0hoTVVwSjVpczUtVDdZdk1FeFNqd3BhMng4SC1aTWJxV0dTUlZycEYxVEs1TkVXTGpSVlZrT09PT082dW84Z2JheUlvdW5z?oc=5",
+          "pubDate": "Mon, 09 Nov 2026 11:33:29 GMT",
           "source": "Yahoo Finance",
-          "description": "Elon Musk faces a new $28.5 trillion problem after Texas upset Yahoo Finance"
+          "description": "Elon Musk Says Tesla Will Refund Deposits To A ‘Lot Of People’ As Cybertruck Production Winds Down – Robotaxi Makes San Antonio Debut Yahoo Finance"
+        },
+        {
+          "title": "Russia races to build rival to Elon Musk’s Starlink - Financial Times",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYXlweW85SzBiZWVLdzRGLVpBZV9IcFVMVTF3M0JPazJwaTVUcWZqcXJ4clVDQ2dyNTlISXhYZ21qLUYzSVRxNVhZYWtBeHNxZXdOZXZEbjNDMGlHX1RBOG5tNGRHd3RydTNUbWhqV3JqVzlVb3BOUGgxRlpUQjI4SG0tS2w?oc=5",
+          "pubDate": "Sun, 08 Nov 2026 05:03:33 GMT",
+          "source": "Financial Times",
+          "description": "Russia races to build rival to Elon Musk’s Starlink Financial Times"
+        },
+        {
+          "title": "Elon Musk denies Cybertruck losses as Tesla to refund buyers - The Times",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVXRtVEFPbER2ZVpqWXZKUVZKd0EzRWpTaThTNHM2Nk43Q05uODIwc2VtYjdNaUwyX2t5djQwUW14Q0J3Qk9hNlBQbFQ3WXMyamlULXZnRW9hTzV2Y21CSGhabUo4QjBreXFDWU8zMVZmRzBSRW4td0NnMXhZdHE1NnNIVnM2ejYybzhjTk53YWRMcnBIN1M1dm0xUHdpUzRldkxYSUJQVG1ZMEtkYXR2MEdmQlBwTG52NE1OMFZzSU5TR1I5ZHc?oc=5",
+          "pubDate": "Mon, 09 Nov 2026 09:45:06 GMT",
+          "source": "The Times",
+          "description": "Elon Musk denies Cybertruck losses as Tesla to refund buyers The Times"
+        },
+        {
+          "title": "Elon Musk says Tesla must refund Cybertruck deposits to ‘a lot of people’; he touted 250K reservations back in 2019 - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYkNZblZWUmZIaVAwbEs2OWQwNjBhWnN5Y2VrZUFxaXZ5dmtPSGpEcUVnWG5mMUlUR0VmTExWVGxKenZUeEZvUWtGX21Nak85OXpVQzlfcllpX0Z0d3ZkTTk4OVkzZTd1bzRtdjczM0E0OERBLXVlZUVMeTlrZ0JHLW50eFUzbHo4S1pkVTJna193QzBM?oc=5",
+          "pubDate": "Mon, 09 Nov 2026 23:15:00 GMT",
+          "source": "Yahoo Finance",
+          "description": "Elon Musk says Tesla must refund Cybertruck deposits to ‘a lot of people’; he touted 250K reservations back in 2019 Yahoo Finance"
+        },
+        {
+          "title": "Elon Musk's Tesla to 'wind down' Cybertruck production next year - Euronews",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUDdsS0duRGhld0xCUTc1UEMxbHViZlhjT25fZFJBemg1TWxDNFRtMllKZnYwLXhKbUlRUGpsV2x5Y0ZFR3dwU0JpaThCQlc4TFlFYThoMVVtOV9SMFMtU0VxWk5nOWVZWTl6Mm5Nbm9ZUngyd1RzNE5xRGhKM2NsV0Y2WlhaSUtrYkxBcTZYeXhKY0h5RXFNbXdwd1BpZw?oc=5",
+          "pubDate": "Fri, 06 Nov 2026 16:44:26 GMT",
+          "source": "Euronews",
+          "description": "Elon Musk's Tesla to 'wind down' Cybertruck production next year Euronews"
+        },
+        {
+          "title": "Elon Musk Says Tesla's Cybertruck Backlog Is Too Big To Clear Before Production Ends — Orders Extra Shift - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcG9UUnBDX2IxSGNPelZxTlViZzlrWVBGV1BaeDNGVUhrXzFUQW44MFMzOXBuYndhRUU5X1ZlbWlWWDlkVHZScndRZmdPdXJtV0xBQ0pkaFpvZ3ZWTDYyTnMyYUs0S0NPS1RrMFFpdmZ2bWJjaXpPZ2lIcFo0UXNPNVhaTF92bko4bWZUVzdZVm8xQXVYN3pJM09HdFVvQQ?oc=5",
+          "pubDate": "Tue, 10 Nov 2026 19:30:06 GMT",
+          "source": "Yahoo Finance",
+          "description": "Elon Musk Says Tesla's Cybertruck Backlog Is Too Big To Clear Before Production Ends — Orders Extra Shift Yahoo Finance"
+        },
+        {
+          "title": "Megyn Kelly, Elon Musk decry Russell Brand conviction and sentence - Chicago Tribune",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVWtWYWhpU2JIQWt6WGpPM3EzdFZRN0lXZld0WS1JLWlqdVdHVkdhUGpnYS05elBTOHdrM3hYeWJOQ1NGS0FsZi1CdXlrMzVETk1sRTNiOXdMN2ZrM0hMY05jQ2x0dHVMcTdwNGZ1TUFmUWpsRHlSZGhYejN2ZU9MQmFENDY?oc=5",
+          "pubDate": "Mon, 09 Nov 2026 18:15:28 GMT",
+          "source": "Chicago Tribune",
+          "description": "Megyn Kelly, Elon Musk decry Russell Brand conviction and sentence Chicago Tribune"
+        },
+        {
+          "title": "Elon Musk wants to give stock to kids. What’s the problem? - Financial Times",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jeFVvanhSM1BlTHZvT2ZIZnRTeWotdDkyNHNzb045YXhYbTFkZWlJUFUzSUpOelluUnVjcUd6Q190R3ZQQkd4ZVRreW1xRTg2UC1vYnBjRmp2dDdrSDRGOVljbFpxRTdBcmYyYmNvOUk?oc=5",
+          "pubDate": "Fri, 06 Nov 2026 18:00:10 GMT",
+          "source": "Financial Times",
+          "description": "Elon Musk wants to give stock to kids. What’s the problem? Financial Times"
         },
         {
           "title": "Elon Musk Insists Cybertruck Made Tesla Money Despite 4-Year Run: TDS - The Drive",
@@ -905,16 +849,65 @@
           "description": "Elon Musk Insists Cybertruck Made Tesla Money Despite 4-Year Run: TDS The Drive"
         },
         {
-          "title": "Elon Musk's BTC-holding firm SpaceX plans a $24 billion supercomputer - CoinDesk",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSnpBT09sT0RsckVfZFFNSFo0T1BTM1lEc2ItajdQczRETTRLbzY3aW5IZlhfWlJFTnBzSE14LU9lQkJVOXJndlNGeWNGeURlYkYtTktTNFpqc282aThEVVdHdW9tR3BTYzZ4aE1lOXgzbEhBWnR2UzlKc3plRThHM1Q4ZHVLN19EQzVERGl4NXllT09qdVdoQ1pjZjV5RHFpdUF5QTFCcnZrekhKZXhYb1RJMUJaM0tiM25NZ2M1MDh1MzBaclE?oc=5",
-          "pubDate": "Mon, 09 Nov 2026 11:22:13 GMT",
-          "source": "CoinDesk",
-          "description": "Elon Musk's BTC-holding firm SpaceX plans a $24 billion supercomputer CoinDesk"
+          "title": "Elon Musk’s Boring Company to begin underground tunnel construction at Morgan’s Wonderland - KSAT",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNS1N3enpQc0xyNGVlMC03WXNGem1tYzRTSWYydUFyX0NIU0owNDBqanI3SjVXT05Cd29CQ29rRUc4ZEF3cTc4MmpiVGFodHVqN1lUeS1nOEdkRU1uWFVQRGk3WlA4M3h1WjhuQl8wanJ5SWVuYmw2UWhkeGJQYlVQa05SLUd4b2hJaTdlcDNuLUh0dWhtOUNTd1RNdTRSLUVSR2JKZEZhVWN2UHc5ZjM1VDVYZDFoNWlNTWJxQ2FEZ29FUUNDbVJLQ0JrckE?oc=5",
+          "pubDate": "Tue, 10 Nov 2026 19:54:43 GMT",
+          "source": "KSAT",
+          "description": "Elon Musk’s Boring Company to begin underground tunnel construction at Morgan’s Wonderland KSAT"
+        },
+        {
+          "title": "Tesla CEO Elon Musk says company will be 'winding down' Cybertruck production in Texas - cbs8.com",
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQRlR4ckdpanZvUngzajhzbzFBbHJOY2ZRNG4tQVRfTWRJcHpqSUlZT0QxU0R1dGxkeGJQTFVSRkhEbUN6ZFRNOTFlc2hWdU9hakVxeWFESGlJTlM4MGRxQk12VDUwdlZrZVl4bU9vRnNCcjlWNWFaMmxrTVNLajJWWUdyUGgxelFZWDNXaTBhMWRONTU4RG1FUTJ5S1lEUHJNblBBbUJIOWpiY1BIZkhLMXlDNjhRc2xQZ3A2SngzUWVjQlp2UWkxRXRlTV9nNTRqd3BuS3ZCbDdZWlQwN3gyLWNWN0RHYnM3MkRNRXVEaHVGUkZRN3NyRHRvRQ?oc=5",
+          "pubDate": "Mon, 09 Nov 2026 19:41:00 GMT",
+          "source": "cbs8.com",
+          "description": "Tesla CEO Elon Musk says company will be 'winding down' Cybertruck production in Texas cbs8.com"
+        },
+        {
+          "title": "Musk jokes about GOP losses after spending big in midterms - KGET.com",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbGYtdUNOaHFNYTlycDMtUUx0RkhtemV0S283VnJWRHZwOTcydU1LM0VEX0NuZUVOaHZaRjE5eUV2LUYwZU1oX05zRlkwNGJSUWd3OGVrWTgwZW9uWm1ybEtrZWpZQmJ1bnJneWhrenM3YWtkUnJNLXpuT212VVBfc0p1ZHdHUWN1c3JOWXZLMmdBemN1eGRJX05B0gGfAUFVX3lxTFBIc0dhbXFDYTRUZlN4MmxodlUwTE9nN28tejNJa1hzZkdzb3JqSktvSVlfejFhUXFjNkRRNzVRQ0FzY0dXSkV6YTMwZC1lUVlqU3hKQm1Uekg0LTRSWjJ3TGt6VENMUk5GS0NnRHhBNFV4cEtCaDJIdVlTT3lXYUhUcmI4VUdPTElVdlNVLTNfVHlXaElhaElGQk91UFNqTQ?oc=5",
+          "pubDate": "Wed, 04 Nov 2026 15:14:03 GMT",
+          "source": "KGET.com",
+          "description": "Musk jokes about GOP losses after spending big in midterms KGET.com"
+        },
+        {
+          "title": "Elon Musk’s SpaceX Needs at Least €200 Billion to Challenge US Telecom Giants, Says Deutsche Telekom CEO Tim Höttges: ‘Welcome to the Party’ - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMHF5TlA1b1VxOHJCU2pVNWhGdy1MRUtIR01OWGVERlpxb0RmRG01OG82WTkxZFNVbVVBZnpzbFUzSWlhTVNFNk5jeTZGUmJmUzBFQWVWX0hvSTQ2blNyNzlkbzlxdmNNaVdfSk5RaTRPeHI4VUVRQXRHdnVOOUs3Q1NEN1BiR09ZZkdOQTFvUmRDM0U?oc=5",
+          "pubDate": "Tue, 10 Nov 2026 00:30:00 GMT",
+          "source": "Yahoo Finance",
+          "description": "Elon Musk’s SpaceX Needs at Least €200 Billion to Challenge US Telecom Giants, Says Deutsche Telekom CEO Tim Höttges: ‘Welcome to the Party’ Yahoo Finance"
+        },
+        {
+          "title": "James Talarico takes aim at Elon Musk after Texas U.S. Senate victory - KHOU",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNM1hHb1VhQlJ5VTQtekw3ZlQ3N2NVZHhUTml2eUNXeENMREI5eFZiRDE5Uzd1czVEV1prVlhJSUY4U2x6YWJxZjEwbDJFeGRaMGthUXdTQks0YjVWS2tUVlE3eGNnR2duTzFhMmR1V09DdEdsXzN4VFlfdzB5RTg1UWtleUFiRnhneVJ2Z1RKOG5hMWRXaUJmTENyaXo3dll2b1dzSUxaWkJuVkc5RTZzOVhEQ3RuRnNtem0td3Q2SV90OGNoaGFIa0dR?oc=5",
+          "pubDate": "Thu, 05 Nov 2026 12:25:37 GMT",
+          "source": "KHOU",
+          "description": "James Talarico takes aim at Elon Musk after Texas U.S. Senate victory KHOU"
+        },
+        {
+          "title": "BT cools on Starlink satellite tie-up after Elon Musk Ukraine controversy - Financial Times",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8yOFlRYmpwWF9XR2NBRFRtcHZFQldmTEQtNU5YVzhMUXpYQTdyODdJYS1wQ01jTUQ5eGR5SjBEblFQQVk0WWlZRXphZHNjNHQ3RVJFRC14OW83bmF5Nmk5U2NOcEJZUU4xZFBFVllSWTI?oc=5",
+          "pubDate": "Tue, 10 Nov 2026 05:00:29 GMT",
+          "source": "Financial Times",
+          "description": "BT cools on Starlink satellite tie-up after Elon Musk Ukraine controversy Financial Times"
+        },
+        {
+          "title": "Slobodian Talks Elon Musk’s Growing Political Power with NYT’s Ezra Klein - Boston University",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQTRVLWRkc2JpODBJWkNESng1ZURQZ05yN3Ziajh6OFdqQzdMbmNRS0hZVlc3dXo4aFAzbXpmOE03dnY3V25HUktlalZqV0Fka3BrQVFHM2plYzNaV3hlN1NFWlBZWktzSDFuNjB2VDVaWlFza3pFb01hS0NsdXhZSk53M1p3S205Unh5MnRvMjJSLWpYRXA0U1FvN1c3QUFRcEQ1SHVCRFFkNElUUEozLU1lNURHQQ?oc=5",
+          "pubDate": "Tue, 03 Nov 2026 21:55:59 GMT",
+          "source": "Boston University",
+          "description": "Slobodian Talks Elon Musk’s Growing Political Power with NYT’s Ezra Klein Boston University"
+        },
+        {
+          "title": "Elon Musk Confirms Cybertruck Production Wind-Down at Texas Factory as Tesla Makes Room for Cybercab - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdzEyekh6NXpScVBaWHliMjQ4M3R5d2JnSHNKNEUxVFdLVTI3QmFvN3pkVFoteE10OUw0VHVPYk80VDBBTGdzSXZDNlNnanZ2dklBWmVCT0plUGI5STJQMm5xNUw2QW9iUi1xbVczdF93UmVFbllvQ1p1NzZEMjMxbWxza3Y1TDR5Zmtqb0ZmcWxwbG1wNUVvRnNkOXRibWxjS2U0bGJsNWE?oc=5",
+          "pubDate": "Mon, 09 Nov 2026 19:00:05 GMT",
+          "source": "Yahoo Finance",
+          "description": "Elon Musk Confirms Cybertruck Production Wind-Down at Texas Factory as Tesla Makes Room for Cybercab Yahoo Finance"
         }
       ]
     },
     "spacex": {
-      "updatedAt": "2026-11-10T13:32:02Z",
+      "updatedAt": "2026-11-10T20:51:52Z",
       "stories": [
         {
           "title": "USSF-432 Mission - SpaceX",
@@ -959,11 +952,11 @@
           "description": "Is there a California rocket launch today? Everything to know in Arizona azcentral.com and The Arizona Republic"
         },
         {
-          "title": "SpaceX - Britannica",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4zcHd5YjFSa1NCb3ZueFJhWXBiV2RDdU51UUpjQ2ZlVGxuTVBFV24wN1BuUTlpZ3g2TjJEVWRDVXdPcTF3eVU2WnBRaFpuU3Js?oc=5",
-          "pubDate": "Sat, 07 Nov 2026 08:00:00 GMT",
-          "source": "Britannica",
-          "description": "SpaceX Britannica"
+          "title": "From explosions to catches, how SpaceX's Starship reached flight 15 - USA Today",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaGZETXE3aHM5SkNSRDdYUGpLNVNYbkdBVVhDenZDQVFjdkp5QW11SVV6TDZlUUktLXc1aU1SRF9remdzTlpGUVM4WnA3cU5STU0xbjdTQVJ2Qk9Cd21JbmRvZktncnk3SmRyN3JSOFU4cFlFWW9HazUycUlpLWVDSmlIbGlHN0Y5MDJsUHBaa3cwNjNvRFFHaXhSemU?oc=5",
+          "pubDate": "Tue, 10 Nov 2026 18:33:38 GMT",
+          "source": "USA Today",
+          "description": "From explosions to catches, how SpaceX's Starship reached flight 15 USA Today"
         },
         {
           "title": "Rocket launches surge in 2026 in California. What happened to Florida? - Yahoo News Canada",
@@ -994,20 +987,6 @@
           "description": "SpaceX will launch epic double-catch Starship Flight 15 test mission on Nov. 13 Space"
         },
         {
-          "title": "SpaceX launched secret mission for US military - Українські Національні Новини (УНН)",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZnFTakhzWmtKYjE0dXNxMWRpLXk5ZExzeFIwajZ2MnpvV0pTUHpZZmU2TFdSeTFZVVBWRmJqQ1lIeWItYlhlNnVfaUdYV0F0Ymh5akdZTE9ScDBPZFJjaHBKcEdZWGV6MDBhaS1CUTRMQmN6cmx6YmlZTWlwS0dGStIBf0FVX3lxTE40Y3VmSm95bjJPRlN0YkxZcWpXdFdLeVZxOHRrSUE1ZHU1dW5WTjlJWGNIV0Q0UkVoMGV0VW00dW5nU09ibk1ERm5VaXF0RXBmUl9MME4xdmFYUHl4MTVPWGRMY0tPUlZRby1tWXFpM3VRdVhoYnJqV0hwaXVLdlk?oc=5",
-          "pubDate": "Sat, 07 Nov 2026 08:10:15 GMT",
-          "source": "Українські Національні Новини (УНН)",
-          "description": "SpaceX launched secret mission for US military Українські Національні Новини (УНН)"
-        },
-        {
-          "title": "SpaceX Cratered 20% in The Last Month: This Wall Street Pro Predicts 500% Returns at Today's Price - 24/7 Wall St.",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOVhFZU13VENjdlk5d2s0by1kNjB0TjdCcWFNZFRHaFc1N0FWaDVpdUw3Rzh0NERXczdPRGNNd2NKaUR5a05SQlNpcEJiTkdvUGhRd3RaZE1EYTBXY2hnVjVrWnFmZTNEbnpycU9TUlBKSEVxbXpDbkg2QVkxMHpoblNRTkVpVW5iLUwwcVlWbDhaakhtOS11VXd3ZG9MWU95cTNiZkwwVFVvazlhVFJPMi1jaXE4ZGlUa293UDJVWVpBSDJCc2ZxY2IzcWUzSTFEaFlWYw?oc=5",
-          "pubDate": "Mon, 09 Nov 2026 13:45:00 GMT",
-          "source": "24/7 Wall St.",
-          "description": "SpaceX Cratered 20% in The Last Month: This Wall Street Pro Predicts 500% Returns at Today's Price 24/7 Wall St."
-        },
-        {
           "title": "1st Vandenberg rocket launch of month coming up. Watch SpaceX livestream - The Desert Sun",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOGgyV3p4QldSeVA3V3V4X2hXcmNuNkR4M3gwRlUzN1FVY2o4T3plN25UQTdDWnVXMmhfZnpBUDFJZjJrN1pERXZKX0p6X25Mb0VCS0V4TkpVVGN4RWRGY2Y3VEhmS3A2ZzRnMG5sYjk0b0hYVm53cTRLbFk1dHBnVVIxaXhVYWQyb0hwUkZubmFhb0ZfS3dfd1VPbzBYenBJVWJ3U3JyY2hVWmpOczBZ?oc=5",
           "pubDate": "Fri, 06 Nov 2026 14:01:00 GMT",
@@ -1015,18 +994,11 @@
           "description": "1st Vandenberg rocket launch of month coming up. Watch SpaceX livestream The Desert Sun"
         },
         {
-          "title": "SpaceX plans rocket launch today at Vandenberg. Here's when to see it - Ventura County Star",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcFZFZUdrempmZ0tyVHY4X09uUzE0ajA2b3ZpWmpxNGpKa0J2eG4zVFQySS04VGFSZzdiRGdTU2lDYkZyZ1QxZ1BHT1gyamN1NF9aaDB5RWw0ZXNIOE9ZMm9UYjNqa0tkMlczMk5GRFg0bFN0SnN3ODVlbmdyRW9sQ3c2dmVhbkxjQmZLOWFRc0VKTDd3Q3VGTFkyaDh3OXRKWm1DLVFfSjJ2NlVDMFcwYlN3?oc=5",
-          "pubDate": "Mon, 09 Nov 2026 17:01:00 GMT",
-          "source": "Ventura County Star",
-          "description": "SpaceX plans rocket launch today at Vandenberg. Here's when to see it Ventura County Star"
-        },
-        {
-          "title": "SpaceX to retry Falcon 9 rocket launch. Where to watch in Arizona - azcentral.com and The Arizona Republic",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORVVLY0pQV2JVS1BmQkVZRmJ6MTVvbXVUX0ppakZRSkhRcTdDRWR0R3pwRm13c1lrTWw3TGdPTjZfUVc0aW9WQlBGcFo3ZnBhcVc5Skl5VmRhZ05MSUcybDl3NmEwdDR2ZFNGMGxxdUVfekJTMDdNNHJvVHlOYndoNEtsNkllN1MtZDN3OU5WaHREMjU3RlBnSTR4b2x5elJvM2ZvN1E0cVlZVmFrRU9ndVZiOHkxZw?oc=5",
-          "pubDate": "Thu, 05 Nov 2026 14:02:00 GMT",
-          "source": "azcentral.com and The Arizona Republic",
-          "description": "SpaceX to retry Falcon 9 rocket launch. Where to watch in Arizona azcentral.com and The Arizona Republic"
+          "title": "SpaceX launched secret mission for US military - Українські Національні Новини (УНН)",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZnFTakhzWmtKYjE0dXNxMWRpLXk5ZExzeFIwajZ2MnpvV0pTUHpZZmU2TFdSeTFZVVBWRmJqQ1lIeWItYlhlNnVfaUdYV0F0Ymh5akdZTE9ScDBPZFJjaHBKcEdZWGV6MDBhaS1CUTRMQmN6cmx6YmlZTWlwS0dGStIBf0FVX3lxTE40Y3VmSm95bjJPRlN0YkxZcWpXdFdLeVZxOHRrSUE1ZHU1dW5WTjlJWGNIV0Q0UkVoMGV0VW00dW5nU09ibk1ERm5VaXF0RXBmUl9MME4xdmFYUHl4MTVPWGRMY0tPUlZRby1tWXFpM3VRdVhoYnJqV0hwaXVLdlk?oc=5",
+          "pubDate": "Sat, 07 Nov 2026 08:10:15 GMT",
+          "source": "Українські Національні Новини (УНН)",
+          "description": "SpaceX launched secret mission for US military Українські Національні Новини (УНН)"
         },
         {
           "title": "Rocket launch tracker: Keep up with latest on next SpaceX launch in CA - Ventura County Star",
@@ -1036,6 +1008,20 @@
           "description": "Rocket launch tracker: Keep up with latest on next SpaceX launch in CA Ventura County Star"
         },
         {
+          "title": "SpaceX to retry Falcon 9 rocket launch. Where to watch in Arizona - azcentral.com and The Arizona Republic",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORVVLY0pQV2JVS1BmQkVZRmJ6MTVvbXVUX0ppakZRSkhRcTdDRWR0R3pwRm13c1lrTWw3TGdPTjZfUVc0aW9WQlBGcFo3ZnBhcVc5Skl5VmRhZ05MSUcybDl3NmEwdDR2ZFNGMGxxdUVfekJTMDdNNHJvVHlOYndoNEtsNkllN1MtZDN3OU5WaHREMjU3RlBnSTR4b2x5elJvM2ZvN1E0cVlZVmFrRU9ndVZiOHkxZw?oc=5",
+          "pubDate": "Thu, 05 Nov 2026 14:02:00 GMT",
+          "source": "azcentral.com and The Arizona Republic",
+          "description": "SpaceX to retry Falcon 9 rocket launch. Where to watch in Arizona azcentral.com and The Arizona Republic"
+        },
+        {
+          "title": "SpaceX plans rocket launch today at Vandenberg. Here's when to see it - Ventura County Star",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcFZFZUdrempmZ0tyVHY4X09uUzE0ajA2b3ZpWmpxNGpKa0J2eG4zVFQySS04VGFSZzdiRGdTU2lDYkZyZ1QxZ1BHT1gyamN1NF9aaDB5RWw0ZXNIOE9ZMm9UYjNqa0tkMlczMk5GRFg0bFN0SnN3ODVlbmdyRW9sQ3c2dmVhbkxjQmZLOWFRc0VKTDd3Q3VGTFkyaDh3OXRKWm1DLVFfSjJ2NlVDMFcwYlN3?oc=5",
+          "pubDate": "Mon, 09 Nov 2026 17:01:00 GMT",
+          "source": "Ventura County Star",
+          "description": "SpaceX plans rocket launch today at Vandenberg. Here's when to see it Ventura County Star"
+        },
+        {
           "title": "SpaceX plans rocket launch today. How to track liftoff in California - The Desert Sun",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeUpXMGNoME5qQnZjM2l6Ukw2UDhNX0s2dEFtQVFfMVZUNVgtamdpVHE1aXAwT1BPNHptY0c5ZzliRGZJTzNGTDZheFo1LXk5SGFFVFdMellZVkdQQUhGQ21ncllyWUNsemFMcW5JM2ZIN3drdHk0ZlJBZnRYUHhuZUtMUnQ5ZThOZ3JGaEx0SXhoMkk0TGk3TV8tMGhkZVJaNFRrWExKOEFGN29mZE9uSnlXMG91cDg?oc=5",
           "pubDate": "Mon, 09 Nov 2026 20:00:00 GMT",
@@ -1043,11 +1029,11 @@
           "description": "SpaceX plans rocket launch today. How to track liftoff in California The Desert Sun"
         },
         {
-          "title": "How to Buy SpaceX Stock (SPCX) in 2026 - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWVlkQ1JxWVFwaWJlUDVEV3RUcWNua2hMcnNmZi1fbnAyYzI1akEtY2pETGYwRzI3eEpfSlRmWTFzUGFaMzdzRV8wZC0wWTVTc3J1ZDk2eHdad3IzUl9SejBhcld0SDhLM0NYTHk5cktQU3Z0ZS1sMm5GVWJKa1VSbWRBV1pWQlJRQWc?oc=5",
-          "pubDate": "Tue, 03 Nov 2026 19:56:00 GMT",
-          "source": "The Motley Fool",
-          "description": "How to Buy SpaceX Stock (SPCX) in 2026 The Motley Fool"
+          "title": "SpaceX Cratered 20% in The Last Month: This Wall Street Pro Predicts 500% Returns at Today's Price - 24/7 Wall St.",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOVhFZU13VENjdlk5d2s0by1kNjB0TjdCcWFNZFRHaFc1N0FWaDVpdUw3Rzh0NERXczdPRGNNd2NKaUR5a05SQlNpcEJiTkdvUGhRd3RaZE1EYTBXY2hnVjVrWnFmZTNEbnpycU9TUlBKSEVxbXpDbkg2QVkxMHpoblNRTkVpVW5iLUwwcVlWbDhaakhtOS11VXd3ZG9MWU95cTNiZkwwVFVvazlhVFJPMi1jaXE4ZGlUa293UDJVWVpBSDJCc2ZxY2IzcWUzSTFEaFlWYw?oc=5",
+          "pubDate": "Mon, 09 Nov 2026 13:45:00 GMT",
+          "source": "24/7 Wall St.",
+          "description": "SpaceX Cratered 20% in The Last Month: This Wall Street Pro Predicts 500% Returns at Today's Price 24/7 Wall St."
         },
         {
           "title": "SpaceX shifts from rocket maker to infrastructure company backed by AI and Starlink - 디지털투데이",
@@ -1057,23 +1043,23 @@
           "description": "SpaceX shifts from rocket maker to infrastructure company backed by AI and Starlink 디지털투데이"
         },
         {
+          "title": "BT holds off its Starlink launch until the Ukraine 'noise' dies down - MLQ.ai",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUGRKNndGTFhYSjg0MV9FUW5sT1JnRXp4TVBvcG8yQko4dVhLbFN1Qm1WNmN2bll5NE56UlNVd2lueXQxQmdQRWJfYUtIWXhpY2hGNTJQQU9rM01MSlRnenhpaEhrU0xyaFZUUnpaQnpLTkpjalVBWW9mUjV4VXAtYmoxNWFLb2YwdUgyVldEVUk?oc=5",
+          "pubDate": "Tue, 10 Nov 2026 09:13:40 GMT",
+          "source": "MLQ.ai",
+          "description": "BT holds off its Starlink launch until the Ukraine 'noise' dies down MLQ.ai"
+        },
+        {
           "title": "LIFTOFF! SpaceX launches USSF-432 Space Force mission from California, sticks landing - Starlust.org",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE94Tm1nbDlTNTYtUXdTZzZWS3BQRHUyRDFBY3hkZ0ZTQy1RX1lYX1VYSTFJLTczcDJUVEdwREo2UjhFQk9IcERHanlmU1lBWEphalR0REVB?oc=5",
           "pubDate": "Sat, 07 Nov 2026 02:09:45 GMT",
           "source": "Starlust.org",
           "description": "LIFTOFF! SpaceX launches USSF-432 Space Force mission from California, sticks landing Starlust.org"
-        },
-        {
-          "title": "AST SpaceMobile (ASTS) Strikes $1.3 Billion Deal to Build Reusable Rocket to Rival SpaceX - TipRanks",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQakxCRVRpYUptcUM1UUNiU1F2MnJ1RUJvYVI3NlZfSElJaGEwdG5WTzdaVGVvLUFiRk03blZlNkR5MUtYUzFicXVZU1N0MWxHdmZKcWlrdVMxdE4xU3Z5dGNmeWR1ZExxQXdTNmdvQXNSd09iOUpWaWkyalR2ZUpSU3F5STZRZ3I0OHFmQWprR3U1X2M0Rm5Yeld4TWtlWXRBNkt0Rk9mTkhmaExEOFZJQnlOSGhXcFk?oc=5",
-          "pubDate": "Fri, 06 Nov 2026 15:22:37 GMT",
-          "source": "TipRanks",
-          "description": "AST SpaceMobile (ASTS) Strikes $1.3 Billion Deal to Build Reusable Rocket to Rival SpaceX TipRanks"
         }
       ]
     },
     "xai": {
-      "updatedAt": "2026-11-10T13:32:02Z",
+      "updatedAt": "2026-11-10T20:51:52Z",
       "stories": [
         {
           "title": "India's Coforge joins SpaceX partner network to deploy Grok AI tools for enterprises - Reuters",
@@ -1139,20 +1125,6 @@
           "description": "How to Choose an AI Model: An Expert Breakdown by Use Case Triple Whale"
         },
         {
-          "title": "Elon Musk: Grok Bot Costs Are ‘Unsustainable’ as Usage Limits Tighten - TechRepublic",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVzhPXzhMYi1xaWNDbjlTZEZHSzFPS3JYeW1kRUVwMVMtaUNWQ25DX29ReUh0WkhLQXZiVU9ySjB0blNkckJGX2xhOUZueUIxa1VBVURQUkh5T1c2eUM2cUhSSzRlNU5hVzcySl9BcGNKd2NYZzBPVmQ4bXIyNm5sTm5aVDl5NGc?oc=5",
-          "pubDate": "Tue, 03 Nov 2026 15:20:33 GMT",
-          "source": "TechRepublic",
-          "description": "Elon Musk: Grok Bot Costs Are ‘Unsustainable’ as Usage Limits Tighten TechRepublic"
-        },
-        {
-          "title": "Trump reportedly consulted Grok on Venezuela operation; Democrats seek his chat records - Mezha.net",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZGZ1NElCaHBJbVlwd2wwUUJSa1pOanExbmlXQXNBRjlPYXZiV1lEZjlaNUlEY0xZSDMtdnozemRMZDVVd19ScG5vQ2xvbGJUSnJROGtVcU9WdGRlTjZ2OTRnV3N4dFRPLUFxaWdhZzdJXzc1WFdnbW90cXJXN2pJVGd0T0pPdkFOU3dVQUJR?oc=5",
-          "pubDate": "Tue, 03 Nov 2026 21:26:39 GMT",
-          "source": "Mezha.net",
-          "description": "Trump reportedly consulted Grok on Venezuela operation; Democrats seek his chat records Mezha.net"
-        },
-        {
           "title": "MCSO: Man arrested on child pornography charges following AI cyber tips - Fox 10 News",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbERLX1U2UXpEQjVhLThEbDNKTjhKRTNSWkt2M1ZpNy02dmt1R3lkVGx6NlJza041ZjJTMFB0VlhXUmRUejRlOUFLdEs2Z2J2T25lV1pLMDNaamsxcXdRb2NxSEQxLWVwWWhYSWxWTFBOcUZFQVoySnVsMUpRLU5iY3pHYmVJTFhMeGxGM213UDlHZFhia2ZyV1lhbnpjMFpIU2lGS2d30gG6AUFVX3lxTE5OUUFEaENJNWZQN3dHbGJ2ZVJzMEhFU3Z2eW03NWFxeUdpd2JFU29UVmNIZ1VKcExpd2N2RzhaVGQwc3ByOFdlZFdsdlEtTTVpeG9jQ2JvcndacW5YdnJfQ0E0MXlUZU1kc1ZQQzZldlJLVFNKNUFpQ2ZmRUxVQUN1S2V3SzhHVUhxNDZsbkFZN09ZQWNOa2lnUjVaQTdCWEVGMW91UGg4aFBRVzVFRjVpc2tKS3JHYTNkdw?oc=5",
           "pubDate": "Thu, 05 Nov 2026 17:25:00 GMT",
@@ -1188,6 +1160,20 @@
           "description": "Elon Musk's Gas-Powered xAI Data Centers Are Running Into A Big Problem With Locals BGR"
         },
         {
+          "title": "How Grok portfolio outsmarted the market and profited from this chip giant - Finbold",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQajdTTVg0cVdybGhPT1Z0amkyOHdSZkNqejg0aU9zVVpqeDd3THpReUM2QzlLd1pMVURjUFhHRC02UjM3NkQ3ZWo5enRMUHZYZ0lWZmZTTktwYTdLelJFMnpTWXVoRmd6YmlaaGVfN0U4SWhqdXd0VFA4Y3JFaF9vWmVuUnd5VXlRRVBleEZNVXFxNm1KdEpLUHZMRQ?oc=5",
+          "pubDate": "Tue, 10 Nov 2026 14:30:35 GMT",
+          "source": "Finbold",
+          "description": "How Grok portfolio outsmarted the market and profited from this chip giant Finbold"
+        },
+        {
+          "title": "Better IPO to Buy: Anthropic vs. SpaceX - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUjY3ZVl4cGhqU2g0bHNONllTZWZmalAzWUdyY0tvVTI4M2RTZDVOWGtUcnhxRUtwNjZrRTZrcFZqYWh0S2ktUy13YkpBeDNJVzBGc1JMYmFOMldiWi0wZ0w2NDkxbWQ2dUMxcGNfTmE2VnE2NzA0NEhuanUtMV8xTXFKakVQYzQ?oc=5",
+          "pubDate": "Sat, 07 Nov 2026 12:47:00 GMT",
+          "source": "The Motley Fool",
+          "description": "Better IPO to Buy: Anthropic vs. SpaceX The Motley Fool"
+        },
+        {
           "title": "Grok Pricing 2026: X Subscription Plans, SuperGrok and API Costs - Fello AI",
           "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAtSjJZQ1VBbFFmVzJUSmhaZDFld1lKS0ZLYmpHYzQtaXpORHJIRG9yWTlyTWlaMUY2bXpiUk9yUUh6SXRLMDVNLQ?oc=5",
           "pubDate": "Fri, 06 Nov 2026 08:00:00 GMT",
@@ -1204,7 +1190,7 @@
         {
           "title": "How Much Does AI Cost in 2026? The Complete Pricing Comparison - Fello AI",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1OMVVYdjlTQWNCRFM0elFCdWNIOU5pTm5KQUNOWGc4RjlqbUlHU2J3NjhiQk96UTNZYTJWSVFYUEU4bDhNU1ZRSnc0VnlTQjVQVXVKdA?oc=5",
-          "pubDate": "Tue, 10 Nov 2026 03:47:56 GMT",
+          "pubDate": "Mon, 09 Nov 2026 08:00:00 GMT",
           "source": "Fello AI",
           "description": "How Much Does AI Cost in 2026? The Complete Pricing Comparison Fello AI"
         },
@@ -1214,13 +1200,6 @@
           "pubDate": "Thu, 05 Nov 2026 13:46:28 GMT",
           "source": "Geeky Gadgets",
           "description": "Elon Musk’s xAI Fights Surging GrokBot Maintenance Bills Geeky Gadgets"
-        },
-        {
-          "title": "How to Buy SpaceX Stock (SPCX) in 2026 - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWVlkQ1JxWVFwaWJlUDVEV3RUcWNua2hMcnNmZi1fbnAyYzI1akEtY2pETGYwRzI3eEpfSlRmWTFzUGFaMzdzRV8wZC0wWTVTc3J1ZDk2eHdad3IzUl9SejBhcld0SDhLM0NYTHk5cktQU3Z0ZS1sMm5GVWJKa1VSbWRBV1pWQlJRQWc?oc=5",
-          "pubDate": "Tue, 03 Nov 2026 19:56:00 GMT",
-          "source": "The Motley Fool",
-          "description": "How to Buy SpaceX Stock (SPCX) in 2026 The Motley Fool"
         },
         {
           "title": "Elon Musk Deletes Election Posts After Republican Losses: His Own AI Helps Expose It - www.techtimes.co.uk",
@@ -1244,18 +1223,18 @@
           "description": "Apple weighs stronger agent-style AI for Siri for 2027 디지털투데이"
         },
         {
+          "title": "Musk says Grok 4.8 pre-training complete, reinforcement learning under way - Minute Mirror",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM3pnYXR0bGJ5TzdtendTaEU2WXNJMzUyaHF3UmFWZE9VMms2Z0lkNHhzU3hOcHJtbmNlMFdSbmpGYzJDYkxaWUFuRkowaVZvTmp5aEtfSHEwamFsdDcway1jZk1fRjBZVVpOWkFsa2ZXcVNmeERacno4ZFdLa210TC1ZX0EtbWJhTkNZN05RakFYVFVFTnNyTVg5dFNqRGxmZGswUklHVkRiRlg1QWc?oc=5",
+          "pubDate": "Tue, 10 Nov 2026 14:45:05 GMT",
+          "source": "Minute Mirror",
+          "description": "Musk says Grok 4.8 pre-training complete, reinforcement learning under way Minute Mirror"
+        },
+        {
           "title": "Grok hits 99.9% accuracy spotting rocket debris for SpaceX - Crypto Briefing",
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBYX1JrN3NfSnhaWGtodjB0U0trLXZxaTlJcHFJM0xoRDVLbmNVeF91ZER2MlMxM1ZGaHFvWUYwSEVhY0VZVG1uUkpmY3dJS2oyWXlsUUY0SVJST0FrMmZ0UWdjMm50LWdiYjBTRmFoQWFEMGtZblY3RWNwUQ?oc=5",
           "pubDate": "Tue, 10 Nov 2026 03:08:25 GMT",
           "source": "Crypto Briefing",
           "description": "Grok hits 99.9% accuracy spotting rocket debris for SpaceX Crypto Briefing"
-        },
-        {
-          "title": "Mobile County Sheriff’s Office arrests Mobile man on child pornography charges - NBC 15 WPMI",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOb1FZMnhLaWVvZ3UyZGRTNjNsby1RcHFZb0JiMXN3QkNNMm1oOFZpUVZWYU1lTVlOQXFVblQzOGd3cVkzRzRNOUJ4X25jM2JLaGhLb1h2akJ2VmF6RThIekJmZlgzQlBuR0dWT3JjSHgyWFBrRnU2UUtqY2tka05YUWVzYUNNSERVNktnbnFqMlMwbFVXQl9RZVJ1cUV1Yl9FRWt4Tm5qLVRXTHA5?oc=5",
-          "pubDate": "Thu, 05 Nov 2026 17:18:28 GMT",
-          "source": "NBC 15 WPMI",
-          "description": "Mobile County Sheriff’s Office arrests Mobile man on child pornography charges NBC 15 WPMI"
         },
         {
           "title": "Groknavo launching stage one with the GROK Token for SpaceX and most advanced AI models - openPR.com",
@@ -1274,7 +1253,7 @@
       ]
     },
     "neuralink": {
-      "updatedAt": "2026-11-10T13:32:02Z",
+      "updatedAt": "2026-11-10T20:51:52Z",
       "stories": [
         {
           "title": "China's BrainCo Bets Wearables Beat Surgery in Brain-Tech Race - The Tech Buzz",
@@ -1284,11 +1263,11 @@
           "description": "China's BrainCo Bets Wearables Beat Surgery in Brain-Tech Race The Tech Buzz"
         },
         {
-          "title": "Elon Musk Unveils Groundbreaking Interconnection Between Brain-Computer Interface and Robot Vacuum Cleaners - 36Kr.com",
+          "title": "Elon Musk Unveils Groundbreaking Interconnection Between Brain-Computer Interface and Robot Vacuum Cleaners - 36Kr",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE15dFhFZnZqNEdyVnBtXzFyaVh1MkN2eTJhVjhIVzBrTUVoTnF2eUdvY1ZNUHhjS3FUYUg3Y19RdFZ0aFZOZUljN0NhVXJrczZReXlB?oc=5",
           "pubDate": "Thu, 05 Nov 2026 00:14:54 GMT",
-          "source": "36Kr.com",
-          "description": "Elon Musk Unveils Groundbreaking Interconnection Between Brain-Computer Interface and Robot Vacuum Cleaners 36Kr.com"
+          "source": "36Kr",
+          "description": "Elon Musk Unveils Groundbreaking Interconnection Between Brain-Computer Interface and Robot Vacuum Cleaners 36Kr"
         },
         {
           "title": "The Neuralink Paradox: Clinical Realities, Consumer Hype and the Fight Over BCI Innovation - Roar News",
@@ -1305,13 +1284,6 @@
           "description": "Elon Musk claims the Neuralink brain chip could help blind people see. Vietnam.vn"
         },
         {
-          "title": "Chinese Neuralink Rival BrainCo Plans Brain-Stimulation Wearable to Fight Obesity - Mezha",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5mOWlxVXVoZTU0ZGlnb0E0bkZseXhZdDZ0RHBPbjNlaHYzcE5BTHhUWVVIX29lLW12Z2JTVjdHU3ZRbnRjM2ZOQUhzSGswMklxVWhrRFk1X2ZwTlZwTnktcjJSa3ZrSUtBa2hUcmlOeElxVnfSAXhBVV95cUxPMlVIYmFDSHBMVlNtdFZsbjRvaGswaDVEdl9YRnZ4MGF0T0FDa1NrTi1UbEF3Q25SRVFyRzRqYmxXbXJOelZheGVxZnYybWxDZGtEcjdTWXpnTkRBSi1qZ1d2d3pJeUZqWlVtdVhDNURtTTNwYkJ3bVo?oc=5",
-          "pubDate": "Tue, 03 Nov 2026 14:53:00 GMT",
-          "source": "Mezha",
-          "description": "Chinese Neuralink Rival BrainCo Plans Brain-Stimulation Wearable to Fight Obesity Mezha"
-        },
-        {
           "title": "BrainCo builds GLP-1 alternative wearable - MoneyWise.com",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVzd5cExjWTkxTzlnYWQ3V09DbWlGYjd5U2liYWRUYXo5aS0wWV9fQzUtcXFCLVJ6M0RucW9QNGNXdWMyUld4U1BXcVlLRXN6SG9ySG53Z01yWm1EWEdSNTJRVzBObjJKRXB1OFVRMHdZamtPeGxtR1ZBQjVlaTNEZEVkYWlkZnhfMDVmblNyeDA1eEdsb09TRw?oc=5",
           "pubDate": "Sat, 07 Nov 2026 11:30:19 GMT",
@@ -1319,18 +1291,18 @@
           "description": "BrainCo builds GLP-1 alternative wearable MoneyWise.com"
         },
         {
-          "title": "Musk's Neuralink rival is developing a wearable device to curb appetite | It may explore invasive brain implants in future | Inshorts - Inshorts",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQko5RS1rMWUwZVBMd0FkaWJIUGV6d2JJSjVOWVM5WUp6cUJfekpmLTFjeWFOZEM1RGhFY3p0X0FQc2xseUI4cnR4OWdNQkU1TFVEcTFRWWtraDI3dzBEV095X1V1NExqcTAzQjVWQXRrZC1FVWwtUWRoUURrS3hHeEUyQlE2dG5kWnk0UElwYjlCMU82U09mOGtpQTlISUZqdEx5cTB5Q3lBVnlHNEJyMXVPQzPSAboBQVVfeXFMTmxPU2ZJbFBZUkt4bzhKeTlFbm9TTDBfV01XYW5jcHdSQzRqTEJsM0hMZDJKVUVDbU8ybm1lMUZ4V3dvVVg5bTExeTdoa1VqSFFMZGxfY0swQjF5MWc2MDlwdmFzM3VzX29VZjg3YmI4QkEySk1ZcGpfM2wyVzBuc0tlMmJ0a1h1Sml4RnVyNDViUlQxdlUzMXczQ1AzZ0RHamVBcnpCT1hvYTBKXzdRcUhfUE1SOTZOZ2lB?oc=5",
-          "pubDate": "Tue, 03 Nov 2026 13:40:50 GMT",
-          "source": "Inshorts",
-          "description": "Musk's Neuralink rival is developing a wearable device to curb appetite | It may explore invasive brain implants in future | Inshorts Inshorts"
-        },
-        {
           "title": "Neuralink’s China rival targets obesity with ‘electronic’ GLP-1 - The Star",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRC1vV19YSmFRMHFKa2FsbW5UQlFLMDhTbm9sMTFRbnZ6QV9ZRFpnV0Ryam1URXJpbE5OZzIyb1lfWU90N3ROT0FMbjR1OE9Pd3B1YkI0c05lQUFiT3ZjTTdfVmlGdnFyRTdLNDM3Mno2bW1Sd3lMNUxEajRpMkdqYzZPWFhXVWc0SThFcnljclY2N19PWU41TVhDbTk3VzZjei13U3pVTnlHS0xESDJXVDg5UQ?oc=5",
           "pubDate": "Wed, 04 Nov 2026 02:00:00 GMT",
           "source": "The Star",
           "description": "Neuralink’s China rival targets obesity with ‘electronic’ GLP-1 The Star"
+        },
+        {
+          "title": "China's BrainCo Wants to Transform Weight Loss With a Wearable Brain Device, Not Drugs - International Business Times, Singapore Edition",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQejhYeEJ3eWRhMkc4LTVYZ1pfdGdvZVgwS3hocUtGdUVhTUVtRjFkS0QxQ0dhSnNJNE11OXZCUzJYa1ltRm9iZEo0NU1CNnJ2S1FIRS1EaTJnbGlQUnV6V1dMaXZyWm1WWnM2UU5GQ1lKd1RpZmxvTUgyOGFJaE1yZVA1U0d3VWl4dHlGa2FyY2FuZ1Q4NTh1YlFrME1NZGQxSmxhaFJ3?oc=5",
+          "pubDate": "Wed, 04 Nov 2026 07:30:37 GMT",
+          "source": "International Business Times, Singapore Edition",
+          "description": "China's BrainCo Wants to Transform Weight Loss With a Wearable Brain Device, Not Drugs International Business Times, Singapore Edition"
         },
         {
           "title": "Musk Says Neuralink Could Enable Humans to Communicate with Animals by 2028 - Convergence Now",
@@ -1342,21 +1314,21 @@
       ]
     },
     "ev": {
-      "updatedAt": "2026-11-10T13:32:02Z",
+      "updatedAt": "2026-11-10T20:51:52Z",
       "stories": [
-        {
-          "title": "How EV batteries can help keep the lights on and clean our air - Frontier Group",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSXBodVZHY2ZjLTd6RnVmRXo3Q2Rlb205OEstcDM2OVdxMTZydmE1UldzU0hza1pxU1lFT0dPejd2U1ZuZTF0bWdSNGVQaWkxYVdCeHJySVpHRjVUVTVVNF9Bc2hIREpyRFFjc1RLV1RMRjFCYzlWX3ItNUdMdjVlTkxCSFpUR29wemlvWnFzY2NWUENCVDBURDNQVVoyZG8?oc=5",
-          "pubDate": "Wed, 04 Nov 2026 18:42:23 GMT",
-          "source": "Frontier Group",
-          "description": "How EV batteries can help keep the lights on and clean our air Frontier Group"
-        },
         {
           "title": "Five Years In, Mustang Mach-E Battery Data Shows What Real-World Electric Vehicle Durability Looks Like - Ford From the Road",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTU5TQ1Fhenpna0dVZHQwcTRPZm1xZmRYQi05WHhWanl4TlZVMFZ0ZWtRaXVUeks0aEMwa01RMkNOcmVWb3h1M01MT1ZCM29hZlFrb3BJX2dyRGhQQ1FjRnl2bzg0MTl3eWQzMEJGOVdwNnNBNkgyYmNNQ2h0eDlCa3BXZ2NrSl9rQS1ERnA2RHhKTGVlcHNDT0FJR2U2Tldp?oc=5",
           "pubDate": "Mon, 09 Nov 2026 14:30:45 GMT",
           "source": "Ford From the Road",
           "description": "Five Years In, Mustang Mach-E Battery Data Shows What Real-World Electric Vehicle Durability Looks Like Ford From the Road"
+        },
+        {
+          "title": "How EV batteries can help keep the lights on and clean our air - Frontier Group",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSXBodVZHY2ZjLTd6RnVmRXo3Q2Rlb205OEstcDM2OVdxMTZydmE1UldzU0hza1pxU1lFT0dPejd2U1ZuZTF0bWdSNGVQaWkxYVdCeHJySVpHRjVUVTVVNF9Bc2hIREpyRFFjc1RLV1RMRjFCYzlWX3ItNUdMdjVlTkxCSFpUR29wemlvWnFzY2NWUENCVDBURDNQVVoyZG8?oc=5",
+          "pubDate": "Wed, 04 Nov 2026 18:42:23 GMT",
+          "source": "Frontier Group",
+          "description": "How EV batteries can help keep the lights on and clean our air Frontier Group"
         },
         {
           "title": "Breaking It Down: Next-Generation Batteries - Department of Energy (.gov)",
@@ -1443,18 +1415,18 @@
           "description": "EV battery breakthrough could bring 1,240 mile distances without charging – that's London to Edinburgh x3 T3"
         },
         {
-          "title": "Nio completes 10 million EV battery swaps in just 88 days - The Driven",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWXlaTDYzQzU0cEFVVU9uWXNKaGtUS1gwcUU1RTN3b0dMd290TTBHVGZoRWRiZUdWRXFOdnI2SWVVNXBHTUV1em5xT0xlX3N5a2tWM2locEJzbDgwWjJCUG9LMERzZDJyUUZQRnJKd0ZiWE4wWDFtMnFzdTVFNUlaOEZIeFExXzZLLUhBMjRMWlZ5NG1x?oc=5",
-          "pubDate": "Wed, 04 Nov 2026 23:49:16 GMT",
-          "source": "The Driven",
-          "description": "Nio completes 10 million EV battery swaps in just 88 days The Driven"
-        },
-        {
           "title": "UK startup turns spent EV batteries into 400 kW fast charger, avoids grid upgrades - Interesting Engineering",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdmpCVU9qanF2UlFlQ0FYSmlKN1F2c21ia2RkeW03VUtscmFUM0ZLLXRkWVdaNHZiRnRpZGpYN2ZfdmllcnZiX0d0b2U4akpUeGx1YWdLVjdueW1LYTVsYWlnOFB0M1d3NURvbGVtZzBMWHhwM3lIUlA3azJ5VTVKMFcyMlkzTFpTMUNNMkl3?oc=5",
           "pubDate": "Mon, 09 Nov 2026 19:06:00 GMT",
           "source": "Interesting Engineering",
           "description": "UK startup turns spent EV batteries into 400 kW fast charger, avoids grid upgrades Interesting Engineering"
+        },
+        {
+          "title": "500,000 EV Battery Health Checks Put 20 Models To The Test. One Car Stood Out - InsideEVs",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5uMTB1WUtzeVBETFA4TnFiR0pDTzBxQ09JeS1xWFk0MW5yWml3N1EzeU1pSm82QXNPQVBqQnNTMTN6VkZVd01WS1lvbElveWhVT1lpYnpPNEtsZVVSdTVNMk5XMW4tSDdfME15Z2s4MA?oc=5",
+          "pubDate": "Tue, 10 Nov 2026 05:27:19 GMT",
+          "source": "InsideEVs",
+          "description": "500,000 EV Battery Health Checks Put 20 Models To The Test. One Car Stood Out InsideEVs"
         },
         {
           "title": "Battery-buffered EV charger built from repurposed EV battery packs delivers up to 400 kW of charging power - Charged EVs",
@@ -1471,20 +1443,6 @@
           "description": "Electric cars: Statistics, facts and figures Autotrader"
         },
         {
-          "title": "90% in 14.7 minutes: New EV battery charges faster with redesigned electrolyte - Interesting Engineering",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR3BldTRicVg5V1p5TzcxUDdpSG5aaU5qOEZVUGltLTQxRnZNWjdmbjBmUk1qQUg4Wm50TGxSUV9ucmpqY1cxVmVmYTdiRkhEeVBTMDEzMzJNRE9sNXN0QWtnWVVCVFZjc2hKdE1TNm9LRG1jN3llVEh0MThYay1XWnVYNHpUWXRu?oc=5",
-          "pubDate": "Tue, 03 Nov 2026 13:44:00 GMT",
-          "source": "Interesting Engineering",
-          "description": "90% in 14.7 minutes: New EV battery charges faster with redesigned electrolyte Interesting Engineering"
-        },
-        {
-          "title": "1,200-mile EV range: Chinese firm’s new lithium air EV battery offers 5x energy density - Interesting Engineering",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa0FCNm9VRmZjbGh4TlJwdzhtY0p1VjVJSG5nQWlvd2Y0dlBaeXluM0xKekkyYVhFU1doMkJmRmE1UnJJeHhVUUd0MkF4VVd1U3U1WHhCQ1dwdmVyeHBROTF4WlJyTXJ2Z00tQkdCY0NZbU5CNlZZLUx0ZXk0eUZvdUxMdXhpNEFa?oc=5",
-          "pubDate": "Sat, 07 Nov 2026 10:37:00 GMT",
-          "source": "Interesting Engineering",
-          "description": "1,200-mile EV range: Chinese firm’s new lithium air EV battery offers 5x energy density Interesting Engineering"
-        },
-        {
           "title": "Aussies who want to use their Tesla to drive down their power bills get some bad news - WhichCar",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMHQzQTkzZFpLWnB5SFd5Z0stYVJmY3g5cUNhdHR3anRLZTc2ZmtrSlNrejhhWHV6NXVkbnZ0MmVOcERxcno5V2dybURSYXB4ZXlMOWFaWmFDem43ZlJRSWZuclJrZ0l0aVhLSXktZklETWE4NGh0ekc5QTE1S3RRN3VjQU5XSEEwUERycndIc3VZZ2RpTVNwY2pkMHdKRnJy?oc=5",
           "pubDate": "Mon, 09 Nov 2026 19:46:52 GMT",
@@ -1492,11 +1450,18 @@
           "description": "Aussies who want to use their Tesla to drive down their power bills get some bad news WhichCar"
         },
         {
-          "title": "Amazing results of 3.2b km EV battery test - St George & Sutherland Shire Leader",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbDJqUlpCbU9idzh6b1BYR01qakVmM1F6a1NvWkh3MDNfTXhvUDZ3REhvOUpneHpPTVk1aVM5VHVoT3YxVmdoYndnSkxLYlZ3Mlh6bkxydkllblFUY0hadFhzdTNJYXhSVGFFeDlLUUVjakRNdkVTcU80ZUhodWptY29jcEdWYlotcC1XUnpB?oc=5",
-          "pubDate": "Tue, 10 Nov 2026 11:37:04 GMT",
-          "source": "St George & Sutherland Shire Leader",
-          "description": "Amazing results of 3.2b km EV battery test St George & Sutherland Shire Leader"
+          "title": "GoEV launches ChargeNOW prefab EV charging system - Charged EVs",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVl9QdkhPenFaOXRORDE5d3JHbjAxdVJLN3Ita3ExOGxJWGhLWW8wRXpUNEdoSW0yUllYbHRFWks2cWM2V2VXMFBlcEFDNnBONlZobzNEQmw2YktINjdubWhtX1BYTHBXTEU2WjEwaVMzR25JWk9sT0lXZEJPT3RtS2FlSzZKOG5WUmc?oc=5",
+          "pubDate": "Tue, 10 Nov 2026 14:17:18 GMT",
+          "source": "Charged EVs",
+          "description": "GoEV launches ChargeNOW prefab EV charging system Charged EVs"
+        },
+        {
+          "title": "Amazing results of 3.2b km EV battery test - Redland City Bulletin",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeDdmLWJDbG1Mc3RlUXVYRjRpdzBITk53NWZ6MlNsc0hmT1k5ejFRd3N0OTMxSmZ6SWhUS1JWYXNmNk10bm9wZExuanpRUWY1dVh1WTExVHZkUVd6SVJ5QjU3WkUtVWhNNFpkX05Cc0s1U05HYjZVczJweWlfa2c2XzQ5NUVWNzJfay01QjBaOFpsTlRhdmJQZkQ5bw?oc=5",
+          "pubDate": "Tue, 10 Nov 2026 13:41:05 GMT",
+          "source": "Redland City Bulletin",
+          "description": "Amazing results of 3.2b km EV battery test Redland City Bulletin"
         },
         {
           "title": "New EV fast chargers for Belconnen - ACT Government",
@@ -1511,25 +1476,11 @@
           "pubDate": "Tue, 10 Nov 2026 06:16:01 GMT",
           "source": "EVreporter",
           "description": "HPCL Expands EV Charging Network to 5,981 Facilities, including 176 Battery-Swapping Stations EVreporter"
-        },
-        {
-          "title": "Used EV Battery Health Check: SoH Buying Guide - sigortahaber.com",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMlNTWTBOUzUtdEVCTkZqUWpKM19BMDNnS0JjUnVjSkVKNDlIUWVNTmJVY0o2OG9VT0dXdzVUd0RISzVpSXA3NU8tUHVzbHBfOHU5X01DUmpac2MtRlhGakdDN3FxV1N5ZDE3OGw3WmpOMXY2WXNOWmxtdmVodS1XazV0U3pFTFFDZ0FJYVhCeWQ0b2dKVERVV2RFZl9VMW1Gb0wwRW12VUVwSG51T2w3YW5UQ1o?oc=5",
-          "pubDate": "Thu, 05 Nov 2026 20:09:06 GMT",
-          "source": "sigortahaber.com",
-          "description": "Used EV Battery Health Check: SoH Buying Guide sigortahaber.com"
-        },
-        {
-          "title": "How 800V Electrical Architecture Makes Electric Cars Charge Faster - Analytics Insight",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWlp5NnJiR3hldDlCWmkycWtTSFZXWUNlVE5YTkpnT3hmVUtQQnAyZEl1VkdwVnlhSGtZUDlPMThyNU1hWmhqUE5uMl96SDBhSkdyaDVVX2w0eUQtMm43NUlrZjJ2djhUREx3WXR1MDZyVVJFc0VjRmpId3J4TkROVUo4Q3V2bXVjY04tNmFoWEN0Wi1xQ0t4MURDbmwxSVd2QmtFTmhLbWZuRy1YNnc40gG8AUFVX3lxTE1FZGdhVDJpai1QWDM2QVRsc21zTHR4eE5ZMU1Zd2tfNW15M2pKbmdNODhsaWIwNTlyRFA0MUtSeUdxZTd4ZnJaZFRfaEtkeFlxRVNQdkUzdFpRUG9yc3JBU21ZUjNvWEFCQTZmMDFBaFQtSi1tbkxLYXlzZ0UtUGFSeF91UFhXdUZNcHlidE1iOW1RU0JENFZPUnFYMDJBUk9xSVJVVnV5a01MeEV2bzRGcThjVVh0OFhSdllQ?oc=5",
-          "pubDate": "Mon, 09 Nov 2026 14:30:00 GMT",
-          "source": "Analytics Insight",
-          "description": "How 800V Electrical Architecture Makes Electric Cars Charge Faster Analytics Insight"
         }
       ]
     },
     "robotaxi": {
-      "updatedAt": "2026-11-10T13:32:02Z",
+      "updatedAt": "2026-11-10T20:51:52Z",
       "stories": [
         {
           "title": "Tesla Cybercab Arrives at CIIE in Gold With Butterfly Doors - BASENOR - Tesla Accessories",
@@ -1537,13 +1488,6 @@
           "pubDate": "Wed, 04 Nov 2026 04:04:16 GMT",
           "source": "BASENOR - Tesla Accessories",
           "description": "Tesla Cybercab Arrives at CIIE in Gold With Butterfly Doors BASENOR - Tesla Accessories"
-        },
-        {
-          "title": "Tesla Price Forecast: Nevada Robotaxi Victory Offset by China Recall; Cybercab Launch Looms - TradingKey",
-          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQSzcwRWl0bGxyMk92Mk5YS2FkRnphbFY0MnFDSjZzQmtDSTJROVFzLUJqQ1p5dkQyTmNWZE16RU5DcTRyci1DLVlmTU03eF9vNjBHaUxHMFJNRHFKYV9MVXBvbTlXRHVSQUtPLWtXdjlvMXVxRTY2bm05aWt5REdYOHdOeE5taDVrT0k0SjMzQm8ybFFXQV80OHh5bU9wX2JkQkdTMk9kZU5NSzRvRktyaDl2Z3dwSWFWY0F6Mk5nU1lZS2tmMlJ2Q19iQjMzVXY1am5JazZpaWppeURLQUwzNmdEeGNhaGJxdnVUZmFVVW1Ccnh3YlFNOXJFWFFEM09Z?oc=5",
-          "pubDate": "Sun, 08 Nov 2026 20:11:55 GMT",
-          "source": "TradingKey",
-          "description": "Tesla Price Forecast: Nevada Robotaxi Victory Offset by China Recall; Cybercab Launch Looms TradingKey"
         },
         {
           "title": "Musk says many buyers will get their deposits back as Tesla prepares to end Cybertruck's production - Fortune",
@@ -1588,6 +1532,13 @@
           "description": "Tesla to Halt Cybertruck Production in Texas for Autonomous Taxis ForkLog"
         },
         {
+          "title": "BYD Does Many Things Better Than Tesla But It Doesn’t Matter - 24/7 Wall St.",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTVplSnBRUDkxLUlZb2hkWWZMd0h5LW1SOHY4Q3dTeDBmdm5OOW0yRmJvb0QyV3lKTGhUN0RtdzNHUENJZzFYWklhUDkzVnNvS1U1M0s1TjJnTXBFMVNlZUdsMVlHVU5tOFluUzR4OHVReFJqYUVlS1JMVG5teFdsVEtVOUh6RVJaeXN3eVpubVE0RTJTUDB6M0xqMVdxWTRQb01UeVRn?oc=5",
+          "pubDate": "Wed, 04 Nov 2026 13:45:00 GMT",
+          "source": "24/7 Wall St.",
+          "description": "BYD Does Many Things Better Than Tesla But It Doesn’t Matter 24/7 Wall St."
+        },
+        {
           "title": "Elon Musk Is Winding Down Cybertruck Production to Build Cybercabs. The Model S and Model X Already Gave Up Their Factory Space to Robots. - The Globe and Mail",
           "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNV3FrX1JWTUZOaWxtQzNKNWlWYXUzdFNfaE83WklBRUk3aFBVUktYbmRNV0RrYUJycGhIcm9mNUNIVFhIa3VPQWFWOS00YmNfS2t5THFIOE5EbjB1bFlFR09wdjFIcHFJYlZCU1NDNC02OFlzZmtYcW02ck9qcFF4VGdWMmtXdXRqZ3EzYTBwcENqWXRiLTFBR1JVRE1ZVkc4amxQalRHbkdDbXA3ekRfY0tzMks1RzNfRjY3WWJTMGdRNlFlWVBSbUF6WGVwdml3ZVRwWjE5WE04RXVnazN0U3hhQ3lPd1o1RXZtVnAtQnk2cXpTeHBPdXFHUmcwYzFKVXIzSHJNZ2dOcGtJdFFTY0VFMk1MZTl1VDA1cDdjVHR3MS1ybG4tSzdNNUFPSzdhM3l3aHJBWVVraWpYbTdqaW1TUGhWQQ?oc=5",
           "pubDate": "Sat, 07 Nov 2026 22:07:58 GMT",
@@ -1595,11 +1546,11 @@
           "description": "Elon Musk Is Winding Down Cybertruck Production to Build Cybercabs. The Model S and Model X Already Gave Up Their Factory Space to Robots. The Globe and Mail"
         },
         {
-          "title": "Tesla to Refund Cybertruck Deposits, Musk Says - Technology Org",
+          "title": "Tesla to Refund Cybertruck Deposits as Production Ends in About Eight Months - Technology Org",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTXNuclRpeW8zRkRRRWx6emZGMnY3dW9Vel9IVnoyR0g4SWU2VWlJOW5LYnN1N0JoaDI3NDAya3VXak9fT3dPWWxyX2FpeS1RcTdCWE00bVl5UnhvRlN5OUFoS0lpOENzMlAtNDEwWVM4a2RHZEdiTENjSUE1alNCa3dmWm5Ud3ZsVVZxM1JEOVpJempURVBGMTQ3eko1OU1FSmc?oc=5",
           "pubDate": "Tue, 10 Nov 2026 11:27:00 GMT",
           "source": "Technology Org",
-          "description": "Tesla to Refund Cybertruck Deposits, Musk Says Technology Org"
+          "description": "Tesla to Refund Cybertruck Deposits as Production Ends in About Eight Months Technology Org"
         },
         {
           "title": "Tesla brings production Cybercab and more to China import expo in Shanghai - Drive Tesla Canada",
@@ -1639,15 +1590,8 @@
       ]
     },
     "vehicles": {
-      "updatedAt": "2026-11-10T13:32:02Z",
+      "updatedAt": "2026-11-10T20:51:52Z",
       "stories": [
-        {
-          "title": "Electric Cars, Model S, Model 3 & Model Y - Britannica",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONUJXQV9RTVZYek1Ob3JyVFBTMzlyWjB5RHVPdXB3SVE4TTBEbExfLTd3TUtDOTJDZjU5c3hId0FVZzNKNWllc2hfT3IxZFcwaTdXaUdqLW5tMTBIZlpydk5RZ0xkOVhhd2ZucENmUnd2S2xZdDBUTkcydHZNRkU2XzNmcV9IdExEX3dBcUtUZEpObmlZeVhrY24tM1BrazlmdTEzNUU3dllPVDZ5X1E?oc=5",
-          "pubDate": "Fri, 06 Nov 2026 08:00:00 GMT",
-          "source": "Britannica",
-          "description": "Electric Cars, Model S, Model 3 & Model Y Britannica"
-        },
         {
           "title": "Future Tesla cars: Launches expected between 2026 & 2028 - TopElectricSUV",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9UOVV5a0VTMXlpS1NHaWw1QXFaYTFpX0dMWl9MWWl1NkUwalJtOVJQclgxMG5YOTZXWmRRNk1lRzlrUWJLek5Fbk1Na0ZRNl9QbktObWNNeUN1YlRESC04TC1vT3g?oc=5",
@@ -1661,13 +1605,6 @@
           "pubDate": "Sat, 07 Nov 2026 17:52:06 GMT",
           "source": "autoevolution",
           "description": "With the Model S/X and Cybertruck Gone and No New Models, Tesla Is Disappearing Before Our Very Eyes autoevolution"
-        },
-        {
-          "title": "Elon Musk Is Winding Down Cybertruck Production to Build Cybercabs. The Model S and Model X Already Gave Up Their Factory Space to Robots. - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOZk9RQ0pFU3JyTVZ0aHlUSGJSdXFFRjVsSENmQUkxWUFlLUlhUVhjWnYxX0FCbFducG1ldVBOUTNReHFMVkNPVWdiS1RWNldmM0paYW5UOVpzSlJzc3pzcVNCSWhSeTM2ZkFDX2M1TnFTbFdJSHl0XzZ5WHA3M2lYRnJwTEwzc2xTUWtKQVBFeFhZcVhJWkRYTmxWOGtKM2dyM0ViSEJKbDdmdVJaMVB2RkNhR0dXTmFxQzU3LTllZGdtdmhBUkU4WHotUGZXQWF4Mi1aSC1WRmRxTTVQV1lDbjEwWDBWOUJtUHQ5ZkJ0Q0d2clctOWJEeXVmWng2SUJkdVFTMlpVUk9FYlk?oc=5",
-          "pubDate": "Sat, 07 Nov 2026 21:41:00 GMT",
-          "source": "The Motley Fool",
-          "description": "Elon Musk Is Winding Down Cybertruck Production to Build Cybercabs. The Model S and Model X Already Gave Up Their Factory Space to Robots. The Motley Fool"
         },
         {
           "title": "Musk admits Tesla doesn't have enough talent to build more than one car at a time after exodus - Electrek",
@@ -1705,11 +1642,11 @@
           "description": "Tesla (TSLA) to end Cybertruck production next year, and it’s not just about the Cybercab Tesla Oracle"
         },
         {
-          "title": "Tesla set to wind down production of Cybertruck - KSL News",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxON1ZFZzBCN1dGS3M5MmJ3UGtXWTZ5QkVMOTFYeDdhaTBfVHg5dWc0c0ZmM0tYWGZLQVNjOHRxLUw3bnRKaTEteHpqazI1WkhDbWhFNGg5dFZRR1lIR2lJZDFvU0hsODlEaVBRa0ZtRm9UWERXVGpCVkhhVWFQYzdTbHJ1MFRXMDYtSFFCSg?oc=5",
-          "pubDate": "Fri, 06 Nov 2026 19:59:27 GMT",
-          "source": "KSL News",
-          "description": "Tesla set to wind down production of Cybertruck KSL News"
+          "title": "Elon Musk Is Winding Down Cybertruck Production to Build Cybercabs. The Model S and Model X Already Gave Up Their Factory Space to Robots. - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOZk9RQ0pFU3JyTVZ0aHlUSGJSdXFFRjVsSENmQUkxWUFlLUlhUVhjWnYxX0FCbFducG1ldVBOUTNReHFMVkNPVWdiS1RWNldmM0paYW5UOVpzSlJzc3pzcVNCSWhSeTM2ZkFDX2M1TnFTbFdJSHl0XzZ5WHA3M2lYRnJwTEwzc2xTUWtKQVBFeFhZcVhJWkRYTmxWOGtKM2dyM0ViSEJKbDdmdVJaMVB2RkNhR0dXTmFxQzU3LTllZGdtdmhBUkU4WHotUGZXQWF4Mi1aSC1WRmRxTTVQV1lDbjEwWDBWOUJtUHQ5ZkJ0Q0d2clctOWJEeXVmWng2SUJkdVFTMlpVUk9FYlk?oc=5",
+          "pubDate": "Sat, 07 Nov 2026 21:41:00 GMT",
+          "source": "The Motley Fool",
+          "description": "Elon Musk Is Winding Down Cybertruck Production to Build Cybercabs. The Model S and Model X Already Gave Up Their Factory Space to Robots. The Motley Fool"
         },
         {
           "title": "Tesla to wind down Cybertruck production as Elon Musk focuses on robotics and AI - The Guardian",
@@ -1726,11 +1663,25 @@
           "description": "Tesla to wind down Cybertruck production to focus on Cybercab Just Auto"
         },
         {
+          "title": "Tesla has a very Tesla reason for killing off its sunroof option - Business Insider",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdTNmelZqdmM1aHJzVzAzLUxDRXVfUUZmWXVKTWpRbXZzcmJUemhSNjNvWkVGWTA1Nm83LTBMYk1kdlRqNGdiTXphY2VKVGx6cF9ZVFhjanRibnd5NUR3Wi1neUQ5ODBGcjFfWkE1OHZuc3ljS2gwZFRGWFBfNGNnMlZMbVY1MHc?oc=5",
+          "pubDate": "Tue, 10 Nov 2026 16:44:00 GMT",
+          "source": "Business Insider",
+          "description": "Tesla has a very Tesla reason for killing off its sunroof option Business Insider"
+        },
+        {
           "title": "Musk Says Cybertruck Is Profitable, Explains Cancellation - Not a Tesla App",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeGV1UnBYSmtpZ1VJMFlYUFVUb1lkYkVxN2FMOUtrdUR4ZzJFRzlIN1pILVVDbzRyWXNROVdUTVJtc0x3TWdhNXRBZWRuQXZzSFppdEF4VkRKLXh4R1E4ZmdELXpKWlN5WXFBOEZORWNOd1hIQ0pxRjYwclhxYkZaeERPc0ZsRk1maWJ4T3ktUVB1NWtDTGM1cy1sUQ?oc=5",
           "pubDate": "Mon, 09 Nov 2026 21:30:00 GMT",
           "source": "Not a Tesla App",
           "description": "Musk Says Cybertruck Is Profitable, Explains Cancellation Not a Tesla App"
+        },
+        {
+          "title": "Tesla Ending Cybertruck Production Around Mid-2027 For Cybercab - teslahubs.com",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNamVxQi1ZaExBdlprZk5pckNfYzhVbVhCZTZvWFZoekpsdVhld01QNS1tbHByVnhWU0NaTFhoeGR3aDdkbk03clZISjV6TEx1dW5odVdQU2ZLbml6MFVDZmdDY2w0NVQ5VnpJRHVlU0JBcklZV0NTZVR0X0xRNS1hMFNBSWhvTnBINEdMWGhzc3ZiV3BHR0poamR2dVc?oc=5",
+          "pubDate": "Fri, 06 Nov 2026 17:04:37 GMT",
+          "source": "teslahubs.com",
+          "description": "Tesla Ending Cybertruck Production Around Mid-2027 For Cybercab teslahubs.com"
         },
         {
           "title": "Elon Musk says Tesla will stop making iconic vehicles - TheStreet",
@@ -1805,7 +1756,7 @@
       ]
     },
     "markets": {
-      "updatedAt": "2026-11-10T13:32:02Z",
+      "updatedAt": "2026-11-10T20:51:52Z",
       "stories": [
         {
           "title": "E-mini S&P 500 Futures Overview - CME Group",
@@ -1836,53 +1787,11 @@
           "description": "Tech trusts tumble in global AI sell off as Nasdaq crashes 5.5% and Japan's Nikkei slides 6% into a \"bear\" market QuotedData"
         },
         {
-          "title": "Nikkei 225 (^N225) charts, data and news - Yahoo Finance UK",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LV2g1WXZqSlR5YmhCZ09NUzlqY1RrNWpnZFNCQm0wU3Yta3NIOHFnY09VSTdldWQtbmQwU0p1NzdpUUhqV0xWSkIwTGM2a0ZGRXoyNm9B?oc=5",
-          "pubDate": "Mon, 09 Nov 2026 23:51:30 GMT",
-          "source": "Yahoo Finance UK",
-          "description": "Nikkei 225 (^N225) charts, data and news Yahoo Finance UK"
-        },
-        {
-          "title": "FTSE 100 today falls as global tech sell-off spreads from Wall Street to Asia and Europe - Beinsure",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBvSzFWVXhMbm5MTEpBNUo3dG9DbmFVRGpvZVVqQTlCeTFFRFR6VzVCOTE3TklZd0g4bl85cUI4bm1wbXAzWWxGZ0pFNFlqWTQ4LU5QQTZ3am5GZHZIcGdlSTVwQmtiVzhjRm5TLW9ERDdoQQ?oc=5",
-          "pubDate": "Fri, 06 Nov 2026 11:50:42 GMT",
-          "source": "Beinsure",
-          "description": "FTSE 100 today falls as global tech sell-off spreads from Wall Street to Asia and Europe Beinsure"
-        },
-        {
-          "title": "World markets bounce back after a recovery for AI stocks on Wall Street - hngnews.com",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOcThwV0psOVpYMnliU2x0WXlIc3FQOXQ3MmQ0cVVvSXFEOXdfVDN4R0h1RGN3NFB5a0NfNGxSUFphZTlUZ2xTalVDb09qVjBfbHpyU0xNc3F6MzZ6NTg0X0pwZVVKUldZT1I2R0FZZXdiY25CSDZxS2d4X2s3TWU3Vjdjbm5CUHpqTWkwS1pBN0ZxVUR6Zm1uVW1CMDBHcE1UNGprZWk0NGFmbC13SWt2WDRUMkJfNVhOcU8wd0xZbm54T0s1RWcwMGdtQVFRWHd4aHFoMW5CMFBwV0ZSWHF4MzRna2pLYWg1QnI4Vld3?oc=5",
-          "pubDate": "Mon, 09 Nov 2026 09:20:15 GMT",
-          "source": "hngnews.com",
-          "description": "World markets bounce back after a recovery for AI stocks on Wall Street hngnews.com"
-        },
-        {
-          "title": "Huge AI stock selloff sends Wall Street reeling as S&P 500 tumbles 4.4% - CommBank",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObklSZnhYUU1hNzlEUDhqWlIxMkFsdkVsdjVRSDFZNUIwcG5hSGtkcXctb3piTUpXVzlUMGItR3NQQ0EyQjV6dUZOM0pqbnRBWjZwMkgyTXJEeTh1MGJtc0p6b0ZlbXR5QW1OcDdPZkh3X0xBRzU4c1dYclNORF9jNGtPbHRYdGJOLWp5eW5uTW45ZzBZdWdHaWVoV2swdjFMck9V?oc=5",
-          "pubDate": "Thu, 05 Nov 2026 21:56:42 GMT",
-          "source": "CommBank",
-          "description": "Huge AI stock selloff sends Wall Street reeling as S&P 500 tumbles 4.4% CommBank"
-        },
-        {
-          "title": "Nikkei (JPY) Overview - CME Group",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUXhmUXM2OUlEaFFkcGgxb2VScmpiR0JSY0RKc0ZoT2VGWHF6RXRHcWR1b05jVFI4SGh1TzBwMVRTVGVVSTVSVVFKUDhfbXhlcFJKbGRMblBzSGFUdGpDVnlTcmFDQi1YTU12WGk4ZE1wVHBKRTloVF9YQ1NpMHNQS2ZSM01ONUJsbHNr?oc=5",
-          "pubDate": "Fri, 06 Nov 2026 08:00:00 GMT",
-          "source": "CME Group",
-          "description": "Nikkei (JPY) Overview CME Group"
-        },
-        {
-          "title": "Global stocks fall amid ‘big worries over AI’ after Democrats’ midterms triumph | Stock markets - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUk01aHk3MkRMSGk4UWdNN19aTnNuaEV1MEpvNGtXdUViNmsyTk84OFNEVktLbjlpV2FEQ1FhYi1lenJjTkh1eEpCUG1YODk1NFI0dlBZTXd5VlpSM2ZqSEtfZWVxTU9iYVpDaGI0YTF3cjhvc0R6a0JuUmxVNGJkb3JHOFN1NUFhaXpSM296Z2JRdWFiNVZ4SHBiS2NiNU9KbnR0VnA4RWwxMmJ3NjhtSEIwcWFscFBGX2xKdkN3bzNVdw?oc=5",
-          "pubDate": "Fri, 06 Nov 2026 08:58:00 GMT",
-          "source": "The Guardian",
-          "description": "Global stocks fall amid ‘big worries over AI’ after Democrats’ midterms triumph | Stock markets The Guardian"
-        },
-        {
-          "title": "E-mini Dow Jones Industrial Average Index Futures Overview - CME Group",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAzb1VDWlpPUTF5UXp6RVl3aWNxNUU2YURIdHhOWW1EV2pCMWdNV1k0MzJTVmxRWjAzS1YyRmF4MlZkbEpwM0xoYXJxMDZEZEYyTGZZaEo5Nm5tZllkYlEwWk1nNmRiNEpVekxoMjhQZDFxRWM3VUE?oc=5",
-          "pubDate": "Fri, 06 Nov 2026 08:00:00 GMT",
-          "source": "CME Group",
-          "description": "E-mini Dow Jones Industrial Average Index Futures Overview CME Group"
+          "title": "Global Stocks Rally as Oil Falls Below $90 - STL.News",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9PWW03WTc1VU1EOVZMSlBhdmlGY0RYZXJMOU5mVXB4eThqUlpieDk3U3doSEswVkgwQXFobkRNejBpUDNTeVBGOVdFUkljMXU4NllVZzJqZWNrY2xISXBLaktpOVpyYVBBWGpBcjNPUWk?oc=5",
+          "pubDate": "Tue, 10 Nov 2026 13:41:31 GMT",
+          "source": "STL.News",
+          "description": "Global Stocks Rally as Oil Falls Below $90 STL.News"
         },
         {
           "title": "Global stocks plunge over AI fears after US midterm elections - Helsinki Times",
@@ -1892,11 +1801,53 @@
           "description": "Global stocks plunge over AI fears after US midterm elections Helsinki Times"
         },
         {
+          "title": "Nikkei (JPY) Overview - CME Group",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUXhmUXM2OUlEaFFkcGgxb2VScmpiR0JSY0RKc0ZoT2VGWHF6RXRHcWR1b05jVFI4SGh1TzBwMVRTVGVVSTVSVVFKUDhfbXhlcFJKbGRMblBzSGFUdGpDVnlTcmFDQi1YTU12WGk4ZE1wVHBKRTloVF9YQ1NpMHNQS2ZSM01ONUJsbHNr?oc=5",
+          "pubDate": "Fri, 06 Nov 2026 08:00:00 GMT",
+          "source": "CME Group",
+          "description": "Nikkei (JPY) Overview CME Group"
+        },
+        {
+          "title": "World markets bounce back after a recovery for AI stocks on Wall Street - WANE 15",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZXllckVzb19mcTlEQ1AtZ1ZraEl1Yl9GT3V2V2U0SVpNYjNSamJfRmQ1bWd3VDBLcE5BT0RYSTU2U2k5RzRMaHNaTnh0LW9iVklmT0ZIdGlDYVp1NDlBd0o3SWR2Qm5vVFBvblNJV0R5MFZJWHRaY3BtUDZXWDVVODFoQTlIb3dDal9QVGdrUEc2dUJlem1MQ2Z5MWJhU1dXZFVURTJZdmdLTTdlcmJjNmZsbXdfYjVkRUFyU3ZBRTBWS3lu0gHEAUFVX3lxTE1leWVyRXNvX2ZxOURDUC1nVmtoSXViX0ZPdXZXZTRJWk1iM1JqYl9GZDVtZ3dUMEtwTkFPRFhJNTZTaTlHNExoc1pOeHQtb2JWSWZPRkh0aUNhWnU0OUF3SjdJZHZCbm9UUG9uU0lXRHkwVklYdFpjcG1QNldYNVU4MWhBOUhvd0NqX1BUZ2tQRzZ1QmV6bUxDZnkxYmFTV1dkVVRFMll2Z0tNN2VyYmM2Zmxtd19iNWRFQXJTdkFFMFZLeW4?oc=5",
+          "pubDate": "Mon, 09 Nov 2026 04:20:15 GMT",
+          "source": "WANE 15",
+          "description": "World markets bounce back after a recovery for AI stocks on Wall Street WANE 15"
+        },
+        {
+          "title": "Global stocks fall amid ‘big worries over AI’ after Democrats’ midterms triumph | Stock markets - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUk01aHk3MkRMSGk4UWdNN19aTnNuaEV1MEpvNGtXdUViNmsyTk84OFNEVktLbjlpV2FEQ1FhYi1lenJjTkh1eEpCUG1YODk1NFI0dlBZTXd5VlpSM2ZqSEtfZWVxTU9iYVpDaGI0YTF3cjhvc0R6a0JuUmxVNGJkb3JHOFN1NUFhaXpSM296Z2JRdWFiNVZ4SHBiS2NiNU9KbnR0VnA4RWwxMmJ3NjhtSEIwcWFscFBGX2xKdkN3bzNVdw?oc=5",
+          "pubDate": "Fri, 06 Nov 2026 08:58:00 GMT",
+          "source": "The Guardian",
+          "description": "Global stocks fall amid ‘big worries over AI’ after Democrats’ midterms triumph | Stock markets The Guardian"
+        },
+        {
+          "title": "E-mini Nasdaq-100 Futures Overview - CME Group",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9INWpoQUV1eVdIb2NTb09PcGhONVdRZjlfQUxwV3ByMUFkUGxjYlBHSi1NaDhqS0FjVGVpT0o5TjlqN1ZQN0g3ZDBFMW9qMk9WWGxsRURPRkY0SUNiQlFVZkhCMGtJbU1YMjlEblZYeXkxWW43NVNmTkNORQ?oc=5",
+          "pubDate": "Fri, 06 Nov 2026 08:00:00 GMT",
+          "source": "CME Group",
+          "description": "E-mini Nasdaq-100 Futures Overview CME Group"
+        },
+        {
+          "title": "E-mini Dow Jones Industrial Average Index Futures Overview - CME Group",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAzb1VDWlpPUTF5UXp6RVl3aWNxNUU2YURIdHhOWW1EV2pCMWdNV1k0MzJTVmxRWjAzS1YyRmF4MlZkbEpwM0xoYXJxMDZEZEYyTGZZaEo5Nm5tZllkYlEwWk1nNmRiNEpVekxoMjhQZDFxRWM3VUE?oc=5",
+          "pubDate": "Fri, 06 Nov 2026 08:00:00 GMT",
+          "source": "CME Group",
+          "description": "E-mini Dow Jones Industrial Average Index Futures Overview CME Group"
+        },
+        {
           "title": "World shares rise after technology shares advance on Wall Street ahead of U.S. inflation data - BNN Bloomberg",
           "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxONW1QUFN0dmxxRy1sZTBVcndMMkw1c1Bwd3hrOWZOS1hhV1N0ODZyemJhMHVPR2hqMjdmaEY0YXEzU0xVekU0OUNtSEYxRWkwcDV2ODJUdjc3SGtzTE03bFA5VlBERFNjc3JoNm95M0ltaE12R0hvWGd4RnF5THg5MlR3cGdMZ0tFd1BfNlZwQkZvZWVQRGhHbEs5WW1iT3lwT1VKUjVpQnZtY0FJRk5QaV9OZW1zQ1pPWl9XS2pGcXpTZDhRS1p0QjdfZ2M0UTByeGRDN3l4Y3NvRXR2S1dYcVdSMA?oc=5",
           "pubDate": "Tue, 10 Nov 2026 11:32:39 GMT",
           "source": "BNN Bloomberg",
           "description": "World shares rise after technology shares advance on Wall Street ahead of U.S. inflation data BNN Bloomberg"
+        },
+        {
+          "title": "STI Index (^STI) charts, data and news - Yahoo Finance Singapore",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2RVVLTWwwbXljUFZNNGZEZlhya3NDbXp1YmFyaUNrNW42VDV5WjEzcE0weWVGdDZ2NkVfTGFLVTQxR3lERlRmeG9ENnNLU0JRUUowdg?oc=5",
+          "pubDate": "Tue, 10 Nov 2026 10:03:04 GMT",
+          "source": "Yahoo Finance Singapore",
+          "description": "STI Index (^STI) charts, data and news Yahoo Finance Singapore"
         },
         {
           "title": "FTSE 100 set to rise as US-Iran peace hopes lift global markets - Share Talk",
@@ -1906,11 +1857,25 @@
           "description": "FTSE 100 set to rise as US-Iran peace hopes lift global markets Share Talk"
         },
         {
+          "title": "Stock Market Today: S&P 500 Slips 0.49% and Nasdaq 0.61% at the Open as 10-Year Yield Climbs to 4.96% - JournalArta",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPU3BWeWlSYnI5X0pVR0VQSkZiY1NoMW0yZDhDdTlodVMyMXJtREFtWmJib1Y5SDBKRV9LUkEzeXNlakVyekQxVkJhUUliQzFtZGVudEFXdHZKem1xUHF2ZDlKWUdzb29pS2JTbVVBcGtaa09nZHFGdVhWSHNtYUtPdGlkajg5UTRSRm9UTGpWTTMyQU1HdzQ3S190Qm1lb1VlZURqazFETUpBWmd0NTR0blVNZExveGxMbjRNdUxFQlBMaElqV09hbHZKRDd3a2FP?oc=5",
+          "pubDate": "Tue, 10 Nov 2026 14:45:11 GMT",
+          "source": "JournalArta",
+          "description": "Stock Market Today: S&P 500 Slips 0.49% and Nasdaq 0.61% at the Open as 10-Year Yield Climbs to 4.96% JournalArta"
+        },
+        {
           "title": "Trillions wiped off stock markets as FTSE, NASDAQ, and Nikkei 225 all fall - AOL.co.uk",
           "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcnlKSWxEYzZPVlNleGNuVDRBUkNMb1N5YUE2Yy1tOG1FVUpLTGlERENEMlI3NXZqQkNhRG13SHVacUhGRUk0OTdiTjY5bExvQkVhRGkzTjVrNnFkVFFMSDM4dndpX3F3S19xYlhVM3Y3U0FZdHpQb3RuTDY5bENYbzlnMkZXdw?oc=5",
           "pubDate": "Fri, 06 Nov 2026 06:35:00 GMT",
           "source": "AOL.co.uk",
           "description": "Trillions wiped off stock markets as FTSE, NASDAQ, and Nikkei 225 all fall AOL.co.uk"
+        },
+        {
+          "title": "2.45pm Markets Update - RTE.ie",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8zaklLbmI2OC1vTWl0OFlaZkdjWGdLbm1kNjJIYWVrWDJ1SGJ4ZUMzV2NSYnUzaDBGZDVaemhaU0tsTGhNTi02VDQxVlZUcldV?oc=5",
+          "pubDate": "Tue, 10 Nov 2026 18:57:40 GMT",
+          "source": "RTE.ie",
+          "description": "2.45pm Markets Update RTE.ie"
         },
         {
           "title": "Morning Wrap: ASX 200 to rally, S&P 500 and Nasdaq post best day since April on chip rebound - Market Index",
@@ -1920,13 +1885,6 @@
           "description": "Morning Wrap: ASX 200 to rally, S&P 500 and Nasdaq post best day since April on chip rebound Market Index"
         },
         {
-          "title": "9am Markets Update - RTE.ie",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8zaklLbmI2OC1vTWl0OFlaZkdjWGdLbm1kNjJIYWVrWDJ1SGJ4ZUMzV2NSYnUzaDBGZDVaemhaU0tsTGhNTi02VDQxVlZUcldV?oc=5",
-          "pubDate": "Tue, 10 Nov 2026 11:56:23 GMT",
-          "source": "RTE.ie",
-          "description": "9am Markets Update RTE.ie"
-        },
-        {
           "title": "Nikkei 225 Today: Index Jumps 3.37% to 59,368.2 in Tokyo - JournalArta",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWGVEaXRPRks4SENGMzl4QUZncHRJVFVCLS0ySHNRdlJod2RLdFYtSjBPdG5IcEF2Nm9aNGlZOVFiRGVuS1FyOGlBS19STFJBbjNEUk1fTjRmWVhIajFTeVBwb0RrRjlQWVE4WDBKRE9iLXRDQnhLNzh5N3hZUzUxUFdJNG1mdGYyMkxBREsxMjdFeTJOZ1ZwRnlVX0xPMXM1OWc3ZkptWjgwZlBteXVGVzM3bw?oc=5",
           "pubDate": "Mon, 09 Nov 2026 04:12:25 GMT",
@@ -1934,15 +1892,8 @@
           "description": "Nikkei 225 Today: Index Jumps 3.37% to 59,368.2 in Tokyo JournalArta"
         },
         {
-          "title": "IHSG Close: Jakarta Composite Jumps 1.54% to 5,128.35 as LQ45 Gains 0.89% - JournalArta",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQ29fbHlxYmRvQUlSYUlNd1V1cUVmRnZDeGFFeU9yaFZwcHVzM1pSMTFRWTJ4UWowRTlKakd4SWtHT3c0LUNHVHBjX3UtNUdMay1iUVZKanVPRGVsY2JyOWV5WjF4eVJVZXVsd09sYnJNSlZnQ3lLQ2x1UF9XVjJOTWlJYlhpeGZ0NW02SlZwME9tYThMblU2VHhNZW54LWpFYWhvU1REakpGdXha?oc=5",
-          "pubDate": "Tue, 10 Nov 2026 09:19:26 GMT",
-          "source": "JournalArta",
-          "description": "IHSG Close: Jakarta Composite Jumps 1.54% to 5,128.35 as LQ45 Gains 0.89% JournalArta"
-        },
-        {
           "title": "Recession fears soar after global markets crash - FTSE, NASDAQ and Nikkei 225 down - Daily Express",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVVFRYTE0a01OdUo4czRjQ25lOGtITExCOS1UVkFsR2FKbTdveXVLa2Ztc2R2NkppdlRtT01rTHJTbHZjNTQ5bFAyM1VBcExSaUJoSms1SUl2Y1NoV1BZVHR1NnJ0YUFha0lWTDZ5NDlmZ3R4ZlA5NERzTFNXRjlGR21oRUlEWUxfUXJEYlUyNjhvVkc0Y0VrM0VR0gGfAUFVX3lxTE5iU2xlN1VhVHlFdW1LY2FRZVFDMEU1S1BOdmVIY1FsQXNMM2ZXWmNCclk3dFZtSktFR01Jb2FYR3F3M1c3SjdoRFdrWkQwVDdCM2lQRndnQ19iUTdxOVMzcENmMm1Vamo2MHUxeHdKMTQ4SzJreVBhck1sSTVMeFFIZ2ZkcW9sYVl2RFZrX1l2OHQxWkYzczhDWXdxZ2Rhdw?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVVFRYTE0a01OdUo4czRjQ25lOGtITExCOS1UVkFsR2FKbTdveXVLa2Ztc2R2NkppdlRtT01rTHJTbHZjNTQ5bFAyM1VBcExSaUJoSms1SUl2Y1NoV1BZVHR1NnJ0YUFha0lWTDZ5NDlmZ3R4ZlA5NERzTFNXRjlGR21oRUlEWUxfUXJEYlUyNjhvVkc0Y0VrM0VR?oc=5",
           "pubDate": "Fri, 06 Nov 2026 05:51:00 GMT",
           "source": "Daily Express",
           "description": "Recession fears soar after global markets crash - FTSE, NASDAQ and Nikkei 225 down Daily Express"
@@ -1954,7 +1905,7 @@
       "stories": []
     },
     "safety": {
-      "updatedAt": "2026-11-10T13:32:02Z",
+      "updatedAt": "2026-11-10T20:51:52Z",
       "stories": [
         {
           "title": "Tesla to End Cybertruck Production After Safety Recalls and Falling Sales - Law Commentary",
@@ -1999,11 +1950,18 @@
           "description": "They're freaky to see and they're in metro Detroit: The Tesla Cybercab Detroit Free Press"
         },
         {
-          "title": "Man Summons His Tesla In The Parking Lot. The Move Backfires: ‘DON’T TRUST TESLA SUMMON’ - Motor1.com",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9jNTZtSHYwdlBpYTJ6UjdpNUEyNlVndnN0bUs4RVJNdnZSNVVMN3NvaXZXelY3LXpjVVc5YWN5ODZsOFhpM3M4ekVoaTgyODJQek5zUUlVQXRwQVl3SHlmNzk5UHBUa1Bv?oc=5",
-          "pubDate": "Mon, 09 Nov 2026 08:29:02 GMT",
-          "source": "Motor1.com",
-          "description": "Man Summons His Tesla In The Parking Lot. The Move Backfires: ‘DON’T TRUST TESLA SUMMON’ Motor1.com"
+          "title": "NHTSA Investigating Ford Explorer Side Airbags Causing Severe Burns - Yahoo Autos",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVDFPNjZFdUdEQ2ZJbmd1NzRCNDBuY0cxRE5wblZ2ckY3SnJRc21wMlQtUEJLUUxRSlpZbzZNSFdjMEM0VWgxUFJSVGdacXpra21sYllkUVY2MW01TWV2eEl2VVVwVjRiUGM5dC1wX3BQSnBrbjNFMVllTU10UUxWRDFzQ1NhVmVCcWNVQ2JacnJFVGh5Z1I4RXdfQUdGYy13MWRMMkRGSWQ?oc=5",
+          "pubDate": "Tue, 10 Nov 2026 18:01:00 GMT",
+          "source": "Yahoo Autos",
+          "description": "NHTSA Investigating Ford Explorer Side Airbags Causing Severe Burns Yahoo Autos"
+        },
+        {
+          "title": "Faulty software? Waymo faces potential new recall - electrive.com",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWHhqZDVnMzUwVlVfSFdhS0dmSkctWjNMOE9rbG9hOUhRbTBDUzZLLTRfRmJjWXg2aWhSOEVLeURoMkotRmROeXEzYWpVUjlnRVpfWHdTNGFxRkpnaFcwRUIxUUo0bzhudkJQLUZZcTJCTnY4Zm95VEt5R3laT0lIRGlRVFhCWnRhVFZUMklYdw?oc=5",
+          "pubDate": "Tue, 10 Nov 2026 15:00:00 GMT",
+          "source": "electrive.com",
+          "description": "Faulty software? Waymo faces potential new recall electrive.com"
         },
         {
           "title": "Waymo Robotaxis Face NHTSA Recall Query After School Bus Passes Continued Post-Software-Fix - Technology Org",
@@ -2013,25 +1971,18 @@
           "description": "Waymo Robotaxis Face NHTSA Recall Query After School Bus Passes Continued Post-Software-Fix Technology Org"
         },
         {
-          "title": "Waymo Faces Fresh Federal Probe as Robotaxis Keep Blowing Past Stopped School Buses - Yahoo Autos",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT2U3a3BsdjhPLXozSGxNTGYxclQwTUlac2ZFZzQ5cGNPQVA3ZlBaSURqREhtTDRXX3ZkN1ByUUtGTE1haGpLWHlEM01tV1NqTTBFbmQwbXpZTHZHRE41SGVWLUtlNnVpZjFmSmh3cFFYZDUteU5kLW41bzdETXVfSXpVUmozTGt3bnhOVklXNjhSTXdvUktwMmxPRG5XZkR4ZDBrNQ?oc=5",
-          "pubDate": "Mon, 09 Nov 2026 21:23:49 GMT",
-          "source": "Yahoo Autos",
-          "description": "Waymo Faces Fresh Federal Probe as Robotaxis Keep Blowing Past Stopped School Buses Yahoo Autos"
-        },
-        {
-          "title": "NHTSA upgrades Waymo school bus probe, says most incidents came after software fix - Drive Tesla Canada",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNN204b00xTUdEeUdRRjZsa2RnU3Rhb19WQ296UWVIQnBjR0V3VXc2N2ltTmluNk9XM2VsOFF5S1AyUjhBN0N4ZE80dTlZT0FBd0VmY3N3aVBhdTFyc2M1TlMwdmZORy1ZcEZoOHRMS010NnBKbzlLUkl3bGd2VV9tMkZ6TQ?oc=5",
-          "pubDate": "Mon, 09 Nov 2026 21:24:37 GMT",
-          "source": "Drive Tesla Canada",
-          "description": "NHTSA upgrades Waymo school bus probe, says most incidents came after software fix Drive Tesla Canada"
-        },
-        {
           "title": "Musk Confirms: Texas Plant to End Cybertruck Production Mid-Next Year, Pivoting Fully to Cybercab Robotaxis - BigGo Finance",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0zSVdYZzBKdzQ2WTl1Q0JTS3U2QWxSd0pXZ1dlbWs3dk9saXBNSjNscEpnNHIwRFRKNWp4akhoM3RYRldQNnVVc2NVaUJIdDVfTzB3QUxRMlAxangtbnl6TmRIdnlUSWVOYjhEX2dqVzRKRzlGZVE?oc=5",
           "pubDate": "Fri, 06 Nov 2026 07:59:05 GMT",
           "source": "BigGo Finance",
           "description": "Musk Confirms: Texas Plant to End Cybertruck Production Mid-Next Year, Pivoting Fully to Cybercab Robotaxis BigGo Finance"
+        },
+        {
+          "title": "Waymo Faces Fresh Federal Probe as Robotaxis Keep Blowing Past Stopped School Buses - Yahoo Autos",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT2U3a3BsdjhPLXozSGxNTGYxclQwTUlac2ZFZzQ5cGNPQVA3ZlBaSURqREhtTDRXX3ZkN1ByUUtGTE1haGpLWHlEM01tV1NqTTBFbmQwbXpZTHZHRE41SGVWLUtlNnVpZjFmSmh3cFFYZDUteU5kLW41bzdETXVfSXpVUmozTGt3bnhOVklXNjhSTXdvUktwMmxPRG5XZkR4ZDBrNQ?oc=5",
+          "pubDate": "Mon, 09 Nov 2026 21:23:49 GMT",
+          "source": "Yahoo Autos",
+          "description": "Waymo Faces Fresh Federal Probe as Robotaxis Keep Blowing Past Stopped School Buses Yahoo Autos"
         }
       ]
     }
